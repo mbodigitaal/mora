@@ -614,13 +614,13 @@
           target="cf0d1e6c-e8f5-4cf0-9b45-5bd0235f22ca">
         <bendpoints
             startX="6"
-            startY="162"
+            startY="150"
             endX="420"
-            endY="162"/>
+            endY="165"/>
         <bendpoints
             startX="-414"
-            startY="162"
-            endY="162"/>
+            startY="150"
+            endY="165"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_8ea5f814-137c-4c7c-94a6-aef6e0a2def0.xml#8ea5f814-137c-4c7c-94a6-aef6e0a2def0"/>
