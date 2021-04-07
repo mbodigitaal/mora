@@ -690,9 +690,9 @@
           href="RealizationRelationship_id-551c7a648c7a42f39812b7bf57a71f81.xml#id-551c7a648c7a42f39812b7bf57a71f81"/>
     </sourceConnections>
     <bounds
-        x="691"
+        x="660"
         y="936"
-        width="120"
+        width="205"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"

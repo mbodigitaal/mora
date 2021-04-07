@@ -793,8 +793,8 @@
           href="RealizationRelationship_id-10d9295d69ec452d82dba1354c22ce11.xml#id-10d9295d69ec452d82dba1354c22ce11"/>
     </sourceConnections>
     <bounds
-        x="2640"
-        y="846"
+        x="2304"
+        y="816"
         width="120"
         height="55"/>
     <archimateElement
@@ -806,8 +806,8 @@
       id="id-fdb8ee6023e24706b45ce3e979b65512"
       targetConnections="id-61c4da0599044078a9f87da78c3f614d">
     <bounds
-        x="2640"
-        y="678"
+        x="2292"
+        y="648"
         width="120"
         height="55"/>
     <archimateElement
