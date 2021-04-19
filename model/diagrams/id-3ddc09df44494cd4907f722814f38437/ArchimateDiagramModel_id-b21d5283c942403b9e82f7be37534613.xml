@@ -1499,17 +1499,6 @@
         href="BusinessProcess_53be1121-ba0d-4ea7-92de-9307b48ab61f.xml#53be1121-ba0d-4ea7-92de-9307b48ab61f"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-98ea636a092b4070aa27cb2431e57752"
-      textAlignment="1"
-      content="Opmaak, as is services en applicaties">
-    <bounds
-        x="1740"
-        y="234"
-        width="169"
-        height="181"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2b2d03bc16794511b3361cacfb531cd4">
     <sourceConnections
@@ -1565,7 +1554,7 @@
           href="RealizationRelationship_id-7efd9b14211947b386337afcddc019a4.xml#id-7efd9b14211947b386337afcddc019a4"/>
     </sourceConnections>
     <bounds
-        x="1260"
+        x="1374"
         y="312"
         width="145"
         height="115"/>
@@ -1578,6 +1567,15 @@
           id="id-82929ba70cbe4621857fb686a61c5a1a"
           source="id-6905e8e9545b47dea053cfe9307eb7ef"
           target="id-bf119e501e8b4ce4b0fb3d77a40063d5">
+        <bendpoints
+            startX="-6"
+            startY="-231"
+            endX="96"
+            endY="63"/>
+        <bendpoints
+            startX="-102"
+            startY="-231"
+            endY="63"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_id-68773dceeb5b4e9ab62b8505f0343665.xml#id-68773dceeb5b4e9ab62b8505f0343665"/>
