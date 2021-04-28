@@ -1191,7 +1191,7 @@
     </sourceConnections>
     <bounds
         x="1248"
-        y="720"
+        y="738"
         width="120"
         height="55"/>
     <archimateElement
@@ -1207,6 +1207,16 @@
         id="5ad4c450-a21f-4dc8-bf33-9edeef9d67b3"
         source="1da730e4-312a-46a4-9245-efb310d891e8"
         target="22558edf-6320-4589-a9d2-5cf2a536155c">
+      <bendpoints
+          startX="72"
+          startY="3"
+          endX="-96"
+          endY="57"/>
+      <bendpoints
+          startX="132"
+          startY="3"
+          endX="-36"
+          endY="57"/>
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_cec0eace-8c69-4cd5-9597-7e2e34929c65.xml#cec0eace-8c69-4cd5-9597-7e2e34929c65"/>
@@ -1229,6 +1239,20 @@
         id="4c01dc1b-4f9e-4ea3-9546-a67d7542492a"
         source="12eeb018-d53d-4ac9-bb02-7518c97d92de"
         target="22558edf-6320-4589-a9d2-5cf2a536155c">
+      <bendpoints
+          startX="96"
+          startY="-3"
+          endX="-516"
+          endY="129"/>
+      <bendpoints
+          startX="156"
+          startY="-51"
+          endX="-456"
+          endY="81"/>
+      <bendpoints
+          startX="612"
+          startY="-63"
+          endY="93"/>
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-3d2c4984c74a40d8953809eff3253615.xml#id-3d2c4984c74a40d8953809eff3253615"/>
@@ -1266,7 +1290,7 @@
     </sourceConnections>
     <bounds
         x="109"
-        y="624"
+        y="648"
         width="120"
         height="55"/>
     <archimateElement
@@ -1296,8 +1320,8 @@
           href="AssociationRelationship_bce8f869-1ef1-49ad-a971-e4798cb5e511.xml#bce8f869-1ef1-49ad-a971-e4798cb5e511"/>
     </sourceConnections>
     <bounds
-        x="337"
-        y="618"
+        x="336"
+        y="690"
         width="120"
         height="55"/>
     <archimateElement
@@ -1332,7 +1356,7 @@
     </sourceConnections>
     <bounds
         x="840"
-        y="660"
+        y="636"
         width="120"
         height="55"/>
     <archimateElement
@@ -1358,7 +1382,7 @@
       targetConnections="e1f12afb-baee-49e9-b4a9-d4f5d0dac341">
     <bounds
         x="1080"
-        y="744"
+        y="774"
         width="120"
         height="73"/>
     <archimateElement
