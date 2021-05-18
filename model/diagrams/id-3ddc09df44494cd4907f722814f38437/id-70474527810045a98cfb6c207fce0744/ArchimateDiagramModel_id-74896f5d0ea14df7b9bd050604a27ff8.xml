@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Onderwijslogistiek - Rene - Frans"
+    name="Onderwijslogistiek - Businessobjecten"
     id="id-74896f5d0ea14df7b9bd050604a27ff8">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1076,8 +1076,8 @@
       targetConnections="id-3a8b3596ea5644dd951ff2b4fb3e2cd2"
       fillColor="#ff8040">
     <bounds
-        x="216"
-        y="192"
+        x="-1332"
+        y="552"
         width="120"
         height="55"/>
     <archimateElement
