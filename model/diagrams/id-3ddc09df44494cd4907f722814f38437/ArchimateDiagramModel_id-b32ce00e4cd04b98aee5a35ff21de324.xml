@@ -488,7 +488,7 @@
           href="ServingRelationship_id-910175eb40664c548f1ee2c16a8deded.xml#id-910175eb40664c548f1ee2c16a8deded"/>
     </sourceConnections>
     <bounds
-        x="655"
+        x="631"
         y="768"
         width="186"
         height="55"/>
@@ -554,7 +554,7 @@
           href="ServingRelationship_id-4f460026df5342b2aab8dcc89c068de7.xml#id-4f460026df5342b2aab8dcc89c068de7"/>
     </sourceConnections>
     <bounds
-        x="876"
+        x="852"
         y="768"
         width="120"
         height="55"/>
@@ -671,7 +671,7 @@
           href="RealizationRelationship_id-007951296ff64148ac4734246c134e27.xml#id-007951296ff64148ac4734246c134e27"/>
     </sourceConnections>
     <bounds
-        x="864"
+        x="852"
         y="936"
         width="120"
         height="55"/>
@@ -692,7 +692,7 @@
           href="RealizationRelationship_id-551c7a648c7a42f39812b7bf57a71f81.xml#id-551c7a648c7a42f39812b7bf57a71f81"/>
     </sourceConnections>
     <bounds
-        x="636"
+        x="612"
         y="936"
         width="205"
         height="55"/>
@@ -795,7 +795,7 @@
           href="RealizationRelationship_id-cda2e66169f6456cb13637de08c0c770.xml#id-cda2e66169f6456cb13637de08c0c770"/>
     </sourceConnections>
     <bounds
-        x="1044"
+        x="1027"
         y="936"
         width="120"
         height="55"/>
@@ -816,8 +816,8 @@
           href="RealizationRelationship_id-10d9295d69ec452d82dba1354c22ce11.xml#id-10d9295d69ec452d82dba1354c22ce11"/>
     </sourceConnections>
     <bounds
-        x="2375"
-        y="840"
+        x="2136"
+        y="936"
         width="169"
         height="55"/>
     <archimateElement
@@ -829,8 +829,8 @@
       id="id-a3c524d46adc4594bef7f14048a16d05"
       targetConnections="id-ef8ac31cd3d24e00b6cf6df1e20a4ced">
     <bounds
-        x="2388"
-        y="672"
+        x="2149"
+        y="768"
         width="132"
         height="55"/>
     <archimateElement
