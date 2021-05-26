@@ -1592,9 +1592,9 @@
       content="Opmaak, as is services en applicaties">
     <bounds
         x="1728"
-        y="240"
+        y="204"
         width="169"
-        height="181"/>
+        height="217"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1732,12 +1732,12 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-bfbf105967a240168184c03f8eb30797"
       textAlignment="1"
-      content="Elmar:&#xD;&#xA;- Heeft elk deelproces een service nodig? (check afname condities?!)&#xD;&#xA;- Generieke service versus processpecifiek? &#xD;&#xA;   (Toets- of examen planning en inschrijving --> Planning en inschrijving?)&#xD;&#xA;   (Toets-of examen inleveren --> Bestand inlevering)&#xD;&#xA;  Voor de service studentinformatiepublicatie doen we dat wel.&#xD;&#xA;- Het deelproces 'Vastsstellen resultaat' omvat ook analyse over het geheel (wijken resultaten af?, hoe is het t.o.v. vorige jaren? etc.) Dit heeft nu geen plek in zowel het proces als de services! Gaat dit te ver om op te nemen?&#xD;&#xA;&#xD;&#xA;Studentapp versus SIS">
+      content="Elmar:&#xD;&#xA;- Heeft elk deelproces een service nodig? (check afname condities?!)&#xD;&#xA;- Generieke service versus processpecifiek? &#xD;&#xA;   (Toets- of examen planning en inschrijving --> Planning en inschrijving?)&#xD;&#xA;   (Toets-of examen inleveren --> Bestand inlevering)&#xD;&#xA;  Voor de service studentinformatiepublicatie doen we dat wel.&#xD;&#xA;- Het deelproces 'Vaststellen resultaat examen' omvat ook analyse over het geheel (wijken resultaten af?, hoe is het t.o.v. vorige jaren? etc.) Dit heeft nu geen plek in zowel het proces als de services! Gaat dit te ver om op te nemen?&#xD;&#xA;&#xD;&#xA;Studentapp versus SIS">
     <bounds
         x="1915"
-        y="240"
+        y="204"
         width="414"
-        height="181"/>
+        height="217"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
