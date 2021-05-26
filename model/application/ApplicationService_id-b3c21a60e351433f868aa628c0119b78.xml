@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Toets-of examen inleveren"
-    id="id-b3c21a60e351433f868aa628c0119b78"/>
+    id="id-b3c21a60e351433f868aa628c0119b78"
+    documentation="Digitaal beschikbaar stellen van een bestand (document of anders, gemaakt buiten het betreffende informatiesysteem) als onderdeel van de toets door een individu aan een informatiesysteem."/>

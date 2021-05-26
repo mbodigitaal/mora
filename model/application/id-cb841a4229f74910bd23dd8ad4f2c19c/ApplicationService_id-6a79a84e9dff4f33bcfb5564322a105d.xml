@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Toets- of examen afname"
     id="id-6a79a84e9dff4f33bcfb5564322a105d"
-    documentation="Het ondersteunen van het afnemen van toetsen of examens"/>
+    documentation="Het ondersteunen van het afnemen van toetsen of examens&#xD;&#xA;- Toewijzing van toetsen aan specifieke kandidaten. De toewijzing ondersteund ook het genereren van individuele vragensets per student voor een een zelfde toets ten behoeve van fraude kans beperking.&#xD;&#xA;- Het plaatsen van een toets per student in een voor hem afgeschermde omgeving en het doorsturen van de ingevulde toets en beoordeling naar betrokken medewerkers."/>
