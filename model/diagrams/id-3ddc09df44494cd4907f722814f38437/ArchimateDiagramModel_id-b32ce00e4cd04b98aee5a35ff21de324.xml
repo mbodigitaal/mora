@@ -1578,7 +1578,7 @@
           href="ServingRelationship_id-9994db7a712942b2b9625214f59867c0.xml#id-9994db7a712942b2b9625214f59867c0"/>
     </sourceConnections>
     <bounds
-        x="1237"
+        x="1248"
         y="864"
         width="120"
         height="55"/>
@@ -1599,8 +1599,8 @@
           href="RealizationRelationship_id-1c822fb6beca47db86d3a651f839965a.xml#id-1c822fb6beca47db86d3a651f839965a"/>
     </sourceConnections>
     <bounds
-        x="1237"
-        y="1020"
+        x="1248"
+        y="1008"
         width="120"
         height="55"/>
     <archimateElement
