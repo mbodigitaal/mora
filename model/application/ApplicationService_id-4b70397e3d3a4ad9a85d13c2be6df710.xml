@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Studentgegevens uitwisseling  "
+    id="id-4b70397e3d3a4ad9a85d13c2be6df710"
+    documentation="Het uitwisselen van studentgegevens zoals:&#xD;&#xA;- het importeren van studentgegevens van toeleverende systemen&#xD;&#xA;- het selecteren en exporteren van studentgegevens en deze ter beschikking stellen of versturen aan afnemende systemen "/>
