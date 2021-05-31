@@ -765,24 +765,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="908d7c48-b0a7-46bd-9e73-0cefef3f58a2"
       fillColor="#fbf2f7">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="86e8239c-6118-40ed-9a66-b9f7fa8d8519"
-        source="908d7c48-b0a7-46bd-9e73-0cefef3f58a2"
-        target="a5e0b434-71e4-4759-8716-e761a67c4507">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_55e5b106-a931-47e1-baf4-752d40466396.xml#55e5b106-a931-47e1-baf4-752d40466396"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="acb7757c-73f4-4d7f-8be8-16a6ccb80fe3"
-        source="908d7c48-b0a7-46bd-9e73-0cefef3f58a2"
-        target="5257bad0-b607-4741-b741-968744c78d4d">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_ab7ad98b-19e2-45c9-a8f8-00c7e708e5c7.xml#ab7ad98b-19e2-45c9-a8f8-00c7e708e5c7"/>
-    </sourceConnections>
     <bounds
         x="1056"
         y="72"
@@ -791,7 +773,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="a5e0b434-71e4-4759-8716-e761a67c4507"
-        targetConnections="86e8239c-6118-40ed-9a66-b9f7fa8d8519 1ae3c027-839b-4acc-be5b-5bffc25a097f"
+        targetConnections="1ae3c027-839b-4acc-be5b-5bffc25a097f"
         fillColor="#c55c8b">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -814,7 +796,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="5257bad0-b607-4741-b741-968744c78d4d"
-        targetConnections="acb7757c-73f4-4d7f-8be8-16a6ccb80fe3 b8de4e3c-3bb6-47a4-8f2f-64dafd99c0ee 7f25ece2-2dbb-4689-938d-3b7ae87a0777"
+        targetConnections="b8de4e3c-3bb6-47a4-8f2f-64dafd99c0ee 7f25ece2-2dbb-4689-938d-3b7ae87a0777"
         fillColor="#c55c8b">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
