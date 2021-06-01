@@ -281,39 +281,12 @@
       fillColor="#f3ecf4">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-e0c586124f154bff9efdba6d99c442c1"
-        source="id-0b0d7597fb5d4e9ba3e94c05d1291a3c"
-        target="id-55c18834799d4101805baf43107aacd8">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_55e5b106-a931-47e1-baf4-752d40466396.xml#55e5b106-a931-47e1-baf4-752d40466396"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-8c4c8741a20e41cb818be11603ad425c"
         source="id-0b0d7597fb5d4e9ba3e94c05d1291a3c"
         target="id-c0972d5923cd4caaa6aa70b228a7fe90">
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_9f442290-f469-4880-a01a-ef4840b18067.xml#9f442290-f469-4880-a01a-ef4840b18067"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-6e4493f464334467906e62dc7306080c"
-        source="id-0b0d7597fb5d4e9ba3e94c05d1291a3c"
-        target="id-990a8ca776b84cdaa0a2132c58f2b117">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_9513ee2f-f536-47db-be11-c7ba9c5b46ae.xml#9513ee2f-f536-47db-be11-c7ba9c5b46ae"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-7eb2884c3e9b4b319e9d53114b9d4f71"
-        source="id-0b0d7597fb5d4e9ba3e94c05d1291a3c"
-        target="id-53dcc7b3191b4b84a1d0e97272ad089f">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_ab7ad98b-19e2-45c9-a8f8-00c7e708e5c7.xml#ab7ad98b-19e2-45c9-a8f8-00c7e708e5c7"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -344,20 +317,6 @@
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_432a1ee4-a081-41bc-a560-a43b34e3266c.xml#432a1ee4-a081-41bc-a560-a43b34e3266c"/>
       </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-31725e268e964a239a329d355e494a6c"
-          source="id-c0972d5923cd4caaa6aa70b228a7fe90"
-          target="id-990a8ca776b84cdaa0a2132c58f2b117">
-        <bendpoints
-            startX="-6"
-            startY="81"
-            endX="-78"
-            endY="-3"/>
-        <archimateRelationship
-            xsi:type="archimate:TriggeringRelationship"
-            href="TriggeringRelationship_919f3368-7d6b-41e7-a5e7-20e35dbd2417.xml#919f3368-7d6b-41e7-a5e7-20e35dbd2417"/>
-      </sourceConnections>
       <bounds
           x="12"
           y="36"
@@ -370,7 +329,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-55c18834799d4101805baf43107aacd8"
-        targetConnections="id-36b272fe353b4442b51284da20a4d671 id-e0c586124f154bff9efdba6d99c442c1"
+        targetConnections="id-36b272fe353b4442b51284da20a4d671"
         fontColor="#ffffff"
         fillColor="#b72b7b">
       <sourceConnections
@@ -417,7 +376,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-990a8ca776b84cdaa0a2132c58f2b117"
-        targetConnections="id-6e4493f464334467906e62dc7306080c id-cbff37ef705e42189c1fa6e207048196 id-31725e268e964a239a329d355e494a6c"
+        targetConnections="id-cbff37ef705e42189c1fa6e207048196"
         fontColor="#ffffff"
         fillColor="#b72b7b">
       <sourceConnections
@@ -441,7 +400,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-53dcc7b3191b4b84a1d0e97272ad089f"
-        targetConnections="id-7eb2884c3e9b4b319e9d53114b9d4f71 id-392ad1dd1d4c439ba88e40b109ee55fd"
+        targetConnections="id-392ad1dd1d4c439ba88e40b109ee55fd"
         fontColor="#ffffff"
         fillColor="#b72b7b">
       <sourceConnections
