@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Toets- of examen beoordeling"
     id="id-83fb685f33af4329b991ab4a1790cec2"
-    documentation="Het automatisch nakijken van toetsen of examens, zoals van multiple choice vragen."/>
+    documentation="Geautomatiseerd beoordelen en verwerken van beoordeling per toets onderdeel (zoals van multiple choice vragen) en van de toets als geheel. Beoordeling wordt ondersteund door normen per toets onderdeel en toets."/>
