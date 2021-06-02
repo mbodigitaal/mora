@@ -1476,10 +1476,10 @@
       textAlignment="1"
       content="Discussie:&#xD;&#xA;&#xD;&#xA;Proces: Uitvoeren leertaken BPV ook koppelen aan service: BPV begeleiding...?&#xD;&#xA;&#xD;&#xA;Service: Onderwijsbegeleidingsondersteuning graag bespreken. Die kende ik nog niet en zie twee serving relaties !&#xD;&#xA;&#xD;&#xA;Service: Portfoliobeheer toevoegen..?&#xD;&#xA;&#xD;&#xA;NB: Zoals overal heb ik generieke services niet toegevoegd. Zoals Communicatie en Samenwerking">
     <bounds
-        x="1560"
-        y="312"
+        x="1536"
+        y="96"
         width="282"
-        height="220"/>
+        height="325"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
