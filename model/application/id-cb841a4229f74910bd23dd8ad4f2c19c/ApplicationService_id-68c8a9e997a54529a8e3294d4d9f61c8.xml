@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Examendossier beheer"
+    id="id-68c8a9e997a54529a8e3294d4d9f61c8"
+    documentation="Het beheren van documenten en registraties in relatie tot deelname en beoordeling van examens. Het beheer omvat zaken als; &#xD;&#xA;- beoordelingsformulieren van de afgenomen examens&#xD;&#xA;- vrijstellingsbrieven van de examencommissie&#xD;&#xA;&#xD;&#xA;Aanvullend kan het examendossier ook gemaakt werk bevatten."/>
