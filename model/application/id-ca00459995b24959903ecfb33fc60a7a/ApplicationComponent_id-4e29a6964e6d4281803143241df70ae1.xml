@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Student communicatie systeem"
+    id="id-4e29a6964e6d4281803143241df70ae1"
+    documentation="Een systeem waarin alle voor een student relevante informatie integraal aan een student beschikbaar wordt gesteld ter inzage. Dit systeem geeft bijvoorbeeld inzicht in; summatieve resultaten, aanwezigheids registraties, rooster, nieuws, overeenkomsten (OOK, BPV) en overige informatie.&#xD;&#xA;Dit systeem voorziet tevens in een docent weergave van een student. De docent ziet hier enkel voor hem relevante studenten en informatie en waar hij toestemming toe heeft.&#xD;&#xA;Een dergelijk systeem kent als verschijningsvormen; een intern portaal (intranet) of app (studentenapp)."/>
