@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Doorstroomdossier beheer"
+    id="id-65e7dd3fea6e45b6be5eba110b39b2a6"
+    documentation="Het beheren van alle informatie over een student met betrekking tot;&#xD;&#xA;- behaalde vooropleiding (VO) resultaten en bijzonderheden in relatie tot het verloop van de studieontwikkelingen van de student.&#xD;&#xA;- behaalde opleiding resultaten (MBO) en bijzonderheden in relatie tot het verloop van de studieontwikkelingen van de student die relevant zijn voor doorstroom naar het HBO."/>
