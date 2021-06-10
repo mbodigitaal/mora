@@ -910,9 +910,9 @@
         source="id-19c2194637bf42df8ecbf6512958c6c3"
         target="id-80d587f4afdf468281ce75dec8b805d3">
       <bendpoints
-          startX="12"
+          startX="48"
           startY="-297"
-          endX="119"
+          endX="108"
           endY="30"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
@@ -1322,6 +1322,18 @@
         y="522"
         width="120"
         height="55"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-8b90d5e42386436cb2e250970f7b2946">
+      <bounds
+          x="89"
+          y="1"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_id-ec7847352631423cbfbf3fccd4bcff00.xml#id-ec7847352631423cbfbf3fccd4bcff00"/>
+    </children>
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-95b91e8729594714bff8bfcdbf1dddad.xml#id-95b91e8729594714bff8bfcdbf1dddad"/>
