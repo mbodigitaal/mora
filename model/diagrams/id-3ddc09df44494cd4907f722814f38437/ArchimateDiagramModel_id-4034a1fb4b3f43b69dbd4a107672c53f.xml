@@ -1675,9 +1675,9 @@
           href="ServingRelationship_id-e6652f360a884cc6b3e57ec4c4d78720.xml#id-e6652f360a884cc6b3e57ec4c4d78720"/>
     </sourceConnections>
     <bounds
-        x="1014"
+        x="1032"
         y="804"
-        width="126"
+        width="108"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
