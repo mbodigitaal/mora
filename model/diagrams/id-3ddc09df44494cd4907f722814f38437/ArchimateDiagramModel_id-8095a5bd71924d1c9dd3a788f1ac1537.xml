@@ -1604,4 +1604,16 @@
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-c44b6564a528401da2237e2b044c3f5d.xml#id-c44b6564a528401da2237e2b044c3f5d"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-5c755296020944f8ba408e0f774636a4"
+      textAlignment="1"
+      fillColor="#ffff1c"
+      content="Elmar: Is het niet zo dat BPV aanbod beheer input is voor BPV matching?">
+    <bounds
+        x="48"
+        y="636"
+        width="146"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>
