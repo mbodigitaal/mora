@@ -559,9 +559,9 @@
             endX="-85"
             endY="-75"/>
         <bendpoints
-            startX="347"
+            startX="311"
             startY="-75"
-            endX="-37"
+            endX="-42"
             endY="-75"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
@@ -695,10 +695,10 @@
           endX="131"
           endY="-363"/>
       <bendpoints
-          startX="138"
+          startX="123"
           startY="342"
-          endX="132"
-          endY="-2"/>
+          endX="155"
+          endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:AccessRelationship"
           href="AccessRelationship_id-127dfb6cda824ec8869571dfe7326b2a.xml#id-127dfb6cda824ec8869571dfe7326b2a"/>
@@ -729,14 +729,14 @@
           source="id-4c43b63cc36d4615827b3c2bf10914fb"
           target="id-028a2427edb84d91bd7d9e084f7a1430">
         <bendpoints
-            startX="124"
+            startX="102"
             startY="-3"
-            endX="228"
+            endX="275"
             endY="-339"/>
         <bendpoints
-            startX="119"
+            startX="102"
             startY="285"
-            endX="251"
+            endX="275"
             endY="-51"/>
         <bendpoints
             startX="-176"
@@ -1114,12 +1114,12 @@
       id="id-cacb89f9554f4030bb0e71d2c1728c9b"
       font="1|Segoe UI|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
-      content="Nog omschrijving van het proces BPV begeleiden maken&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+      content="Nog omschrijving van het proces BPV begeleiden maken&#xD;&#xA;&#xD;&#xA;Klopt de relatie Uitvoeren leertaken naar object BPV project wel. We zouden alleen output-objecten linken. Wellicht is relatie met Verwerven en onderhouden BPV plaatsen meer op zijn plek&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
     <bounds
-        x="1164"
-        y="636"
+        x="972"
+        y="612"
         width="601"
-        height="61"/>
+        height="145"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
