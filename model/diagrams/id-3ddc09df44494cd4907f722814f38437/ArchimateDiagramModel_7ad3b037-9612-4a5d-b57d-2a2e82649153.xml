@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Werving en administratie - business objects"
+    name="Werving en administratie - (O1) Instroom en Uitstroom - business objects"
     id="7ad3b037-9612-4a5d-b57d-2a2e82649153">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
