@@ -7,7 +7,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2e9099836aa6426f861f5bb04f73a60a"
       targetConnections="id-79e8cc73a0804570bc41adf8897a8aa9"
-      font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#f1f9ec">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -238,7 +238,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b37235518a914966af75804402a6ba44"
-      font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#f3ecf4">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -286,7 +286,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8480355581964c1da77d0612d5808b3f"
       targetConnections="id-6f6de4728818489b94c2ba63a96f11ae id-eeea67505bc04e4594b0887c14047413"
-      font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#f3ecf4">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -429,7 +429,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-5b573b74ec9f4894bd5fb06e84260794"
       targetConnections="id-d7e3fedc2b9a4f528106177c1ed69ae1 id-249192ad9d0a4c9ba83196b944e280c2 id-5dc38c377d734f0fa3e17d456a5b8232"
-      font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#f1f9ec">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -471,9 +471,9 @@
             endX="-322"
             endY="-75"/>
         <bendpoints
-            startX="360"
+            startX="312"
             startY="-75"
-            endX="-46"
+            endX="-48"
             endY="-75"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
@@ -568,7 +568,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-80d587f4afdf468281ce75dec8b805d3"
       targetConnections="id-dbf17dfb105a43acb983bb82538e859c"
-      font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#f1f9ec">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -909,9 +909,9 @@
         source="id-19c2194637bf42df8ecbf6512958c6c3"
         target="id-80d587f4afdf468281ce75dec8b805d3">
       <bendpoints
-          startX="12"
+          startX="48"
           startY="-297"
-          endX="119"
+          endX="108"
           endY="30"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
@@ -1312,6 +1312,18 @@
         y="522"
         width="120"
         height="55"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-8b90d5e42386436cb2e250970f7b2946">
+      <bounds
+          x="89"
+          y="1"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_id-ec7847352631423cbfbf3fccd4bcff00.xml#id-ec7847352631423cbfbf3fccd4bcff00"/>
+    </children>
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-95b91e8729594714bff8bfcdbf1dddad.xml#id-95b91e8729594714bff8bfcdbf1dddad"/>
@@ -1603,5 +1615,17 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-c44b6564a528401da2237e2b044c3f5d.xml#id-c44b6564a528401da2237e2b044c3f5d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-5c755296020944f8ba408e0f774636a4"
+      textAlignment="1"
+      fillColor="#ffff1c"
+      content="Elmar: Is het niet zo dat BPV aanbod beheer input is voor BPV matching?">
+    <bounds
+        x="48"
+        y="636"
+        width="146"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>
