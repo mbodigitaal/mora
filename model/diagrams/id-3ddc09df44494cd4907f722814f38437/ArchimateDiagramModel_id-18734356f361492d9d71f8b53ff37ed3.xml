@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Onderwijslogistiek - Businessobjecten (Rene - Frans)"
+    name="Onderwijslogistiek - business objects"
     id="id-18734356f361492d9d71f8b53ff37ed3">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

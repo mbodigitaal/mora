@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Examinering Proces Business objecten"
+    name="Examinering Proces - business objects"
     id="id-234ca4ff679a4f43b17b7cd47fdb97cf">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

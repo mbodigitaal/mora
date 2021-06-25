@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Examinering Proces services en applicaties"
+    name="Examinering Proces - services"
     id="id-b32ce00e4cd04b98aee5a35ff21de324"
     documentation="Bewaking van de actuele status van activiteiten in relatie tot een proces. De bewaking signaleert op basis van het proces waar het deel van uitmaakt hoe de activiteiten in het verleden en de toekomst zich verhouden tot de gewenste doorloop in tijd en gewenste resultaten.">
   <children

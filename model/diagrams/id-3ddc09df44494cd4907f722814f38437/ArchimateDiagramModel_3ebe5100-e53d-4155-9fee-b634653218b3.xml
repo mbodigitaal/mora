@@ -1110,9 +1110,9 @@
         source="b7ea4ead-768a-4e05-82d2-e839c600edc2"
         target="d6d8ec89-baf6-422f-87c4-3e7a60d70487">
       <bendpoints
-          startX="-1"
+          startX="23"
           startY="-387"
-          endX="-132"
+          endX="-108"
           endY="45"/>
       <bendpoints
           startX="107"
@@ -1129,9 +1129,9 @@
         source="b7ea4ead-768a-4e05-82d2-e839c600edc2"
         target="34e49a1b-cf3c-4f9c-a4a9-b00e177d0722">
       <bendpoints
-          startX="-1"
+          startX="23"
           startY="-387"
-          endX="-294"
+          endX="-270"
           endY="45"/>
       <bendpoints
           startX="227"
