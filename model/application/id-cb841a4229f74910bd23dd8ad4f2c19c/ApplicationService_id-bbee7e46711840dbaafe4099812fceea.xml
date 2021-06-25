@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Middelenallocatie"
+    name="Middelen allocatie"
     id="id-bbee7e46711840dbaafe4099812fceea"
     documentation="Het matchen van benodigde middelen versus de beschikbare middelen. &#xD;&#xA;&#xD;&#xA;Zoals:&#xD;&#xA;* apparatuur&#xD;&#xA;* leercontent&#xD;&#xA;* ruimte&#xD;&#xA;"/>

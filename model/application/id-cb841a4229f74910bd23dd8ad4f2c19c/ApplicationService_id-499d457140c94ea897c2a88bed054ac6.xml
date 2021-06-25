@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Autorisatiebeheer"
+    name="Autorisatie beheer"
     id="id-499d457140c94ea897c2a88bed054ac6"
     documentation="Het administreren van rollen en toegangsrechten in systemen. Denk aan autorisatiematrixen en registraties dienaangaande vanwege de AVG."/>

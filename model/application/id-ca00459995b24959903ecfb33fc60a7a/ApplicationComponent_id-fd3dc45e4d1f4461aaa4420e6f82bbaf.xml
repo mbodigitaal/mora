@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Toets- en examen(materiaal) beheersysteem"
+    name="Toets- en examen(materiaal) beheer systeem"
     id="id-fd3dc45e4d1f4461aaa4420e6f82bbaf"
     documentation="Een systeem voor het beheren van toets- en examenmateriaal, inclusief de bepaling welke en hoeveel toets- &amp; examenmateriaal nodig is.&#xD;&#xA;&#xD;&#xA;Denk aan:&#xD;&#xA;* Veilig opslaan&#xD;&#xA;* Zorgvuldige autorisatie&#xD;&#xA;* Gedegen workflow voor goedkeuring door vakspecialisten of examencommissie&#xD;&#xA;* Registratie van welk examenmateriaal door welke leerlingen al is gebruikt">
   <properties

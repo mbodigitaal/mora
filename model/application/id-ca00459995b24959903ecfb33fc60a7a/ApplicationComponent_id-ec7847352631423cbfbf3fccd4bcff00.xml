@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kwaliteitsmanagement systeem"
+    name="Kwaliteit management systeem"
     id="id-ec7847352631423cbfbf3fccd4bcff00"
     documentation="Een systeem dat risico- en kwaliteitsmanagement ondersteunt. ">
   <properties

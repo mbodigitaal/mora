@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="E-mailsysteem"
+    name="E-mail systeem"
     id="id-a65826bd198b4cb799ba17ee0c4275f0"
     documentation="Een systeem dat het uitwisselen en beveiliging van e-mails tussen gebruikers ondersteunt.&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;Exchange">
   <properties

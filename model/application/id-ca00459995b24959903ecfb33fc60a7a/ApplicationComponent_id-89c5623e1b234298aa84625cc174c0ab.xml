@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Aanbestedingsbeheer"
+    name="Aanbestedingen beheer"
     id="id-89c5623e1b234298aa84625cc174c0ab"
     documentation="Een systeem dat het uitvoeren van aanbestedingen ondersteunt.&#xD;&#xA;&#xD;&#xA;Voorbeeld&#xD;&#xA;Negometrix System&#xD;&#xA;Tendernet">
   <properties
