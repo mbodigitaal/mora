@@ -365,7 +365,7 @@
     <bounds
         x="768"
         y="226"
-        width="120"
+        width="133"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
@@ -451,7 +451,7 @@
           href="RealizationRelationship_id-4c51d7ea8d55414f930b3f859467d80c.xml#id-4c51d7ea8d55414f930b3f859467d80c"/>
     </sourceConnections>
     <bounds
-        x="444"
+        x="432"
         y="346"
         width="612"
         height="55"/>
