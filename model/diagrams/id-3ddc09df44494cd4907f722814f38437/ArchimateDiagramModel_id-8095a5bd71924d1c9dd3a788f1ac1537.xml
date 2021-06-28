@@ -1628,4 +1628,15 @@
         width="146"
         height="80"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-3fd6ea5f4d3b40089990207fd3b8181c"
+      textAlignment="1"
+      content="Wijzigingen t.o.v. versie 1.0&#xD;&#xA;&#xD;&#xA;Service relatiebeheer toegevoegd aan werven bpv bedrijven en plaaten&#xD;&#xA;&#xD;&#xA;Service formatie resultatenbeheer gekoppeld aan proces analyseren en beoordelen leerresultaten&#xD;&#xA;&#xD;&#xA;Proces Matchen studen en BPV plaats is gewijzigd omdat het proces is gewijzigd. Zie mail Frans&#xD;&#xA;Proces Begeleiden en monitoren voortgang is gewijzigd omdat het proces is gewijzigd. Zie mail Frans&#xD;&#xA;&#xD;&#xA;Service BPV aanbod beheer is niet meer gekoppeld aan proces Check erkenning leerbedrijf&#xD;&#xA;&#xD;&#xA;Proces Begeleiden en monitoren voortgang is ook gekoppeld aan service Onderwijs begeleiding ondersteuning ipv alleen aan service BPV begeleiding.  KLOPT DIT...??&#xD;&#xA;&#xD;&#xA;Service Student informatie publicatie is nu gekoppeld aan proces Uitvoeren leertaken en praktijk ervaren (dat was niet zo)&#xD;&#xA;">
+    <bounds
+        x="108"
+        y="876"
+        width="1340"
+        height="253"/>
+  </children>
 </archimate:ArchimateDiagramModel>

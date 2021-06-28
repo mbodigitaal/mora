@@ -176,7 +176,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-0bd79c85c4e940b68e76783a02b6e18b"
-        targetConnections="id-85ade768bbc94a5db918a91a1186949a"
+        targetConnections="id-85ade768bbc94a5db918a91a1186949a id-4383e8a11e4646c3aead952afcbe5585"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ffffff"
         fillColor="#ae4376">
@@ -1558,7 +1558,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-dbce8bd21c2d4d66b1121912a16fb2bc"
-        targetConnections="id-c13ef5c479a349f08d403f76d4d6965d id-626995281fdb4189b7191bd8e4394b7a"
+        targetConnections="id-c13ef5c479a349f08d403f76d4d6965d id-626995281fdb4189b7191bd8e4394b7a id-ba730a83eea34a048a0f626154214f42"
         fontColor="#ffffff"
         fillColor="#7fb955">
       <bounds
@@ -1698,13 +1698,82 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-90431f497a4942698d85d856c5685abc"
-      font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      font="1|Segoe UI|10.8|0|WINDOWS|1|-18|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
-      content="Twijfel: Moet ik bepalen leerroute wit maken...?">
+      content="Twijfel: Moet ik bepalen leerroute wit maken...?&#xD;&#xA;Twijfel Moet proces Uitvoeren leertaken wel onderstent worden door service Studieroutebeheer...?">
     <bounds
-        x="780"
-        y="996"
-        width="588"
-        height="49"/>
+        x="206"
+        y="1008"
+        width="1162"
+        height="73"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-2b8709c14d5c451c8ceed428985c59f1"
+      font="1|Segoe UI|10.8|0|WINDOWS|1|-18|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="Wijzigingen t.o.v. versie 1.0:&#xD;&#xA;&#xD;&#xA;Service Ruimtebeheer gekoppeld aan proces Bepalen benodigde middelen (was niet zo)&#xD;&#xA;&#xD;&#xA;Service Medewerker inzet beheer gekoppeld aan proces Matchen onderwijs vraag op beschikbare middelen (was niet zo)&#xD;&#xA;">
+    <bounds
+        x="206"
+        y="1121"
+        width="1162"
+        height="172"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-1cc102a6da55491aa91669568cad0d45"
+      fillColor="#b5ffff">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-ba730a83eea34a048a0f626154214f42"
+        source="id-1cc102a6da55491aa91669568cad0d45"
+        target="id-dbce8bd21c2d4d66b1121912a16fb2bc">
+      <bendpoints
+          startY="-411"
+          endX="397"
+          endY="-3"/>
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-27f6575b45274dd694e88d8af6e3b6ad.xml#id-27f6575b45274dd694e88d8af6e3b6ad"/>
+    </sourceConnections>
+    <bounds
+        x="2088"
+        y="804"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_id-b4a85a174180468b9fced354f569a130.xml#id-b4a85a174180468b9fced354f569a130"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-f5d36edc391041e1960eb17d8ce2d37c"
+      fillColor="#b5ffff">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-4383e8a11e4646c3aead952afcbe5585"
+        source="id-f5d36edc391041e1960eb17d8ce2d37c"
+        target="id-0bd79c85c4e940b68e76783a02b6e18b">
+      <bendpoints
+          startY="-771"
+          endX="1008"
+          endY="-87"/>
+      <bendpoints
+          startX="-1044"
+          startY="-771"
+          endX="-36"
+          endY="-87"/>
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-84731d46479449bf910b301d99696103.xml#id-84731d46479449bf910b301d99696103"/>
+    </sourceConnections>
+    <bounds
+        x="1956"
+        y="804"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_id-5e9a80253fa44ec7b4a1989df768611e.xml#id-5e9a80253fa44ec7b4a1989df768611e"/>
   </children>
 </archimate:ArchimateDiagramModel>

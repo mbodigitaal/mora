@@ -1125,10 +1125,10 @@
       textAlignment="1"
       content="Nog omschrijving van het proces BPV begeleiden maken&#xD;&#xA;&#xD;&#xA;Klopt de relatie Uitvoeren leertaken naar object BPV project wel. We zouden alleen output-objecten linken. Wellicht is relatie met Verwerven en onderhouden BPV plaatsen meer op zijn plek&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
     <bounds
-        x="972"
-        y="708"
-        width="601"
-        height="145"/>
+        x="120"
+        y="828"
+        width="969"
+        height="121"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1303,5 +1303,16 @@
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_23334b1b-ca9a-451d-b36f-0d2e078d21a4.xml#23334b1b-ca9a-451d-b36f-0d2e078d21a4"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-870b41fe1a6c403babd20c0961161562"
+      textAlignment="1"
+      content="Wijzigingen t.o.v. versie 1.0&#xD;&#xA;&#xD;&#xA;Bussinessobject BPV project nu gekoppeld aan proces Uitvoeren leertaken BPV (was niet zo)&#xD;&#xA;&#xD;&#xA;Proces Matchen student en BPV plaats en proces nderwijs en studenten administreren zijn gewijzigd conform proceswijziging via email Frans van neerbos&#xD;&#xA;&#xD;&#xA;Proces Begeleiden en monitoren voortgang  is gewijzigd conform proceswijziging via email Frans van Neerbos&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+    <bounds
+        x="120"
+        y="960"
+        width="969"
+        height="144"/>
   </children>
 </archimate:ArchimateDiagramModel>
