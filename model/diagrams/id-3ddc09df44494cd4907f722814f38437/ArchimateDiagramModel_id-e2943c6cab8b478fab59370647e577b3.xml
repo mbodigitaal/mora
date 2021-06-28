@@ -7,11 +7,10 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-577ca5968bd34c85babc4ca304a9ee94"
       targetConnections="id-9e5a1fc9ea9146d5aade1e9000ce8c67 id-ccab45c564684172b198784c803da5f1 id-20f372fb91e847579c33630eafc14f7a id-33e69ce1ef9f4df7977a5c89bbcdc062 id-620688ed5a604badb6be211bcf05d57b id-c90e0ed96c1e42aab93042b012c3ea79 id-8b37c97a6f734d8699e0761d236eafe8 id-62438aa2ad854078a809cd66d8dc4712 id-b6352ecc627f4252a49b159e7558339a id-80645fcb69ac481fbc060f67e8be4eaa id-1c78f0eaeec1483381185f84222bb121"
-      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-      fontColor="#000000"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|-20|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       lineColor="#5c5c5c"
       textAlignment="1"
-      fillColor="#eeeded">
+      fillColor="#edeced">
     <features
         name="lineAlpha"
         value="0"/>
@@ -719,11 +718,10 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d675e0b2df38467f83084de0f14e4485"
       targetConnections="id-89ce5b77cbbf4adbbc505f4c55af6682 id-2351d62b8f0a42dfbcc1563e468ce390 id-292684d471e84cc993913708ce9b7522 id-e3eb4e55fc234e6bb28c2209ea48fc9e id-f2998aaadaca45d4b6dc490f33bce597 id-1608ab6edf2a48658265739d40ff2c29 id-f6c8d567f644427ca11185aee039194c id-48362e2710dc4f2b85fa7ca727efb27c id-358d36471ef34d04bde43f882bbe5fbe id-99034c1c2070414c92846369e3764c6e id-cd1b4e03498f43e9b8b88e22975c9363 id-f0481e00db0e4d0882d34db7d0fad6e7 id-8269159c06c64d21a3f28fa8f005e08b id-1e06f29881c34648b133f887038f1bee"
-      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-      fontColor="#000000"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|-20|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       lineColor="#5c5c5c"
       textAlignment="1"
-      fillColor="#eeeded">
+      fillColor="#edeced">
     <features
         name="lineAlpha"
         value="0"/>
@@ -737,7 +735,7 @@
           href="CompositionRelationship_id-467afb84031b43339ae435bbdd57b0f6.xml#id-467afb84031b43339ae435bbdd57b0f6"/>
     </sourceConnections>
     <bounds
-        x="1008"
+        x="996"
         y="1776"
         width="1139"
         height="547"/>
@@ -1670,8 +1668,9 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b082c7253e8b448b8d56d6752f6b6861"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|-20|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
-      fillColor="#eeeded">
+      fillColor="#edeced">
     <features
         name="lineAlpha"
         value="0"/>
@@ -2907,8 +2906,9 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f080fedaeb03499a8e29fd976cde060f"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|-20|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
-      fillColor="#e4e2f1">
+      fillColor="#e3e2f1">
     <features
         name="lineAlpha"
         value="0"/>
@@ -3230,8 +3230,9 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-595dff38388440a0b1673de4724adc8e"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|-20|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
-      fillColor="#e0d0d9">
+      fillColor="#e6dce2">
     <features
         name="lineAlpha"
         value="0"/>
@@ -3450,8 +3451,9 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-83a6e1516daa4ce0ad3525df786e2871"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|-20|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
-      fillColor="#dee0db">
+      fillColor="#dee0dc">
     <features
         name="lineAlpha"
         value="0"/>
@@ -4320,6 +4322,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-68876c3460ec4934836e46ed9bf7f332"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|-20|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
       fillColor="#e6edef">
     <features
@@ -4641,6 +4644,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-04b11f6ae9c741cf81049dda5bf75c75"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|-20|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
       fillColor="#edf7e9">
     <features
@@ -4719,8 +4723,8 @@
           href="CompositionRelationship_id-be15b3f3a48a4c32880cf26bfa648d10.xml#id-be15b3f3a48a4c32880cf26bfa648d10"/>
     </sourceConnections>
     <bounds
-        x="274"
-        y="552"
+        x="276"
+        y="564"
         width="1044"
         height="364"/>
     <children
@@ -5192,8 +5196,9 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-55658f25820a42afb54f7a06cf11b952"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|-20|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
-      fillColor="#fbf2e4">
+      fillColor="#fff1e3">
     <features
         name="lineAlpha"
         value="0"/>
@@ -5310,6 +5315,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f7081f3e0a8a4043baef12b434fc970a"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|-20|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
       fillColor="#ebe0d8">
     <features
@@ -5662,8 +5668,9 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8953805b38f444b0adaee091ed4d3233"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|-20|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
-      fillColor="#f5e5ea">
+      fillColor="#f3e6e9">
     <features
         name="lineAlpha"
         value="0"/>
@@ -5955,8 +5962,9 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2414e01e9f054999a6eadfbf38304f52"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|-20|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
-      fillColor="#e3e9df">
+      fillColor="#e5e9df">
     <features
         name="lineAlpha"
         value="0"/>
@@ -6024,8 +6032,9 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d4a2e084c45a45dd8810288c2fc417a4"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|-20|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
-      fillColor="#dfe0ea">
+      fillColor="#dfe0e9">
     <features
         name="lineAlpha"
         value="0"/>
@@ -6093,6 +6102,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-29c3922ce1a04d64a210933aa9a65430"
+      font="1|Segoe UI|12.0|1|WINDOWS|1|-20|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
       fillColor="#fce5dd">
     <features
@@ -6128,7 +6138,7 @@
       </sourceConnections>
       <bounds
           x="12"
-          y="36"
+          y="84"
           width="216"
           height="97"/>
       <children
