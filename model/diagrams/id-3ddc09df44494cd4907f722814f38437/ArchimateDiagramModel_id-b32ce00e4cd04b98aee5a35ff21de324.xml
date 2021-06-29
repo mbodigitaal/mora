@@ -828,9 +828,9 @@
           href="RealizationRelationship_id-10d9295d69ec452d82dba1354c22ce11.xml#id-10d9295d69ec452d82dba1354c22ce11"/>
     </sourceConnections>
     <bounds
-        x="2375"
-        y="840"
-        width="169"
+        x="816"
+        y="1056"
+        width="132"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -841,8 +841,8 @@
       id="id-a3c524d46adc4594bef7f14048a16d05"
       targetConnections="id-ef8ac31cd3d24e00b6cf6df1e20a4ced">
     <bounds
-        x="2388"
-        y="672"
+        x="648"
+        y="1056"
         width="132"
         height="55"/>
     <archimateElement
@@ -1990,5 +1990,16 @@
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-d1d5219495354d739704c5917169dbf6.xml#id-d1d5219495354d739704c5917169dbf6"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-3e47b0de029e4cceb9818d2b27af16dc"
+      textAlignment="1"
+      content="Wijzigingen t.o.v. versie 1&#xD;&#xA;&#xD;&#xA;Studentenapp heet nu Studenten Communicatie systeem&#xD;&#xA;">
+    <bounds
+        x="1805"
+        y="1064"
+        width="428"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>
