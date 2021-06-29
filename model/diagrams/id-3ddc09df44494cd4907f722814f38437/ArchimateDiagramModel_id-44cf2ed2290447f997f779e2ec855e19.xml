@@ -1021,4 +1021,16 @@
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_197dcd16-554d-408d-951e-38860db17a05.xml#197dcd16-554d-408d-951e-38860db17a05"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-9f2eda101bab4864a68cb57e52b095f3"
+      font="1|Segoe UI|10.8|0|WINDOWS|1|-18|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="Wijzigingen t.o.v. versie 1:&#xD;&#xA;&#xD;&#xA;Proces Inzetten middelen zit zowel in hoofdproces Plannen en Roosteren (zie hierboven) als in hoofdproces Verzorging Onderwijs. Dat is 2 composite relaties. Welke kiezen we....?&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+    <bounds
+        x="497"
+        y="718"
+        width="1009"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>
