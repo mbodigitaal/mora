@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Leermiddelenlijst beheersysteem"
+    name="Leermiddelen lijst beheer systeem"
     id="id-b3c4cc8bf17347699939a13b97a74b5a"
     documentation="Een systeem dat ondersteunt bij het opmaken en vaststellen van de leermiddelenlijsten met de voor de studenten benodigde boeken, licenties en andere leermiddelen voor een opleiding. &#xD;&#xA;">
   <properties

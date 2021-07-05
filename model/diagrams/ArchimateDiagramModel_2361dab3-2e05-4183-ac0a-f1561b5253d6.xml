@@ -279,15 +279,6 @@
       id="93ff168a-1fff-4e6b-bdbf-43dc9084908b">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="131f2e3f-a5cd-4187-9578-bc9ba18c4707"
-        source="93ff168a-1fff-4e6b-bdbf-43dc9084908b"
-        target="f10ef534-7c64-4271-bd3e-5e3844abdf24">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_1db6952a-0176-4de3-857f-ebc9946f4341.xml#1db6952a-0176-4de3-857f-ebc9946f4341"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="6260014f-46cf-4a37-9f62-90acaeb05825"
         source="93ff168a-1fff-4e6b-bdbf-43dc9084908b"
         target="07dd781e-3d67-4b74-b47a-03023f8e4e39">
@@ -318,19 +309,6 @@
         y="-15"
         width="397"
         height="169"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="f10ef534-7c64-4271-bd3e-5e3844abdf24"
-        targetConnections="131f2e3f-a5cd-4187-9578-bc9ba18c4707 id-1704abc5c0c547eea493e862494f2869">
-      <bounds
-          x="252"
-          y="96"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:BusinessProcess"
-          href="BusinessProcess_b18a73f7-1c5a-4bd3-82fc-f1229edfa319.xml#b18a73f7-1c5a-4bd3-82fc-f1229edfa319"/>
-    </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="07dd781e-3d67-4b74-b47a-03023f8e4e39"
@@ -445,15 +423,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-3771978049c543eb96cda2557a0b8170"
         targetConnections="id-1350ce5ee1c8493296ddaebc97a87af3 id-9c60e89fe32f45f78c50e2f1ce761a96">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-1704abc5c0c547eea493e862494f2869"
-          source="id-3771978049c543eb96cda2557a0b8170"
-          target="f10ef534-7c64-4271-bd3e-5e3844abdf24">
-        <archimateRelationship
-            xsi:type="archimate:TriggeringRelationship"
-            href="TriggeringRelationship_id-79545c6e88a5478f8645b2e9c599503b.xml#id-79545c6e88a5478f8645b2e9c599503b"/>
-      </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-554c76407c8e45759058cfa8918c49c9"

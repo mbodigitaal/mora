@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kernregistratiesysteem studenten"
+    name="Kernregistratie systeem studenten (KRS)"
     id="id-c44b6564a528401da2237e2b044c3f5d"
     documentation="Een systeem voor het beheren van gegevens van studenten zoals in- en uitschrijvingsgegevens, BPV-contractgegevens, bekostigingsgegevens, studieresultaten, diploma's, studentbegeleidingsgegevens, studievoortganggegevens&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;Eduarte&#xD;&#xA;Osiris&#xD;&#xA;Magister&#xD;&#xA;TP&#xD;&#xA;Ellucian (Sungard/SCT) Banner Student&#xD;&#xA;Oracle Peopelsoft Campus Solutions&#xD;&#xA;&#xD;&#xA;">
   <properties

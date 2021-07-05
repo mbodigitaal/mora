@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Backupsysteem"
+    name="Backup systeem"
     id="id-9fc64ee326e44d8899be8a045b709368"
     documentation="Een systeem voor het maken van kopieen van bestanden en gegvens.&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;DPM&#xD;&#xA;Comvault">
   <properties

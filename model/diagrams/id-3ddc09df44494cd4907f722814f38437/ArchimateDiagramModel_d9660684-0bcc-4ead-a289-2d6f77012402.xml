@@ -1065,7 +1065,7 @@
     <bounds
         x="912"
         y="324"
-        width="120"
+        width="157"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
@@ -1218,9 +1218,9 @@
           href="RealizationRelationship_id-152031aa801543a7b3f57c002a668349.xml#id-152031aa801543a7b3f57c002a668349"/>
     </sourceConnections>
     <bounds
-        x="348"
+        x="456"
         y="528"
-        width="1009"
+        width="889"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -1262,9 +1262,9 @@
           href="RealizationRelationship_id-c556e67803cc414e8a5ab0f33e1f1b7a.xml#id-c556e67803cc414e8a5ab0f33e1f1b7a"/>
     </sourceConnections>
     <bounds
-        x="912"
+        x="899"
         y="432"
-        width="120"
+        width="145"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"

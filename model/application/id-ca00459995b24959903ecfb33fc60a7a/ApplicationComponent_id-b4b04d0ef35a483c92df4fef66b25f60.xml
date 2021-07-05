@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Plagiaat detectiesysteem"
+    name="Plagiaat detectie systeem"
     id="id-b4b04d0ef35a483c92df4fef66b25f60"
     documentation="Een systeem dat (automatisch) controleert op het plegen van plagiaat.">
   <properties

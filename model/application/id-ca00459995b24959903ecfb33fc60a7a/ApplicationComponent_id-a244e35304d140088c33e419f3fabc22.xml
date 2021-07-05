@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Mediatheekbeheer systeem"
+    name="Mediatheek beheer systeem"
     id="id-a244e35304d140088c33e419f3fabc22"
     documentation="Een systeem dat het beheren &amp; werven van collecties bestaande uit materialen ondersteunt (denka aan boeken, tijdschriften, artikelen, multimedia). Daarnaast voorziet het systeem ook in een centrale repository en het aanbieden, reserveren en uitlenen van materialen.&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;Aura">
   <properties

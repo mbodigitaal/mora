@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Aanmeldsysteem"
+    name="Aanmeld systeem"
     id="id-44f764d5a55e436d938dcdd4a529c519"
     documentation="Een systeem waarmee individuen zich kunnen aanmelden voor een opleiding bij een onderwijsinstelling.&#xD;&#xA;&#xD;&#xA;Denk aan VVA, CA, PortalPlus enz..">
   <properties

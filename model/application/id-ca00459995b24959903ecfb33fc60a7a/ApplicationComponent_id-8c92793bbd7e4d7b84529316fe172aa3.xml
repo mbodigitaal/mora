@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Studentvolg systeem (SVS)"
+    name="Student volg systeem (SVS)"
     id="id-8c92793bbd7e4d7b84529316fe172aa3"
     documentation="Een systeem voor het registreren en meten van de studievoortgang en resultaten van een student.">
   <properties

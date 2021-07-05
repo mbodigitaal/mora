@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kaartbeheersysteem"
+    name="Kaartbeheer systeem"
     id="id-d1752b9744924dfda9b00dd20f605c97"
     documentation="Een systeem voor de productie van en het beheren van kaarten zoals de instellingspas voor studenten en medewerkers&#xD;&#xA;&#xD;&#xA;Wordt toegepast voor bijv.:&#xD;&#xA;fysieke toegangsverlening &#xD;&#xA;digitale toegangsverlening&#xD;&#xA;identificatie&#xD;&#xA;betalingen (printopdrachten)&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;OmniCms">
   <properties

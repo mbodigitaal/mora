@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheren nieuwsitems"
+    id="id-3d8c93346d52448f94e7401df99a36c8"
+    documentation="Het vervaardigen van nieuwsitems (intern of extern). Het vervaardigen gaat uit van verschillende betrokkenen die een rol spelen in de tot standkoming gebaseerd op een redactie."/>

@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Enquetesysteem"
+    name="Enquete systeem"
     id="id-018b6ee3e2bb4fc4be32124bfa80ccab"
     documentation="Een systeem dat het mogelijk maakt om enquetes te creëren, te verspreiden en af te nemen.&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;Effectory&#xD;&#xA;SurveyMonkey&#xD;&#xA;ROCSpiegel">
   <properties

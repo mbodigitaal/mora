@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Onderzoekbeheersysteem"
+    name="Onderzoek beheer systeem"
     id="id-921cf00c1d024de09051e426b8298ebf"
     documentation="Een systeem voor het beheer van onderzoeksresultaten zoals van een practoraat.">
   <properties
