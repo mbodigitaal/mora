@@ -1485,7 +1485,7 @@
           href="AssociationRelationship_id-891d42630c714575959165e24a5fcc53.xml#id-891d42630c714575959165e24a5fcc53"/>
     </sourceConnections>
     <bounds
-        x="1956"
+        x="1896"
         y="840"
         width="120"
         height="55"/>
@@ -1498,7 +1498,7 @@
       id="id-f1ad0ca978b340dea23c266aa2ccb0b9"
       targetConnections="id-f2c254d334534136b367265322476488 id-48518f5c4d5d45849f07f585cbb03046">
     <bounds
-        x="2196"
+        x="2112"
         y="840"
         width="120"
         height="55"/>
