@@ -1579,8 +1579,8 @@
       textAlignment="1"
       content="Opmaak, as is services en applicaties">
     <bounds
-        x="1725"
-        y="96"
+        x="2269"
+        y="108"
         width="414"
         height="97"/>
   </children>
@@ -1959,8 +1959,8 @@
       fillColor="#ffff1c"
       content="Nieuw toegevoegd t.o.v. vorige versie">
     <bounds
-        x="2158"
-        y="296"
+        x="2520"
+        y="267"
         width="112"
         height="58"/>
   </children>
