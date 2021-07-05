@@ -873,6 +873,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-bdb837a9b0264440ab4661c8e5f43822"
         targetConnections="id-c5fe11315c86467f935575b01278538b"
+        font="1|Segoe UI|9.75|1|WINDOWS|1|-13|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#428e9b"
         fillColor="#428e9b"
         alpha="50">

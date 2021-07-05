@@ -8,9 +8,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-bb8f4c60f5164b13ae77233357fe19c1"
       targetConnections="id-1e8fe62dbbe44318b440a3c3b45d9e3b id-3c8218be324b41b4b8c405ebc5a1da53"
-      font="1||12.0|1|WINDOWS|1|-16|0|0|0|700|0|0|0|1|0|0|0|0|"
+      font="1||11.25|1|WINDOWS|1|-15|0|0|0|700|0|0|0|1|0|0|0|0|"
       fontColor="#44337f"
-      textAlignment="1"
       fillColor="#e9e7f2">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -376,7 +375,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-89510af9b3f547f6bc9fcd9a991df621"
       targetConnections="id-36edaebc04b44cf7af6e08f5551f3f23 id-bb7b362df5d84abf9a7f120dbeb1e767 id-a26aaaf566e04abd84704badff153cea"
-      font="1||12.0|1|WINDOWS|1|-16|0|0|0|700|0|0|0|1|0|0|0|0|"
+      font="1||11.25|1|WINDOWS|1|-15|0|0|0|700|0|0|0|1|0|0|0|0|"
       fontColor="#44337f"
       fillColor="#e8e6f1">
     <sourceConnections
@@ -1577,17 +1576,6 @@
         href="BusinessProcess_53be1121-ba0d-4ea7-92de-9307b48ab61f.xml#53be1121-ba0d-4ea7-92de-9307b48ab61f"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-9244712e12d64d1184bf55efa3424d83"
-      textAlignment="1"
-      content="Opmaak, as is services en applicaties">
-    <bounds
-        x="1728"
-        y="204"
-        width="169"
-        height="217"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-59f7b97d6a714722a0213bddc3b10353"
       fillColor="#00c4c4">
@@ -1722,7 +1710,7 @@
           href="ServingRelationship_id-bbad86b073c64136a9ff576731eb99ce.xml#id-bbad86b073c64136a9ff576731eb99ce"/>
     </sourceConnections>
     <bounds
-        x="947"
+        x="564"
         y="768"
         width="132"
         height="55"/>
@@ -1990,16 +1978,5 @@
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-d1d5219495354d739704c5917169dbf6.xml#id-d1d5219495354d739704c5917169dbf6"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-3e47b0de029e4cceb9818d2b27af16dc"
-      textAlignment="1"
-      content="Wijzigingen t.o.v. versie 1&#xD;&#xA;&#xD;&#xA;Studentenapp heet nu Studenten Communicatie systeem&#xD;&#xA;">
-    <bounds
-        x="1805"
-        y="1064"
-        width="428"
-        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>
