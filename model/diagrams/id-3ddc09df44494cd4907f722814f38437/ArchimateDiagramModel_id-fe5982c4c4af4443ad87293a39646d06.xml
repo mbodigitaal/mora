@@ -6,6 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-583b97cf08be46e5b69a4f91bf2e5e2f"
+      fontColor="#a34670"
       fillColor="#f6ecf1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -43,6 +44,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-09381663f94c4621a5ee59067296b313"
+      fontColor="#a34670"
       fillColor="#f6ecf1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -145,6 +147,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-051b2b3815854a1797a2d9653e976fd2"
+      fontColor="#a34670"
       fillColor="#f6ecf1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -293,6 +296,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e4e7d9cd10f5416b9390057571821904"
+      fontColor="#8aaf54"
       fillColor="#f4f8ed">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -406,6 +410,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f01bf4d9bcf34a2c882dc4063eefff04"
+      fontColor="#8aaf54"
       fillColor="#f4f8ed">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -660,6 +665,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-69fd16e095024edaa50d0f2fd566f430"
+      fontColor="#8aaf54"
       fillColor="#f4f8ed">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -763,6 +769,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-318fcebae008455ba1ed42d28cbf7566"
+      fontColor="#36553a"
       fillColor="#e7eae6">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -905,23 +912,18 @@
           source="id-61a5f9bc9f1e415cb5dc091513c3d14f"
           target="id-10e9740a1d1b4427ab3b6120adcf843b">
         <bendpoints
-            startY="81"
-            endX="-792"
-            endY="273"/>
-        <bendpoints
-            startX="216"
-            startY="81"
-            endX="-576"
-            endY="273"/>
+            startY="69"
+            endX="-786"
+            endY="249"/>
         <bendpoints
             startX="924"
-            startY="81"
-            endX="132"
-            endY="261"/>
+            startY="69"
+            endX="138"
+            endY="249"/>
         <bendpoints
             startX="924"
             startY="-183"
-            endX="132"
+            endX="138"
             endY="-3"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
@@ -943,6 +945,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ead66a3a35274bb7acf4bdc9443b9572"
+      fontColor="#722b55"
       fillColor="#ede6ec">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -1009,14 +1012,14 @@
             endY="-471"/>
         <bendpoints
             startX="-126"
-            startY="549"
+            startY="537"
             endX="-285"
-            endY="93"/>
+            endY="81"/>
         <bendpoints
-            startX="222"
-            startY="549"
-            endX="3"
-            endY="93"/>
+            startX="174"
+            startY="537"
+            endX="15"
+            endY="81"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_fdfa9bdc-f2f1-4357-b3dd-071dba8b5740.xml#fdfa9bdc-f2f1-4357-b3dd-071dba8b5740"/>
@@ -1085,6 +1088,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f032950011854bba90344de9d7a94c18"
+      fontColor="#36553a"
       fillColor="#e7eae6">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -1189,6 +1193,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c7c0fea017d94ba697aea0b54f5b505b"
+      fontColor="#36553a"
       fillColor="#e7eae7">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
