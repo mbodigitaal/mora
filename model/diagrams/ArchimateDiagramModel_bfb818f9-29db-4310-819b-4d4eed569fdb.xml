@@ -261,6 +261,15 @@
         targetConnections="2f9c5f4b-e258-461d-918f-1a72bbd55e72 4c4082be-e10b-4ef1-9e55-8b41e86cfaa6 1e1d11b0-fa4d-4753-8015-062b81ce9562 a737bbe6-57c4-4a3c-ae25-3c1108e63ce9">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
+          id="b5385ebf-411b-4a3c-a720-e0b5bbd0faff"
+          source="158bc424-5ae0-4529-9ca6-0e497a1864a3"
+          target="96e520eb-2f2c-46c9-8982-88d2a9f7f3fc">
+        <archimateRelationship
+            xsi:type="archimate:TriggeringRelationship"
+            href="TriggeringRelationship_f074fa04-342e-44d8-8421-e1fdb6d999d6.xml#f074fa04-342e-44d8-8421-e1fdb6d999d6"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
           id="8dc9d20c-ace2-4b5b-acd7-0ff89e8bf95e"
           source="158bc424-5ae0-4529-9ca6-0e497a1864a3"
           target="4e7a0691-0047-4d8e-9512-ef0958e22771">
@@ -277,15 +286,6 @@
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_33cac86b-90b2-4c2b-8ac8-c3328c747362.xml#33cac86b-90b2-4c2b-8ac8-c3328c747362"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="b5385ebf-411b-4a3c-a720-e0b5bbd0faff"
-          source="158bc424-5ae0-4529-9ca6-0e497a1864a3"
-          target="96e520eb-2f2c-46c9-8982-88d2a9f7f3fc">
-        <archimateRelationship
-            xsi:type="archimate:TriggeringRelationship"
-            href="TriggeringRelationship_f074fa04-342e-44d8-8421-e1fdb6d999d6.xml#f074fa04-342e-44d8-8421-e1fdb6d999d6"/>
       </sourceConnections>
       <bounds
           x="216"
@@ -842,7 +842,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="4e7a0691-0047-4d8e-9512-ef0958e22771"
-        targetConnections="8dc9d20c-ace2-4b5b-acd7-0ff89e8bf95e 4d5b6312-c52c-4b6f-acd4-d1bc5240e1d8">
+        targetConnections="4d5b6312-c52c-4b6f-acd4-d1bc5240e1d8 8dc9d20c-ace2-4b5b-acd7-0ff89e8bf95e">
       <bounds
           x="774"
           y="12"
