@@ -1241,8 +1241,8 @@
       id="id-a2b45f61b3f64855bb7907adadbe0122"
       targetConnections="id-5c30491a3df44311a3b29939a9c2fc37 id-ac4770a1c29c4556bb2bb645726cf01e">
     <bounds
-        x="984"
-        y="138"
+        x="1260"
+        y="144"
         width="120"
         height="55"/>
     <archimateElement
@@ -1255,8 +1255,8 @@
       textAlignment="1"
       content="Rene: Dit proces staat wel in https://route21.wikixl.nl/index.php/Procesketen_Onderwijsuitvoering_en_begeleiding getekend in /gekoppeld aan het hoofdproces Verzorgen onderwijs. Echter qua beschrjiving lijkt het meer iets voor in het hoofdproces Plannen en Roosteren (en daar is het ook al aan gekoppeld)  Welke kiezen we.....?">
     <bounds
-        x="984"
-        y="204"
+        x="1260"
+        y="228"
         width="337"
         height="97"/>
   </children>
