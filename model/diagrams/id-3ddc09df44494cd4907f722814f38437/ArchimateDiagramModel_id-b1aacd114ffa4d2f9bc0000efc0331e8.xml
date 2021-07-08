@@ -1185,29 +1185,6 @@
         href="BusinessProcess_2b04ca09-372b-40b2-9db0-2889f6cfa6cd.xml#2b04ca09-372b-40b2-9db0-2889f6cfa6cd"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-37b2317a7cb746cd97352a577495b6cc"
-      textAlignment="1"
-      content="Rene: Dit proces staat wel in https://route21.wikixl.nl/index.php/Procesketen_Onderwijsuitvoering_en_begeleiding getekend in /gekoppeld aan het hoofdproces Verzorgen onderwijs. Echter qua beschrjiving lijkt het meer iets voor in het hoofdproces Plannen en Roosteren (en daar is het ook al aan gekoppeld)  Welke kiezen we.....?">
-    <bounds
-        x="1920"
-        y="180"
-        width="337"
-        height="97"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-bed671d811924eb1879eb2b08d2861d4">
-    <bounds
-        x="1992"
-        y="297"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_f2d107b8-e865-4a42-8619-671d37501702.xml#f2d107b8-e865-4a42-8619-671d37501702"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e765285390fb4f17bd16db5d99bb4e4d"
       targetConnections="id-2c8f75ba79914cbeae8fcf389e35e416">
@@ -1216,6 +1193,16 @@
         id="id-2fb1abd8b2984301bf423d0b5d7141e8"
         source="id-e765285390fb4f17bd16db5d99bb4e4d"
         target="id-603d4f865a284ef7a6da806567b6f2d9">
+      <bendpoints
+          startX="24"
+          startY="-63"
+          endX="-463"
+          endY="114"/>
+      <bendpoints
+          startX="384"
+          startY="-63"
+          endX="-103"
+          endY="114"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-c679dacf173745e1802a3abf42f6dcda.xml#id-c679dacf173745e1802a3abf42f6dcda"/>
@@ -1231,7 +1218,7 @@
     </sourceConnections>
     <bounds
         x="444"
-        y="888"
+        y="912"
         width="120"
         height="55"/>
     <archimateElement
@@ -1251,8 +1238,8 @@
           href="RealizationRelationship_id-3728734923f44d42b7cbf5dbec90ce14.xml#id-3728734923f44d42b7cbf5dbec90ce14"/>
     </sourceConnections>
     <bounds
-        x="492"
-        y="1008"
+        x="444"
+        y="1020"
         width="120"
         height="55"/>
     <archimateElement
@@ -1274,7 +1261,7 @@
     </sourceConnections>
     <bounds
         x="720"
-        y="888"
+        y="912"
         width="120"
         height="55"/>
     <archimateElement
@@ -1326,7 +1313,7 @@
     </sourceConnections>
     <bounds
         x="1033"
-        y="900"
+        y="912"
         width="120"
         height="55"/>
     <archimateElement
@@ -1369,7 +1356,7 @@
     </sourceConnections>
     <bounds
         x="888"
-        y="888"
+        y="912"
         width="120"
         height="55"/>
     <archimateElement
@@ -1385,13 +1372,22 @@
         id="id-6be07d6c3cf44674bcd518267d24de9e"
         source="id-9757209e14d24f2b89eb22b3eae83f58"
         target="id-603d4f865a284ef7a6da806567b6f2d9">
+      <bendpoints
+          startY="-63"
+          endX="269"
+          endY="114"/>
+      <bendpoints
+          startX="-132"
+          startY="-63"
+          endX="137"
+          endY="114"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-b99c415ab94845a5b52434b11bbcf9aa.xml#id-b99c415ab94845a5b52434b11bbcf9aa"/>
     </sourceConnections>
     <bounds
-        x="1195"
-        y="900"
+        x="1200"
+        y="912"
         width="120"
         height="55"/>
     <archimateElement
@@ -1434,7 +1430,7 @@
     </sourceConnections>
     <bounds
         x="1344"
-        y="900"
+        y="912"
         width="120"
         height="55"/>
     <archimateElement
