@@ -564,15 +564,6 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-49230ea943764943b441a457a7033835"
-          source="id-db4c12f24d284c7ba4b25d29ee5ece81"
-          target="id-9f53a1ee32414e9dbeef9f127f29c2ed">
-        <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_id-8e26d15c48114dfa945e27c0da377ab1.xml#id-8e26d15c48114dfa945e27c0da377ab1"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-9b73bfdca49a4a049aa58b4372ed18d0"
           source="id-db4c12f24d284c7ba4b25d29ee5ece81"
           target="id-89c13251a6cb47d18932c460a6cded55">
@@ -638,21 +629,6 @@
         <archimateElement
             xsi:type="archimate:BusinessProcess"
             href="BusinessProcess_6fa55a6e-9ee1-4df9-b7ba-7134928bd48e.xml#6fa55a6e-9ee1-4df9-b7ba-7134928bd48e"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-9f53a1ee32414e9dbeef9f127f29c2ed"
-          targetConnections="id-49230ea943764943b441a457a7033835"
-          fontColor="#ffffff"
-          fillColor="#80b245">
-        <bounds
-            x="12"
-            y="24"
-            width="120"
-            height="55"/>
-        <archimateElement
-            xsi:type="archimate:BusinessProcess"
-            href="BusinessProcess_165bc212-bbe5-4e7d-a5dc-017515f8398e.xml#165bc212-bbe5-4e7d-a5dc-017515f8398e"/>
       </children>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
@@ -1234,7 +1210,7 @@
       textAlignment="1"
       content="Rene: Dit proces staat wel in https://route21.wikixl.nl/index.php/Procesketen_Onderwijsuitvoering_en_begeleiding getekend in /gekoppeld aan het hoofdproces Verzorgen onderwijs. Echter qua beschrjiving lijkt het meer iets voor in het hoofdproces Plannen en Roosteren (en daar is het ook al aan gekoppeld)  Welke kiezen we.....?">
     <bounds
-        x="1920"
+        x="1728"
         y="180"
         width="337"
         height="97"/>
@@ -1243,7 +1219,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a2b45f61b3f64855bb7907adadbe0122">
     <bounds
-        x="1992"
+        x="1776"
         y="297"
         width="120"
         height="55"/>
