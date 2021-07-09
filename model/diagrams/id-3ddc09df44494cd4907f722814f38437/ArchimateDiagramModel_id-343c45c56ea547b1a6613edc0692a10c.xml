@@ -6,7 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-78598418be9844ba9479c814c90e07b3"
-      font="1|Segoe UI|12.0|1|WINDOWS|1|-20|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      font="1|Segoe UI|10.8|1|WINDOWS|1|-18|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fontColor="#28583b"
       fillColor="#dee0dc">
     <sourceConnections
@@ -37,7 +37,7 @@
           href="CompositionRelationship_71b81e85-81e5-48bf-977b-91680d62b5b9.xml#71b81e85-81e5-48bf-977b-91680d62b5b9"/>
     </sourceConnections>
     <bounds
-        x="48"
+        x="60"
         y="228"
         width="277"
         height="241"/>
@@ -120,7 +120,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-39b75dcbe96d4544af112f5044a14e6a"
-      font="1|Segoe UI|12.0|1|WINDOWS|1|-20|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      font="1|Segoe UI|10.8|1|WINDOWS|1|-18|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fontColor="#ae4376"
       fillColor="#f3e6e9">
     <sourceConnections
@@ -133,7 +133,7 @@
           href="CompositionRelationship_00403746-56e4-4363-b81c-48080aaf33b1.xml#00403746-56e4-4363-b81c-48080aaf33b1"/>
     </sourceConnections>
     <bounds
-        x="48"
+        x="60"
         y="84"
         width="277"
         height="121"/>
@@ -149,18 +149,13 @@
           source="id-30e04396ed8d43af89a190bbe9e8cc29"
           target="id-59cd63dbbbba40e88fe1e40be9fe0a72">
         <bendpoints
-            startX="179"
+            startX="167"
             startY="9"
             endX="-78"
             endY="-243"/>
         <bendpoints
-            startX="179"
-            startY="153"
-            endX="-78"
-            endY="-63"/>
-        <bendpoints
-            startX="179"
-            startY="201"
+            startX="167"
+            startY="237"
             endX="-78"
             endY="-15"/>
         <archimateRelationship
@@ -183,7 +178,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c55a3ac174784c0a84dc4d96dbd7a036"
-      font="1|Segoe UI|12.0|1|WINDOWS|1|-20|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      font="1|Segoe UI|10.8|1|WINDOWS|1|-18|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fontColor="#28583b"
       fillColor="#dee0dc">
     <sourceConnections
@@ -231,7 +226,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-06960d43be5c4c5385a63d2cbe3c9d82"
-      font="1|Segoe UI|12.0|1|WINDOWS|1|-20|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      font="1|Segoe UI|10.8|1|WINDOWS|1|-18|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fontColor="#ae4376"
       fillColor="#f3e6e9">
     <sourceConnections
@@ -289,7 +284,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6558a25cf5054047894164d77aa690dc"
-      font="1|Segoe UI|12.0|1|WINDOWS|1|-20|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      font="1|Segoe UI|10.8|1|WINDOWS|1|-18|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fontColor="#ae4376"
       fillColor="#f3e6e9">
     <sourceConnections
@@ -329,9 +324,9 @@
           href="CompositionRelationship_23d2c5b0-a36d-4555-949f-602638217002.xml#23d2c5b0-a36d-4555-949f-602638217002"/>
     </sourceConnections>
     <bounds
-        x="841"
+        x="829"
         y="396"
-        width="624"
+        width="636"
         height="133"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -402,7 +397,7 @@
             href="TriggeringRelationship_e874cbf3-7a19-4021-8ff4-be32aa3500ba.xml#e874cbf3-7a19-4021-8ff4-be32aa3500ba"/>
       </sourceConnections>
       <bounds
-          x="324"
+          x="336"
           y="48"
           width="120"
           height="55"/>
@@ -417,7 +412,7 @@
         fontColor="#ffffff"
         fillColor="#b72b7b">
       <bounds
-          x="473"
+          x="492"
           y="48"
           width="109"
           height="55"/>
@@ -432,7 +427,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f503aad69e134c02b53c8b2ceb3adb31"
-      font="1|Segoe UI|12.0|1|WINDOWS|1|-20|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      font="1|Segoe UI|10.8|1|WINDOWS|1|-18|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fontColor="#7fb955"
       fillColor="#f1f9ec">
     <sourceConnections
@@ -445,7 +440,7 @@
           href="CompositionRelationship_bc09afa8-c745-4da5-90fd-0c27a4ba96f5.xml#bc09afa8-c745-4da5-90fd-0c27a4ba96f5"/>
     </sourceConnections>
     <bounds
-        x="841"
+        x="829"
         y="228"
         width="264"
         height="145"/>
@@ -547,7 +542,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-62536110062d4234acdf3cb3f015b976"
-      font="1|Segoe UI|12.0|1|WINDOWS|1|-20|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      font="1|Segoe UI|10.8|1|WINDOWS|1|-18|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fontColor="#7fb955"
       fillColor="#f1f9ec">
     <sourceConnections
@@ -604,7 +599,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-71562888410140819fbd6623424072bd"
-      font="1|Segoe UI|12.0|1|WINDOWS|1|-20|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      font="1|Segoe UI|10.8|1|WINDOWS|1|-18|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fontColor="#28583b"
       fillColor="#dee0dc">
     <sourceConnections
@@ -675,10 +670,15 @@
           source="id-d86d17846ce0410a97537c84dd37aeb5"
           target="id-2b8c177945834a06ab9619c219932332">
         <bendpoints
-            startX="109"
-            startY="-3"
-            endX="35"
-            endY="-279"/>
+            startX="121"
+            startY="9"
+            endX="47"
+            endY="-303"/>
+        <bendpoints
+            startX="121"
+            startY="153"
+            endX="47"
+            endY="-159"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_37c3bbbd-83a8-49a1-abd6-bf64eb740b10.xml#37c3bbbd-83a8-49a1-abd6-bf64eb740b10"/>
@@ -723,7 +723,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-66a72293d74a462f9e3115390e984a1a"
-      font="1|Segoe UI|12.0|1|WINDOWS|1|-20|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      font="1|Segoe UI|10.8|1|WINDOWS|1|-18|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fontColor="#408080"
       fillColor="#e3e2f1">
     <sourceConnections
@@ -762,7 +762,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b91badf6cf1c43a59951b85019b3f45e"
-      font="1|Segoe UI|12.0|1|WINDOWS|1|-20|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      font="1|Segoe UI|10.8|1|WINDOWS|1|-18|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fontColor="#ae4376"
       fillColor="#f3e6e9">
     <sourceConnections
@@ -844,12 +844,12 @@
         <bendpoints
             startX="84"
             startY="-3"
-            endX="-253"
+            endX="-241"
             endY="-147"/>
         <bendpoints
             startX="84"
             startY="57"
-            endX="-253"
+            endX="-241"
             endY="-87"/>
         <bendpoints
             startX="204"
@@ -857,12 +857,12 @@
             endX="-181"
             endY="-87"/>
         <bendpoints
-            startX="252"
+            startX="240"
             startY="57"
             endX="-85"
             endY="-87"/>
         <bendpoints
-            startX="252"
+            startX="240"
             startY="129"
             endX="-85"
             endY="-15"/>
@@ -900,7 +900,10 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-7987f62aa72f4b9dbc31b1552afdc806">
+      id="id-7987f62aa72f4b9dbc31b1552afdc806"
+      font="1|Segoe UI|10.8|1|WINDOWS|1|-18|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#7fb955"
+      fillColor="#f1f9ec">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-163632a6711e4c65a6f23fa635435576"
@@ -911,7 +914,7 @@
           href="CompositionRelationship_id-25a1598e3e2e45ef9ef1290f706e323c.xml#id-25a1598e3e2e45ef9ef1290f706e323c"/>
     </sourceConnections>
     <bounds
-        x="1116"
+        x="1104"
         y="228"
         width="157"
         height="145"/>
