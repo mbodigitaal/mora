@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Leercontent gebruik"
-    id="id-4544eb64a27f4122b4f4ee76962af683"/>
+    id="id-4544eb64a27f4122b4f4ee76962af683"
+    documentation="Het zoeken, raadplegen, downloaden van lesmateriaal door de student"/>
