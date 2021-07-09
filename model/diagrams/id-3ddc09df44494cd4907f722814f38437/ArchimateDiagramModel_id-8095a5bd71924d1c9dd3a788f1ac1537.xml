@@ -1027,6 +1027,11 @@
         id="id-6f6de4728818489b94c2ba63a96f11ae"
         source="id-53923142d68a419a970a18220697efef"
         target="id-346a954954fb4a43a329ded1235e276a">
+      <bendpoints
+          startX="-12"
+          startY="-195"
+          endX="-36"
+          endY="201"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-a32317715bf144dcaf14bb2b6d5f81bd.xml#id-a32317715bf144dcaf14bb2b6d5f81bd"/>
@@ -1318,18 +1323,6 @@
         href="ApplicationService_id-95b91e8729594714bff8bfcdbf1dddad.xml#id-95b91e8729594714bff8bfcdbf1dddad"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-b67387e0f59d4331aa9f183bd004a79f"
-      font="1|Segoe UI|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-      textAlignment="1"
-      content="Discussie:&#xD;&#xA;&#xD;&#xA;Proces: Uitvoeren leertaken BPV ook koppelen aan service: BPV begeleiding...???&#xD;&#xA;&#xD;&#xA;Service: Onderwijsbegeleidingsondersteuning graag bespreken. Die kende ik nog niet en zie twee serving relaties !&#xD;&#xA;">
-    <bounds
-        x="1644"
-        y="72"
-        width="282"
-        height="325"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-85f4e72a2bf649ddad1b67a9b9fe3908"
       targetConnections="id-8200de563ec84c7a8d045a0a96ab415f"
@@ -1609,21 +1602,9 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-5c755296020944f8ba408e0f774636a4"
-      textAlignment="1"
-      fillColor="#ffff1c"
-      content="Elmar: Is het niet zo dat BPV aanbod beheer input is voor BPV matching?&#xD;&#xA;&#xD;&#xA;Rene: BPV aanbodbeheer service focused op het onderhouden van de plekken.  BPV matching service biedt die in een andere voor het matchingsproces relevante userinterface aan aan het matchingsproces">
-    <bounds
-        x="48"
-        y="684"
-        width="146"
-        height="80"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
       id="id-3fd6ea5f4d3b40089990207fd3b8181c"
       textAlignment="1"
-      content="Wijzigingen t.o.v. versie 1.0&#xD;&#xA;&#xD;&#xA;Service relatiebeheer toegevoegd aan werven bpv bedrijven en plaaten&#xD;&#xA;&#xD;&#xA;Service formatie resultatenbeheer gekoppeld aan proces analyseren en beoordelen leerresultaten&#xD;&#xA;&#xD;&#xA;Proces Matchen studen en BPV plaats is gewijzigd omdat het proces is gewijzigd. Zie mail Frans&#xD;&#xA;Proces Begeleiden en monitoren voortgang is gewijzigd omdat het proces is gewijzigd. Zie mail Frans&#xD;&#xA;&#xD;&#xA;Service BPV aanbod beheer is niet meer gekoppeld aan proces Check erkenning leerbedrijf&#xD;&#xA;&#xD;&#xA;Proces Begeleiden en monitoren voortgang is ook gekoppeld aan service Onderwijs begeleiding ondersteuning ipv alleen aan service BPV begeleiding.  KLOPT DIT...??&#xD;&#xA;&#xD;&#xA;Service Student informatie publicatie is nu gekoppeld aan proces Uitvoeren leertaken en praktijk ervaren (dat was niet zo)&#xD;&#xA;">
+      content="Wijzigingen t.o.v. versie 1.0&#xD;&#xA;&#xD;&#xA;Service relatiebeheer toegevoegd aan werven bpv bedrijven en plaaten&#xD;&#xA;&#xD;&#xA;Service formatie resultatenbeheer gekoppeld aan proces analyseren en beoordelen leerresultaten&#xD;&#xA;&#xD;&#xA;Proces Matchen studen en BPV plaats is gewijzigd omdat het proces is gewijzigd. Zie mail Frans&#xD;&#xA;Proces Begeleiden en monitoren voortgang is gewijzigd omdat het proces is gewijzigd. Zie mail Frans&#xD;&#xA;&#xD;&#xA;Service BPV aanbod beheer is niet meer gekoppeld aan proces Check erkenning leerbedrijf&#xD;&#xA;&#xD;&#xA;Proces Begeleiden en monitoren voortgang is ook gekoppeld aan service Onderwijs begeleiding ondersteuning ipv alleen aan service BPV begeleiding.  KLOPT DIT...??&#xD;&#xA;&#xD;&#xA;Service Student informatie publicatie is nu gekoppeld aan proces Uitvoeren leertaken en praktijk ervaren (dat was niet zo)&#xD;&#xA;&#xD;&#xA;Service BPV begeleiding niet meer gekoppeld aan proces begeleiden en monitoren voortgang">
     <bounds
         x="108"
         y="876"
