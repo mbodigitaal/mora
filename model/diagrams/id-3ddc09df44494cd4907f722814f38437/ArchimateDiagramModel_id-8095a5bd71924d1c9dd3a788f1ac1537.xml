@@ -78,8 +78,9 @@
           source="id-cfdcc575b6504d17b9f8f7e05563341c"
           target="id-f6b01b1d7b4c42b3aa5ababd19b359dc">
         <bendpoints
-            startY="-81"
-            endX="-180"
+            startX="2"
+            startY="-87"
+            endX="-190"
             endY="-3"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
@@ -154,19 +155,14 @@
           source="id-ea3ae1591618483cae7b16110a39131e"
           target="id-f6b01b1d7b4c42b3aa5ababd19b359dc">
         <bendpoints
-            startX="133"
+            startX="193"
             startY="9"
-            endX="-178"
-            endY="-123"/>
+            endX="-118"
+            endY="-147"/>
         <bendpoints
-            startX="133"
-            startY="57"
-            endX="-178"
-            endY="-75"/>
-        <bendpoints
-            startX="133"
-            startY="117"
-            endX="-178"
+            startX="193"
+            startY="141"
+            endX="-118"
             endY="-15"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
