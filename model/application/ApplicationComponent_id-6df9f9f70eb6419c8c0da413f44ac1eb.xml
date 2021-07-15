@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Workflow systeem"
-    id="id-6df9f9f70eb6419c8c0da413f44ac1eb"
-    documentation="Het workflowsysteem initieert op basis van de start van een bedrijfsproces dat gerelateerde taken en of informatie naar betrokkenen en of actiehouders worden gestuurd. Na ontvangst of afronding van een taak of bezorging van informatie wordt automatisch een volgende taak geactiveerd totdat het einde van het proces is bereikt.&#xD;&#xA;Het systeem geeft inzicht in de actuele status van een proces en of signaleert op basis van vooringestelde tijdslimieten aan 1 of meer betrokkenen dat actie vereist is of dat het proces niet conform planning verloopt.&#xD;&#xA;"/>
