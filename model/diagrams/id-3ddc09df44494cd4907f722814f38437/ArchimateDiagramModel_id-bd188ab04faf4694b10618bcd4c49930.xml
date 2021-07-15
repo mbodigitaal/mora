@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Examinering Proces  - (P1) procesmodel new "
+    name="Examinering Proces - (P) procesmodel "
     id="id-bd188ab04faf4694b10618bcd4c49930">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -355,27 +355,27 @@
         fillColor="#44327f">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-ad6eccec687141bdac0dc9a36b3283b9"
+          id="id-f132c6a82a654388bcc3122558c6de52"
           lineWidth="2"
           lineColor="#4a3d91"
           source="id-e74b22d73f2c449ba694d0a1a4119a6e"
           target="id-a8d2292a4b5843cf9b62a8d382d4e80f">
         <bendpoints
-            startX="96"
-            startY="-2"
+            startX="132"
+            startY="-3"
             endX="-96"
-            endY="46"/>
+            endY="69"/>
         <bendpoints
-            startX="96"
-            startY="-38"
+            startX="132"
+            startY="-63"
             endX="-96"
-            endY="10"/>
+            endY="9"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_98c9b2e0-d0c8-4067-9366-f36852d3406d.xml#98c9b2e0-d0c8-4067-9366-f36852d3406d"/>
       </sourceConnections>
       <bounds
-          x="888"
+          x="852"
           y="156"
           width="120"
           height="55"/>
@@ -428,7 +428,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-a8d2292a4b5843cf9b62a8d382d4e80f"
-        targetConnections="id-0a9185300b38466caebf290b65f7e7a8 id-e924644f597f4ce5aa8c52786f680922 id-ad6eccec687141bdac0dc9a36b3283b9"
+        targetConnections="id-0a9185300b38466caebf290b65f7e7a8 id-e924644f597f4ce5aa8c52786f680922 id-f132c6a82a654388bcc3122558c6de52"
         fontColor="#ffffff"
         fillColor="#44337f">
       <sourceConnections
