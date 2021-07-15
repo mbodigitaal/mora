@@ -102,8 +102,8 @@
           href="CompositionRelationship_1a24af5b-a6bd-43d3-ae2b-9bae906559a7.xml#1a24af5b-a6bd-43d3-ae2b-9bae906559a7"/>
     </sourceConnections>
     <bounds
-        x="612"
-        y="468"
+        x="240"
+        y="396"
         width="1033"
         height="229"/>
     <children
@@ -405,8 +405,8 @@
           href="CompositionRelationship_3d749dce-9b81-40be-b436-580faba725b5.xml#3d749dce-9b81-40be-b436-580faba725b5"/>
     </sourceConnections>
     <bounds
-        x="1668"
-        y="468"
+        x="1296"
+        y="396"
         width="469"
         height="229"/>
     <children
@@ -499,8 +499,8 @@
           href="ServingRelationship_id-910175eb40664c548f1ee2c16a8deded.xml#id-910175eb40664c548f1ee2c16a8deded"/>
     </sourceConnections>
     <bounds
-        x="684"
-        y="768"
+        x="312"
+        y="696"
         width="186"
         height="55"/>
     <archimateElement
@@ -521,8 +521,8 @@
           href="ServingRelationship_id-c36fb8d07e5d46298aa45511ff51fc38.xml#id-c36fb8d07e5d46298aa45511ff51fc38"/>
     </sourceConnections>
     <bounds
-        x="1428"
-        y="768"
+        x="1056"
+        y="696"
         width="120"
         height="55"/>
     <archimateElement
@@ -543,8 +543,8 @@
           href="ServingRelationship_id-b32ee6ed2ab74aed968075caa848dae7.xml#id-b32ee6ed2ab74aed968075caa848dae7"/>
     </sourceConnections>
     <bounds
-        x="1165"
-        y="768"
+        x="793"
+        y="696"
         width="120"
         height="55"/>
     <archimateElement
@@ -565,8 +565,8 @@
           href="ServingRelationship_id-4f460026df5342b2aab8dcc89c068de7.xml#id-4f460026df5342b2aab8dcc89c068de7"/>
     </sourceConnections>
     <bounds
-        x="889"
-        y="768"
+        x="517"
+        y="696"
         width="120"
         height="55"/>
     <archimateElement
@@ -605,8 +605,8 @@
           href="ServingRelationship_id-d9c56e7c982249a387f20935a689a42e.xml#id-d9c56e7c982249a387f20935a689a42e"/>
     </sourceConnections>
     <bounds
-        x="1560"
-        y="768"
+        x="1188"
+        y="696"
         width="120"
         height="55"/>
     <archimateElement
@@ -627,8 +627,8 @@
           href="ServingRelationship_id-a428fa68c6ea4cc9bff9220e096696bf.xml#id-a428fa68c6ea4cc9bff9220e096696bf"/>
     </sourceConnections>
     <bounds
-        x="2003"
-        y="768"
+        x="1631"
+        y="696"
         width="120"
         height="55"/>
     <archimateElement
@@ -649,8 +649,8 @@
           href="ServingRelationship_id-8dd6db4713bb438aabfc294ec3432169.xml#id-8dd6db4713bb438aabfc294ec3432169"/>
     </sourceConnections>
     <bounds
-        x="1872"
-        y="768"
+        x="1500"
+        y="696"
         width="120"
         height="55"/>
     <archimateElement
@@ -670,8 +670,8 @@
           href="RealizationRelationship_id-2760bcf5cf664623b32b89190b8b27c0.xml#id-2760bcf5cf664623b32b89190b8b27c0"/>
     </sourceConnections>
     <bounds
-        x="1560"
-        y="936"
+        x="1188"
+        y="864"
         width="120"
         height="55"/>
     <archimateElement
@@ -691,8 +691,8 @@
           href="RealizationRelationship_id-007951296ff64148ac4734246c134e27.xml#id-007951296ff64148ac4734246c134e27"/>
     </sourceConnections>
     <bounds
-        x="889"
-        y="936"
+        x="517"
+        y="864"
         width="120"
         height="55"/>
     <archimateElement
@@ -712,8 +712,8 @@
           href="RealizationRelationship_id-551c7a648c7a42f39812b7bf57a71f81.xml#id-551c7a648c7a42f39812b7bf57a71f81"/>
     </sourceConnections>
     <bounds
-        x="684"
-        y="936"
+        x="312"
+        y="864"
         width="186"
         height="55"/>
     <archimateElement
@@ -733,8 +733,8 @@
           href="RealizationRelationship_id-e4412d2580454a9faca19607d53be1e2.xml#id-e4412d2580454a9faca19607d53be1e2"/>
     </sourceConnections>
     <bounds
-        x="1176"
-        y="936"
+        x="804"
+        y="864"
         width="120"
         height="55"/>
     <archimateElement
@@ -763,8 +763,8 @@
           href="RealizationRelationship_id-b9a2b877cc8f4bcf8c614c6553ad8855.xml#id-b9a2b877cc8f4bcf8c614c6553ad8855"/>
     </sourceConnections>
     <bounds
-        x="1968"
-        y="936"
+        x="1596"
+        y="864"
         width="120"
         height="55"/>
     <archimateElement
@@ -794,8 +794,8 @@
           href="ServingRelationship_id-d7dcfe71bf064f84b26cd4e6a4574e91.xml#id-d7dcfe71bf064f84b26cd4e6a4574e91"/>
     </sourceConnections>
     <bounds
-        x="1020"
-        y="768"
+        x="648"
+        y="696"
         width="133"
         height="55"/>
     <archimateElement
@@ -815,8 +815,8 @@
           href="RealizationRelationship_id-cda2e66169f6456cb13637de08c0c770.xml#id-cda2e66169f6456cb13637de08c0c770"/>
     </sourceConnections>
     <bounds
-        x="1027"
-        y="936"
+        x="655"
+        y="864"
         width="120"
         height="55"/>
     <archimateElement
@@ -836,8 +836,8 @@
           href="RealizationRelationship_id-10d9295d69ec452d82dba1354c22ce11.xml#id-10d9295d69ec452d82dba1354c22ce11"/>
     </sourceConnections>
     <bounds
-        x="2256"
-        y="936"
+        x="1884"
+        y="864"
         width="169"
         height="55"/>
     <archimateElement
@@ -849,8 +849,8 @@
       id="id-a3c524d46adc4594bef7f14048a16d05"
       targetConnections="id-ef8ac31cd3d24e00b6cf6df1e20a4ced">
     <bounds
-        x="2269"
-        y="768"
+        x="1897"
+        y="696"
         width="132"
         height="55"/>
     <archimateElement
@@ -889,8 +889,8 @@
           href="CompositionRelationship_8f80da80-164d-4faf-98de-6aac7c2d33dc.xml#8f80da80-164d-4faf-98de-6aac7c2d33dc"/>
     </sourceConnections>
     <bounds
-        x="396"
-        y="336"
+        x="24"
+        y="264"
         width="199"
         height="241"/>
     <children
@@ -983,8 +983,8 @@
           href="CompositionRelationship_fe031cf9-18fd-4ee9-ae65-150f15462aab.xml#fe031cf9-18fd-4ee9-ae65-150f15462aab"/>
     </sourceConnections>
     <bounds
-        x="396"
-        y="588"
+        x="24"
+        y="516"
         width="199"
         height="109"/>
     <children
@@ -1066,8 +1066,8 @@
           href="CompositionRelationship_4f03db04-d8bf-41dd-93e0-e3f1fe10b069.xml#4f03db04-d8bf-41dd-93e0-e3f1fe10b069"/>
     </sourceConnections>
     <bounds
-        x="612"
-        y="204"
+        x="240"
+        y="132"
         width="1033"
         height="241"/>
     <children
@@ -1430,8 +1430,8 @@
           href="CompositionRelationship_85b2c835-2942-425a-b9cf-eb5ef0c75221.xml#85b2c835-2942-425a-b9cf-eb5ef0c75221"/>
     </sourceConnections>
     <bounds
-        x="1074"
-        y="99"
+        x="702"
+        y="27"
         width="211"
         height="91"/>
     <children
@@ -1476,8 +1476,8 @@
           href="CompositionRelationship_e6915d31-e23d-47c5-b625-8cdb127acfef.xml#e6915d31-e23d-47c5-b625-8cdb127acfef"/>
     </sourceConnections>
     <bounds
-        x="852"
-        y="96"
+        x="480"
+        y="24"
         width="193"
         height="97"/>
     <children
@@ -1522,8 +1522,8 @@
           href="CompositionRelationship_40ede823-f991-4eca-a552-d72ea133016f.xml#40ede823-f991-4eca-a552-d72ea133016f"/>
     </sourceConnections>
     <bounds
-        x="396"
-        y="204"
+        x="24"
+        y="132"
         width="199"
         height="121"/>
     <children
@@ -1579,8 +1579,8 @@
       textAlignment="1"
       content="Opmaak, as is services en applicaties">
     <bounds
-        x="2269"
-        y="108"
+        x="1536"
+        y="27"
         width="414"
         height="97"/>
   </children>
@@ -1606,8 +1606,8 @@
           href="RealizationRelationship_id-092676719f3d41b19a4cfd0173511650.xml#id-092676719f3d41b19a4cfd0173511650"/>
     </sourceConnections>
     <bounds
-        x="1356"
-        y="936"
+        x="984"
+        y="864"
         width="145"
         height="55"/>
     <archimateElement
@@ -1628,8 +1628,8 @@
           href="ServingRelationship_id-9994db7a712942b2b9625214f59867c0.xml#id-9994db7a712942b2b9625214f59867c0"/>
     </sourceConnections>
     <bounds
-        x="1248"
-        y="864"
+        x="876"
+        y="792"
         width="120"
         height="55"/>
     <archimateElement
@@ -1649,8 +1649,8 @@
           href="RealizationRelationship_id-1c822fb6beca47db86d3a651f839965a.xml#id-1c822fb6beca47db86d3a651f839965a"/>
     </sourceConnections>
     <bounds
-        x="1248"
-        y="1008"
+        x="876"
+        y="936"
         width="120"
         height="55"/>
     <archimateElement
@@ -1671,8 +1671,8 @@
           href="ServingRelationship_id-3f4fa33b27bb4da6a46e8ec920770039.xml#id-3f4fa33b27bb4da6a46e8ec920770039"/>
     </sourceConnections>
     <bounds
-        x="1295"
-        y="768"
+        x="923"
+        y="696"
         width="120"
         height="55"/>
     <archimateElement
@@ -1699,8 +1699,8 @@
           href="ServingRelationship_id-1719977984c446a49eda276d8c7d8eff.xml#id-1719977984c446a49eda276d8c7d8eff"/>
     </sourceConnections>
     <bounds
-        x="540"
-        y="768"
+        x="168"
+        y="696"
         width="132"
         height="55"/>
     <archimateElement
@@ -1721,8 +1721,8 @@
           href="RealizationRelationship_id-93d3aa46103247ecb0d7beea398d456b.xml#id-93d3aa46103247ecb0d7beea398d456b"/>
     </sourceConnections>
     <bounds
-        x="412"
-        y="936"
+        x="40"
+        y="864"
         width="120"
         height="55"/>
     <archimateElement
@@ -1754,8 +1754,8 @@
           href="ServingRelationship_id-ecd507ffe74f4e8e91115ada34f4beaf.xml#id-ecd507ffe74f4e8e91115ada34f4beaf"/>
     </sourceConnections>
     <bounds
-        x="412"
-        y="768"
+        x="40"
+        y="696"
         width="120"
         height="55"/>
     <archimateElement
@@ -1776,8 +1776,8 @@
           href="RealizationRelationship_id-58a93ff3f80841ed86e533316d4d04dc.xml#id-58a93ff3f80841ed86e533316d4d04dc"/>
     </sourceConnections>
     <bounds
-        x="540"
-        y="936"
+        x="168"
+        y="864"
         width="132"
         height="55"/>
     <archimateElement
@@ -1799,8 +1799,8 @@
           href="ServingRelationship_id-6d210242bb9b4464b4207034bb77fb3f.xml#id-6d210242bb9b4464b4207034bb77fb3f"/>
     </sourceConnections>
     <bounds
-        x="1428"
-        y="840"
+        x="1056"
+        y="768"
         width="120"
         height="55"/>
     <archimateElement
@@ -1813,8 +1813,8 @@
       targetConnections="id-45b50fca97164e9d86de4394611f177c id-945208f24ea04ff0b9bdee47df4107b2"
       fillColor="#ffff1c">
     <bounds
-        x="1692"
-        y="768"
+        x="1320"
+        y="696"
         width="120"
         height="55"/>
     <archimateElement
@@ -1835,8 +1835,8 @@
           href="RealizationRelationship_id-9a97b9e612b5471e99303d288d5138e7.xml#id-9a97b9e612b5471e99303d288d5138e7"/>
     </sourceConnections>
     <bounds
-        x="1692"
-        y="936"
+        x="1320"
+        y="864"
         width="120"
         height="55"/>
     <archimateElement
@@ -1858,8 +1858,8 @@
           href="ServingRelationship_id-a3a6962695c643e196fbd2cd7f0c1b9d.xml#id-a3a6962695c643e196fbd2cd7f0c1b9d"/>
     </sourceConnections>
     <bounds
-        x="1824"
-        y="852"
+        x="1452"
+        y="780"
         width="133"
         height="55"/>
     <archimateElement
@@ -1880,8 +1880,8 @@
           href="RealizationRelationship_id-7bc8f871a0694e7d8b1572d9f91d63eb.xml#id-7bc8f871a0694e7d8b1572d9f91d63eb"/>
     </sourceConnections>
     <bounds
-        x="1824"
-        y="936"
+        x="1452"
+        y="864"
         width="133"
         height="55"/>
     <archimateElement
@@ -1912,8 +1912,8 @@
           href="ServingRelationship_id-30679fbad36d4c6ba3c5d82680e55728.xml#id-30679fbad36d4c6ba3c5d82680e55728"/>
     </sourceConnections>
     <bounds
-        x="2136"
-        y="768"
+        x="1764"
+        y="696"
         width="120"
         height="55"/>
     <archimateElement
@@ -1933,8 +1933,8 @@
           href="RealizationRelationship_id-62039bc494b0459a9d046171723237ab.xml#id-62039bc494b0459a9d046171723237ab"/>
     </sourceConnections>
     <bounds
-        x="2136"
-        y="936"
+        x="1764"
+        y="864"
         width="120"
         height="55"/>
     <archimateElement
@@ -1947,8 +1947,8 @@
       textAlignment="1"
       content="Elmar:&#xD;&#xA;- Heeft elk deelproces een service nodig? (check afname condities?!)&#xD;&#xA;- Generieke service versus processpecifiek? &#xD;&#xA;   (Toets- of examen planning en inschrijving --> Planning en inschrijving?)&#xD;&#xA;   (Toets-of examen inleveren --> Bestand inlevering)&#xD;&#xA;  Voor de service studentinformatiepublicatie doen we dat wel.&#xD;&#xA;- Het deelproces 'Vaststellen resultaat examen' omvat ook analyse over het geheel (wijken resultaten af?, hoe is het t.o.v. vorige jaren? etc.) Dit heeft nu geen plek in zowel het proces als de services! Gaat dit te ver om op te nemen?&#xD;&#xA;&#xD;&#xA;Studentapp versus SIS">
     <bounds
-        x="2676"
-        y="855"
+        x="2304"
+        y="783"
         width="414"
         height="217"/>
   </children>
@@ -1959,8 +1959,8 @@
       fillColor="#ffff1c"
       content="Nieuw toegevoegd t.o.v. vorige versie">
     <bounds
-        x="2520"
-        y="267"
+        x="1536"
+        y="156"
         width="112"
         height="58"/>
   </children>
