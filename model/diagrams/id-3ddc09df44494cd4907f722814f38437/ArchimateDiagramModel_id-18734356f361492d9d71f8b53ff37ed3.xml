@@ -47,8 +47,8 @@
           href="AccessRelationship_id-7a574e18fc99443fa7a9e782d2e26c85.xml#id-7a574e18fc99443fa7a9e782d2e26c85"/>
     </sourceConnections>
     <bounds
-        x="36"
-        y="432"
+        x="24"
+        y="420"
         width="572"
         height="229"/>
     <children
@@ -144,8 +144,8 @@
           href="CompositionRelationship_95e88bfd-cd85-4448-b27d-e9c8dbe5087c.xml#95e88bfd-cd85-4448-b27d-e9c8dbe5087c"/>
     </sourceConnections>
     <bounds
-        x="960"
-        y="36"
+        x="948"
+        y="24"
         width="373"
         height="121"/>
     <children
@@ -364,8 +364,8 @@
           href="AccessRelationship_id-07237e2a8e7143b990b275beca687a93.xml#id-07237e2a8e7143b990b275beca687a93"/>
     </sourceConnections>
     <bounds
-        x="648"
-        y="192"
+        x="636"
+        y="180"
         width="1081"
         height="469"/>
     <children
@@ -843,8 +843,8 @@
           href="CompositionRelationship_d2f511ea-41e9-42b8-8ecb-dbb09e0b8f26.xml#d2f511ea-41e9-42b8-8ecb-dbb09e0b8f26"/>
     </sourceConnections>
     <bounds
-        x="237"
-        y="60"
+        x="225"
+        y="48"
         width="179"
         height="157"/>
     <children
@@ -933,8 +933,8 @@
           href="CompositionRelationship_76d54eb4-09e4-4b2a-a2fa-ef5efe04e516.xml#76d54eb4-09e4-4b2a-a2fa-ef5efe04e516"/>
     </sourceConnections>
     <bounds
-        x="36"
-        y="60"
+        x="24"
+        y="48"
         width="181"
         height="157"/>
     <children
@@ -1008,8 +1008,8 @@
           href="CompositionRelationship_efaccd04-276f-4208-a60d-7fa43d8aad0d.xml#efaccd04-276f-4208-a60d-7fa43d8aad0d"/>
     </sourceConnections>
     <bounds
-        x="36"
-        y="264"
+        x="24"
+        y="252"
         width="572"
         height="121"/>
     <children
@@ -1104,8 +1104,8 @@
           href="CompositionRelationship_id-5b87a0ef28164652b1d924def842028b.xml#id-5b87a0ef28164652b1d924def842028b"/>
     </sourceConnections>
     <bounds
-        x="1764"
-        y="192"
+        x="1752"
+        y="180"
         width="145"
         height="469"/>
     <children
@@ -1143,8 +1143,8 @@
           href="CompositionRelationship_640e4541-8244-4df4-bab0-99902c65d2d6.xml#640e4541-8244-4df4-bab0-99902c65d2d6"/>
     </sourceConnections>
     <bounds
-        x="439"
-        y="60"
+        x="427"
+        y="48"
         width="169"
         height="157"/>
     <children
@@ -1228,8 +1228,8 @@
           href="AssociationRelationship_262eefb7-62b9-4c44-969d-a6d9aa05332e.xml#262eefb7-62b9-4c44-969d-a6d9aa05332e"/>
     </sourceConnections>
     <bounds
-        x="1800"
-        y="708"
+        x="1788"
+        y="696"
         width="109"
         height="55"/>
     <archimateElement
@@ -1260,8 +1260,8 @@
           href="AssociationRelationship_id-95121745d29a46e29b49153ecf216b34.xml#id-95121745d29a46e29b49153ecf216b34"/>
     </sourceConnections>
     <bounds
-        x="1657"
-        y="708"
+        x="1645"
+        y="696"
         width="120"
         height="55"/>
     <archimateElement
@@ -1292,8 +1292,8 @@
           href="AssociationRelationship_29ea4352-6d7b-40fb-a992-ab364bd30dc9.xml#29ea4352-6d7b-40fb-a992-ab364bd30dc9"/>
     </sourceConnections>
     <bounds
-        x="1513"
-        y="708"
+        x="1501"
+        y="696"
         width="120"
         height="55"/>
     <archimateElement
@@ -1323,8 +1323,8 @@
           href="AssociationRelationship_id-53352bf9b1fe40158dbfb65588c1f61d.xml#id-53352bf9b1fe40158dbfb65588c1f61d"/>
     </sourceConnections>
     <bounds
-        x="865"
-        y="708"
+        x="853"
+        y="696"
         width="144"
         height="55"/>
     <archimateElement
@@ -1355,8 +1355,8 @@
           href="AssociationRelationship_676abe03-78bf-4f2a-9fbf-99fc1b3335a2.xml#676abe03-78bf-4f2a-9fbf-99fc1b3335a2"/>
     </sourceConnections>
     <bounds
-        x="1358"
-        y="708"
+        x="1346"
+        y="696"
         width="120"
         height="55"/>
     <archimateElement
@@ -1368,8 +1368,8 @@
       id="id-632b7f4848ef41b185c461137ca9b8e5"
       targetConnections="id-b45a9ebd8b9243f1a4201cf21be35ef6 id-b59ea04cb84f49af81ffd21516ad3260">
     <bounds
-        x="708"
-        y="708"
+        x="696"
+        y="696"
         width="120"
         height="55"/>
     <archimateElement
@@ -1400,8 +1400,8 @@
           href="AssociationRelationship_0beea8df-41b5-42b0-a093-eba887f2affc.xml#0beea8df-41b5-42b0-a093-eba887f2affc"/>
     </sourceConnections>
     <bounds
-        x="1201"
-        y="708"
+        x="1189"
+        y="696"
         width="120"
         height="55"/>
     <archimateElement
@@ -1422,8 +1422,8 @@
           href="AssociationRelationship_id-0e256e2e7ea3496d8a74788c887cf83d.xml#id-0e256e2e7ea3496d8a74788c887cf83d"/>
     </sourceConnections>
     <bounds
-        x="1045"
-        y="708"
+        x="1033"
+        y="696"
         width="120"
         height="55"/>
     <archimateElement
@@ -1453,8 +1453,8 @@
           href="CompositionRelationship_id-549afb07c2ad495898445ae9169aeace.xml#id-549afb07c2ad495898445ae9169aeace"/>
     </sourceConnections>
     <bounds
-        x="320"
-        y="708"
+        x="308"
+        y="696"
         width="120"
         height="55"/>
     <archimateElement
@@ -1466,8 +1466,8 @@
       id="id-2c25e1a12ad142d1a1e8e949608b583c"
       targetConnections="id-1cbabbd7e6414b52a581f22658f98894">
     <bounds
-        x="252"
-        y="804"
+        x="240"
+        y="792"
         width="120"
         height="55"/>
     <archimateElement
@@ -1479,8 +1479,8 @@
       id="id-1e39034aae974fd788378b90d39e0908"
       targetConnections="id-532c5f9f462e41378225918b24e5f98f">
     <bounds
-        x="396"
-        y="804"
+        x="384"
+        y="792"
         width="120"
         height="55"/>
     <archimateElement
@@ -1494,8 +1494,8 @@
       textAlignment="1"
       content="Twijfel: &#xD;&#xA;&#xD;&#xA;1 - Moet ik bepalen leerroute wit maken...?&#xD;&#xA;&#xD;&#xA;2 - Businessobject Leertaak is verbonden aan een miljoen andere bedrijfsobjecten..... die heb ik  niet getekend. Wat moet ik hiermee....?&#xD;&#xA;&#xD;&#xA;3 - Pas op voor proces Inzetten middelen 2 (moet misschien zonder die 2)">
     <bounds
-        x="252"
-        y="876"
+        x="240"
+        y="864"
         width="1009"
         height="169"/>
   </children>
@@ -1523,8 +1523,8 @@
           href="AssociationRelationship_97e9793a-a547-426a-99a0-2e465f633bd6.xml#97e9793a-a547-426a-99a0-2e465f633bd6"/>
     </sourceConnections>
     <bounds
-        x="1944"
-        y="708"
+        x="1932"
+        y="696"
         width="120"
         height="55"/>
     <archimateElement
@@ -1538,8 +1538,8 @@
       textAlignment="1"
       content="Wijzigingen t.o.v. versie 1:&#xD;&#xA;&#xD;&#xA;">
     <bounds
-        x="252"
-        y="1055"
+        x="240"
+        y="1043"
         width="1009"
         height="80"/>
   </children>
