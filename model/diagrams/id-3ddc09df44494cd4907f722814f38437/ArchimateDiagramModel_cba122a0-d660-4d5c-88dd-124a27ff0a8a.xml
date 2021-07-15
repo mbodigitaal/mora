@@ -46,6 +46,7 @@
           href="CompositionRelationship_2178f3d3-0f36-4504-8938-4f40bdadfe19.xml#2178f3d3-0f36-4504-8938-4f40bdadfe19"/>
     </sourceConnections>
     <bounds
+        y="12"
         width="289"
         height="265"/>
     <children
@@ -175,6 +176,7 @@
     </sourceConnections>
     <bounds
         x="300"
+        y="12"
         width="169"
         height="265"/>
     <children
@@ -249,6 +251,7 @@
     </sourceConnections>
     <bounds
         x="480"
+        y="12"
         width="265"
         height="361"/>
     <children
@@ -428,7 +431,7 @@
       id="18479186-09aa-4ef9-a310-b43122afa097"
       font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fontColor="#4f97cf"
-      fillColor="#e8f8ff">
+      fillColor="#e8effa">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="7aa6e972-3a23-4d1b-9d40-1df54c5f335f"
@@ -439,7 +442,7 @@
           href="CompositionRelationship_8ee0eb3f-cfad-46a3-9c92-94a64bd04435.xml#8ee0eb3f-cfad-46a3-9c92-94a64bd04435"/>
     </sourceConnections>
     <bounds
-        y="276"
+        y="288"
         width="469"
         height="85"/>
     <children
@@ -447,7 +450,7 @@
         id="28635882-9fce-4995-80ef-ccebe75d0585"
         targetConnections="7aa6e972-3a23-4d1b-9d40-1df54c5f335f"
         fontColor="#ffffff"
-        fillColor="#00acff">
+        fillColor="#4f97cf">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="e4458530-6448-4fe4-999e-e8b93bc54882"
@@ -511,6 +514,7 @@
     </sourceConnections>
     <bounds
         x="756"
+        y="12"
         width="157"
         height="265"/>
     <children
@@ -574,7 +578,7 @@
       id="1d3080ad-0add-4bd2-b5ae-2a25f78ab587"
       font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fontColor="#4f97cf"
-      fillColor="#e8f8ff">
+      fillColor="#e8effa">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="1cf44ca8-17d1-4f8e-a252-e64fa13b1271"
@@ -586,7 +590,7 @@
     </sourceConnections>
     <bounds
         x="756"
-        y="276"
+        y="288"
         width="853"
         height="85"/>
     <children
@@ -594,7 +598,7 @@
         id="12680ec0-ce11-49bc-a9eb-c64bb9eefa3d"
         targetConnections="2d34664e-2924-4efc-91e0-e7f9dfb6ec2e c8a799bd-9b71-4907-a23d-cb6ce682b44c 1cf44ca8-17d1-4f8e-a252-e64fa13b1271 7ce96a56-eb79-45af-86f3-0bd2e6f8edbd 844b4766-887d-4eeb-bc1d-e1b420f41dcd a0cec5e7-7b15-4095-9507-7422e1013aeb"
         fontColor="#ffffff"
-        fillColor="#00acff">
+        fillColor="#4f97cf">
       <bounds
           x="348"
           y="24"
@@ -643,6 +647,7 @@
     </sourceConnections>
     <bounds
         x="1236"
+        y="12"
         width="217"
         height="265"/>
     <children
@@ -762,7 +767,7 @@
     </sourceConnections>
     <bounds
         x="1080"
-        y="156"
+        y="168"
         width="145"
         height="109"/>
     <children
@@ -811,6 +816,7 @@
       fillColor="#f3e6e9">
     <bounds
         x="924"
+        y="12"
         width="145"
         height="265"/>
     <children
@@ -885,6 +891,7 @@
     </sourceConnections>
     <bounds
         x="1464"
+        y="12"
         width="145"
         height="265"/>
     <children
@@ -936,6 +943,7 @@
     </sourceConnections>
     <bounds
         x="1080"
+        y="12"
         width="145"
         height="145"/>
     <children
@@ -1023,7 +1031,7 @@
           href="CompositionRelationship_f14fab79-9941-4c53-b0ce-1f9e8cf2b1da.xml#f14fab79-9941-4c53-b0ce-1f9e8cf2b1da"/>
     </sourceConnections>
     <bounds
-        y="372"
+        y="384"
         width="1609"
         height="111"/>
     <children
