@@ -1474,9 +1474,9 @@
           endX="-108"
           endY="72"/>
       <bendpoints
-          startX="156"
+          startX="120"
           startY="72"
-          endX="12"
+          endX="-24"
           endY="72"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
@@ -1518,9 +1518,9 @@
           endX="-876"
           endY="132"/>
       <bendpoints
-          startX="852"
+          startX="864"
           startY="132"
-          endX="-24"
+          endX="-12"
           endY="132"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
@@ -1721,6 +1721,21 @@
         id="id-6c56ef57301f403bb7adc180cb0a1572"
         source="id-e4454e7ddb08438b88c34be2391bc499"
         target="id-8de4fb378a9d44a8b89f07a7679b2384">
+      <bendpoints
+          startX="36"
+          startY="60"
+          endX="-108"
+          endY="60"/>
+      <bendpoints
+          startX="72"
+          startY="72"
+          endX="-72"
+          endY="72"/>
+      <bendpoints
+          startX="108"
+          startY="60"
+          endX="-36"
+          endY="60"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-b07a9e290ce04af9a722b44d18f73e7b.xml#id-b07a9e290ce04af9a722b44d18f73e7b"/>
@@ -1733,5 +1748,16 @@
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-01c2f076f0cc4dabb5718ded270e4b74.xml#id-01c2f076f0cc4dabb5718ded270e4b74"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-0a60cbaf77414512be9d51229d242cb7"
+      textAlignment="1"
+      content="Rene:&#xD;&#xA;&#xD;&#xA;Ik mis relatie tussen bus onject examen resultaat en proces: Verzamelen leerresultaten&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+    <bounds
+        x="74"
+        y="795"
+        width="431"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>
