@@ -757,7 +757,7 @@
           href="RealizationRelationship_id-e4412d2580454a9faca19607d53be1e2.xml#id-e4412d2580454a9faca19607d53be1e2"/>
     </sourceConnections>
     <bounds
-        x="804"
+        x="793"
         y="864"
         width="120"
         height="55"/>
@@ -788,7 +788,7 @@
           href="RealizationRelationship_id-b9a2b877cc8f4bcf8c614c6553ad8855.xml#id-b9a2b877cc8f4bcf8c614c6553ad8855"/>
     </sourceConnections>
     <bounds
-        x="1596"
+        x="1590"
         y="864"
         width="120"
         height="55"/>
@@ -863,9 +863,9 @@
           href="RealizationRelationship_id-10d9295d69ec452d82dba1354c22ce11.xml#id-10d9295d69ec452d82dba1354c22ce11"/>
     </sourceConnections>
     <bounds
-        x="1884"
+        x="1896"
         y="864"
-        width="145"
+        width="121"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -876,9 +876,9 @@
       id="id-a3c524d46adc4594bef7f14048a16d05"
       targetConnections="id-ef8ac31cd3d24e00b6cf6df1e20a4ced">
     <bounds
-        x="1897"
+        x="1896"
         y="696"
-        width="132"
+        width="121"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
@@ -1661,7 +1661,7 @@
       id="id-9244712e12d64d1184bf55efa3424d83"
       font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
-      content="Releasenotes&#xD;&#xA;Nieuw:&#xD;&#xA;App: Workflow systeem + service: procesvoortgang ondersteuning &#xD;&#xA;Service: Analysering toets resultaat&#xD;&#xA;App: Student communicatiesysteem (hiermee is de studentenapp vervallen)&#xD;&#xA;&#xD;&#xA;Naam van appcomp: Toets en examen inlever &amp; beoordeling systeem&#xD;&#xA;&#xD;&#xA;Bestaande service: archivering en DMS zijn gekoppeld (=nieuw) aan Proces Examineren en aan proces Diplomeren en certificeren&#xD;&#xA;&#xD;&#xA;Bestaande service: Document waarmerking en ondertekening en Document waarmerking en onderteken systeem zijn gekoppeld (=nieuw) aan proces Diplomeren en certificeren">
+      content="Releasenotes:&#xD;&#xA;&#xD;&#xA;Nieuw:&#xD;&#xA;App: Workflow systeem + service: procesvoortgang ondersteuning &#xD;&#xA;Service: Analysering toets resultaat&#xD;&#xA;App: Student communicatiesysteem (hiermee is de studentenapp vervallen)&#xD;&#xA;&#xD;&#xA;Naam van appcomp: Toets en examen inlever &amp; beoordeling systeem&#xD;&#xA;&#xD;&#xA;Bestaande service: archivering en DMS zijn gekoppeld (=nieuw) aan Proces Examineren en aan proces Diplomeren en certificeren&#xD;&#xA;&#xD;&#xA;Bestaande service: Document waarmerking en ondertekening en Document waarmerking en onderteken systeem zijn gekoppeld (=nieuw) aan proces Diplomeren en certificeren">
     <bounds
         x="1307"
         y="27"
@@ -1983,7 +1983,7 @@
           href="RealizationRelationship_id-c556e67803cc414e8a5ab0f33e1f1b7a.xml#id-c556e67803cc414e8a5ab0f33e1f1b7a"/>
     </sourceConnections>
     <bounds
-        x="1464"
+        x="1452"
         y="864"
         width="120"
         height="55"/>
@@ -2005,9 +2005,9 @@
           href="RealizationRelationship_id-3a19dbf2af464976b71f9fb2108d9120.xml#id-3a19dbf2af464976b71f9fb2108d9120"/>
     </sourceConnections>
     <bounds
-        x="1740"
+        x="1764"
         y="864"
-        width="120"
+        width="106"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -2038,10 +2038,22 @@
     <bounds
         x="1764"
         y="696"
-        width="120"
+        width="109"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-6ff82736ff554bde80f32a0f74411955.xml#id-6ff82736ff554bde80f32a0f74411955"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-82c8dfecd7c04fa08e10d8f1114f723e"
+      textAlignment="1"
+      fillColor="#ffff80"
+      content="Rene: Deze niet gekoppeld..?">
+    <bounds
+        x="1869"
+        y="648"
+        width="172"
+        height="37"/>
   </children>
 </archimate:ArchimateDiagramModel>

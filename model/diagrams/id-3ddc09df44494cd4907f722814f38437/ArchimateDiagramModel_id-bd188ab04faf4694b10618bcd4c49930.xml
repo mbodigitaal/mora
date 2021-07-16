@@ -100,7 +100,7 @@
           href="CompositionRelationship_6107f4d9-118a-419e-9d2c-e830ed560333.xml#6107f4d9-118a-419e-9d2c-e830ed560333"/>
     </sourceConnections>
     <bounds
-        x="528"
+        x="204"
         y="384"
         width="1033"
         height="229"/>
@@ -313,7 +313,7 @@
             href="TriggeringRelationship_6a983b5a-0987-43bc-9f9b-259817ba6c80.xml#6a983b5a-0987-43bc-9f9b-259817ba6c80"/>
       </sourceConnections>
       <bounds
-          x="372"
+          x="360"
           y="156"
           width="120"
           height="55"/>
@@ -339,7 +339,7 @@
             href="TriggeringRelationship_d46eceff-edbc-4b28-85fe-313d85aab1a8.xml#d46eceff-edbc-4b28-85fe-313d85aab1a8"/>
       </sourceConnections>
       <bounds
-          x="504"
+          x="516"
           y="156"
           width="120"
           height="55"/>
@@ -421,9 +421,9 @@
           href="CompositionRelationship_3d749dce-9b81-40be-b436-580faba725b5.xml#3d749dce-9b81-40be-b436-580faba725b5"/>
     </sourceConnections>
     <bounds
-        x="1584"
+        x="1260"
         y="384"
-        width="469"
+        width="457"
         height="229"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -469,7 +469,7 @@
             href="TriggeringRelationship_6d809c90-7047-4b6a-ad64-e43c2dc045ce.xml#6d809c90-7047-4b6a-ad64-e43c2dc045ce"/>
       </sourceConnections>
       <bounds
-          x="180"
+          x="168"
           y="84"
           width="120"
           height="55"/>
@@ -484,7 +484,7 @@
         fontColor="#ffffff"
         fillColor="#44337f">
       <bounds
-          x="336"
+          x="312"
           y="84"
           width="120"
           height="55"/>
@@ -530,7 +530,7 @@
           href="CompositionRelationship_8f80da80-164d-4faf-98de-6aac7c2d33dc.xml#8f80da80-164d-4faf-98de-6aac7c2d33dc"/>
     </sourceConnections>
     <bounds
-        x="336"
+        x="12"
         y="204"
         width="175"
         height="289"/>
@@ -632,7 +632,7 @@
           href="CompositionRelationship_fe031cf9-18fd-4ee9-ae65-150f15462aab.xml#fe031cf9-18fd-4ee9-ae65-150f15462aab"/>
     </sourceConnections>
     <bounds
-        x="336"
+        x="12"
         y="504"
         width="175"
         height="109"/>
@@ -719,7 +719,7 @@
           href="CompositionRelationship_76d54eb4-09e4-4b2a-a2fa-ef5efe04e516.xml#76d54eb4-09e4-4b2a-a2fa-ef5efe04e516"/>
     </sourceConnections>
     <bounds
-        x="528"
+        x="204"
         y="120"
         width="1033"
         height="241"/>
@@ -1104,7 +1104,7 @@
           href="CompositionRelationship_85b2c835-2942-425a-b9cf-eb5ef0c75221.xml#85b2c835-2942-425a-b9cf-eb5ef0c75221"/>
     </sourceConnections>
     <bounds
-        x="990"
+        x="666"
         y="12"
         width="571"
         height="91"/>
@@ -1154,7 +1154,7 @@
           href="CompositionRelationship_e6915d31-e23d-47c5-b625-8cdb127acfef.xml#e6915d31-e23d-47c5-b625-8cdb127acfef"/>
     </sourceConnections>
     <bounds
-        x="528"
+        x="204"
         y="12"
         width="433"
         height="91"/>
@@ -1204,7 +1204,7 @@
           href="CompositionRelationship_40ede823-f991-4eca-a552-d72ea133016f.xml#40ede823-f991-4eca-a552-d72ea133016f"/>
     </sourceConnections>
     <bounds
-        x="336"
+        x="12"
         y="12"
         width="175"
         height="181"/>

@@ -21,7 +21,7 @@
     <bounds
         x="12"
         y="12"
-        width="193"
+        width="181"
         height="186"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -141,6 +141,11 @@
             endX="12"
             endY="-321"/>
         <bendpoints
+            startX="-108"
+            startY="93"
+            endX="12"
+            endY="-225"/>
+        <bendpoints
             startX="-156"
             startY="93"
             endX="-36"
@@ -171,6 +176,11 @@
             startY="-3"
             endX="12"
             endY="-447"/>
+        <bendpoints
+            startX="-108"
+            startY="93"
+            endX="12"
+            endY="-351"/>
         <bendpoints
             startX="-156"
             startY="93"

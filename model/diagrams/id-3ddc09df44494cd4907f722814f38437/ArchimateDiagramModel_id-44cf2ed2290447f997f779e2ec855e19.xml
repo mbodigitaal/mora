@@ -28,8 +28,8 @@
           href="CompositionRelationship_cb15113c-7d35-49e2-a540-f0270489751a.xml#cb15113c-7d35-49e2-a540-f0270489751a"/>
     </sourceConnections>
     <bounds
-        x="24"
-        y="396"
+        x="15"
+        y="384"
         width="572"
         height="229"/>
     <children
@@ -116,8 +116,8 @@
           href="CompositionRelationship_95e88bfd-cd85-4448-b27d-e9c8dbe5087c.xml#95e88bfd-cd85-4448-b27d-e9c8dbe5087c"/>
     </sourceConnections>
     <bounds
-        x="948"
-        y="24"
+        x="939"
+        y="12"
         width="373"
         height="109"/>
     <children
@@ -294,8 +294,8 @@
           href="CompositionRelationship_6b03da90-0a29-4d37-9fd0-334b8d6cc9e4.xml#6b03da90-0a29-4d37-9fd0-334b8d6cc9e4"/>
     </sourceConnections>
     <bounds
-        x="636"
-        y="156"
+        x="627"
+        y="144"
         width="1021"
         height="469"/>
     <children
@@ -689,8 +689,8 @@
           href="CompositionRelationship_d2f511ea-41e9-42b8-8ecb-dbb09e0b8f26.xml#d2f511ea-41e9-42b8-8ecb-dbb09e0b8f26"/>
     </sourceConnections>
     <bounds
-        x="225"
-        y="24"
+        x="216"
+        y="12"
         width="179"
         height="157"/>
     <children
@@ -779,8 +779,8 @@
           href="CompositionRelationship_76d54eb4-09e4-4b2a-a2fa-ef5efe04e516.xml#76d54eb4-09e4-4b2a-a2fa-ef5efe04e516"/>
     </sourceConnections>
     <bounds
-        x="24"
-        y="24"
+        x="15"
+        y="12"
         width="181"
         height="157"/>
     <children
@@ -854,8 +854,8 @@
           href="CompositionRelationship_efaccd04-276f-4208-a60d-7fa43d8aad0d.xml#efaccd04-276f-4208-a60d-7fa43d8aad0d"/>
     </sourceConnections>
     <bounds
-        x="24"
-        y="228"
+        x="15"
+        y="216"
         width="572"
         height="121"/>
     <children
@@ -950,8 +950,8 @@
           href="CompositionRelationship_id-5b87a0ef28164652b1d924def842028b.xml#id-5b87a0ef28164652b1d924def842028b"/>
     </sourceConnections>
     <bounds
-        x="1692"
-        y="156"
+        x="1683"
+        y="144"
         width="145"
         height="469"/>
     <children
@@ -989,8 +989,8 @@
           href="CompositionRelationship_640e4541-8244-4df4-bab0-99902c65d2d6.xml#640e4541-8244-4df4-bab0-99902c65d2d6"/>
     </sourceConnections>
     <bounds
-        x="427"
-        y="24"
+        x="418"
+        y="12"
         width="169"
         height="157"/>
     <children
@@ -1028,8 +1028,8 @@
       textAlignment="1"
       content="Wijzigingen t.o.v. versie 1:&#xD;&#xA;&#xD;&#xA;Proces Inzetten middelen zit zowel in hoofdproces Plannen en Roosteren (zie hierboven) als in hoofdproces Verzorging Onderwijs. Dat is 2 composite relaties. Welke kiezen we....?&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
     <bounds
-        x="485"
-        y="682"
+        x="476"
+        y="670"
         width="1009"
         height="80"/>
   </children>
