@@ -1257,7 +1257,7 @@
     <bounds
         x="816"
         y="636"
-        width="120"
+        width="109"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
@@ -1268,9 +1268,9 @@
       id="df2ac947-00ff-4c7e-83fd-779e6ccee94b"
       targetConnections="eff1330d-d9f6-4b33-99b3-cfb15acb6008">
     <bounds
-        x="686"
+        x="696"
         y="636"
-        width="120"
+        width="110"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
@@ -1284,7 +1284,7 @@
         x="1106"
         y="636"
         width="120"
-        height="55"/>
+        height="61"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-725f5da93e0141a291860544819c43ff.xml#id-725f5da93e0141a291860544819c43ff"/>

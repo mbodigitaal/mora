@@ -50,6 +50,8 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-8ef50a108c194c529c8f33ed7ba036e7"
+          lineWidth="2"
+          lineColor="#28583b"
           source="id-aa5b078ea3f545dfba28753bdb933e4c"
           target="id-f99666904c2f43368d9cc78c5d9d1565">
         <archimateRelationship
@@ -93,6 +95,8 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-7860a2fce4b54a8482c2b983196cf677"
+          lineWidth="2"
+          lineColor="#28583b"
           source="id-f99666904c2f43368d9cc78c5d9d1565"
           target="id-c0972d5923cd4caaa6aa70b228a7fe90">
         <bendpoints
@@ -109,6 +113,15 @@
           id="id-824df840d1a34b24bca48c8aaf51fe97"
           source="id-f99666904c2f43368d9cc78c5d9d1565"
           target="id-0f080214095b40b39eab9d67f0c7ab46">
+        <bendpoints
+            startY="129"
+            endX="107"
+            endY="-123"/>
+        <bendpoints
+            startX="-108"
+            startY="129"
+            endX="-1"
+            endY="-123"/>
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_id-1b31a8ca9452416093571f574072a846.xml#id-1b31a8ca9452416093571f574072a846"/>
@@ -131,6 +144,8 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-db7b4ccadfb0478583f1dfce52bcdb0f"
+          lineWidth="2"
+          lineColor="#28583b"
           source="id-1e13bb1397a64d57867e2a914dddd980"
           target="id-aa5b078ea3f545dfba28753bdb933e4c">
         <archimateRelationship
@@ -198,6 +213,8 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-c9fe6c8a5af54b609da2671fb6750dd5"
+          lineWidth="2"
+          lineColor="#ae4376"
           source="id-06d22a0f008149f3a3bd75040a481b10"
           target="id-c0972d5923cd4caaa6aa70b228a7fe90">
         <bendpoints
@@ -256,6 +273,8 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-f0c0f177f14a419ca1eec4a93b530338"
+          lineWidth="2"
+          lineColor="#28583b"
           source="id-5de886cfc9be48acb06fca45e7ea3c70"
           target="id-c0972d5923cd4caaa6aa70b228a7fe90">
         <archimateRelationship
@@ -313,6 +332,8 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-36b272fe353b4442b51284da20a4d671"
+          lineWidth="2"
+          lineColor="#ae4376"
           source="id-c0972d5923cd4caaa6aa70b228a7fe90"
           target="id-55c18834799d4101805baf43107aacd8">
         <bendpoints
@@ -407,6 +428,8 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-b3abc89bcbb8424d831afdddcf1417a7"
+          lineWidth="2"
+          lineColor="#ae4376"
           source="id-16f9d64189d24894b0df2e62f1addd2e"
           target="id-d3aa698828e347e280d44e1df3bf2aab">
         <archimateRelationship
@@ -431,6 +454,8 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-5243a5514a014d21b46ec8e2f7d2dd3b"
+          lineWidth="2"
+          lineColor="#ae4376"
           source="id-d3aa698828e347e280d44e1df3bf2aab"
           target="id-2e26e8181d1043dcab351680f3d244e9">
         <archimateRelationship
@@ -455,6 +480,8 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-02f8ee756d064619b5280199d1b74475"
+          lineWidth="2"
+          lineColor="#ae4376"
           source="id-a95cb71b1bcb4d6b85ae580c361b4615"
           target="id-22d8e6cd835d4f628d9aeca1d94c0f34">
         <bendpoints
@@ -537,6 +564,8 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-6b617e269aa14b059786ee50fdb6b00d"
+          lineWidth="2"
+          lineColor="#7fb955"
           source="id-2e26e8181d1043dcab351680f3d244e9"
           target="id-4c43b63cc36d4615827b3c2bf10914fb">
         <bendpoints
@@ -561,6 +590,8 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-02b2b9734fb34e5791a9154ca4a7ff3d"
+          lineWidth="2"
+          lineColor="#7fb955"
           source="id-2e26e8181d1043dcab351680f3d244e9"
           target="id-0749348c1ee849428c468c29c3b192bd">
         <bendpoints
@@ -580,6 +611,8 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-1e21a8aae9fe4a8d85ddb6d63dfdb97c"
+          lineWidth="2"
+          lineColor="#7fb955"
           source="id-2e26e8181d1043dcab351680f3d244e9"
           target="id-a95cb71b1bcb4d6b85ae580c361b4615">
         <bendpoints
@@ -628,6 +661,8 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-18cf051597f6429981e9044f05e4d3f1"
+          lineWidth="2"
+          lineColor="#7fb955"
           source="id-2e26e8181d1043dcab351680f3d244e9"
           target="id-22d8e6cd835d4f628d9aeca1d94c0f34">
         <archimateRelationship
@@ -710,6 +745,8 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-1b637b0a13bd4c0e9439fc5c5f3db1f9"
+          lineWidth="2"
+          lineColor="#7fb955"
           source="id-4c43b63cc36d4615827b3c2bf10914fb"
           target="id-c8fa27a515164a9bbf8fa55ac3cc125d">
         <archimateRelationship
@@ -743,6 +780,8 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-c24cf08c917e44308a2787efd4f5c5da"
+          lineWidth="2"
+          lineColor="#7fb955"
           source="id-4c43b63cc36d4615827b3c2bf10914fb"
           target="id-79f0f74cd28b4fc493e935e04947ae9f">
         <archimateRelationship
@@ -809,6 +848,8 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-cb2318330d134140b266fea2fddac477"
+          lineWidth="2"
+          lineColor="#28583b"
           source="id-0749348c1ee849428c468c29c3b192bd"
           target="id-885a4a6358424b37a86db97d16206a77">
         <archimateRelationship
@@ -833,13 +874,15 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-210d11cd100d41e3a8d4c2ee71d90116"
+          lineWidth="2"
+          lineColor="#28583b"
           source="id-3a991fbfe05745d4bf3a8c58b7731eb1"
           target="id-a95cb71b1bcb4d6b85ae580c361b4615">
         <bendpoints
             startX="109"
             startY="-3"
             endX="35"
-            endY="-279"/>
+            endY="-315"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_37c3bbbd-83a8-49a1-abd6-bf64eb740b10.xml#37c3bbbd-83a8-49a1-abd6-bf64eb740b10"/>
@@ -862,6 +905,8 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-8bffb48184c94122996fcc7e43359265"
+          lineWidth="2"
+          lineColor="#28583b"
           source="id-885a4a6358424b37a86db97d16206a77"
           target="id-3a991fbfe05745d4bf3a8c58b7731eb1">
         <archimateRelationship
@@ -1176,6 +1221,8 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-cbff37ef705e42189c1fa6e207048196"
+          lineWidth="2"
+          lineColor="#ae4376"
           source="id-55c18834799d4101805baf43107aacd8"
           target="id-990a8ca776b84cdaa0a2132c58f2b117">
         <archimateRelationship
@@ -1185,6 +1232,8 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-392ad1dd1d4c439ba88e40b109ee55fd"
+          lineWidth="2"
+          lineColor="#ae4376"
           source="id-55c18834799d4101805baf43107aacd8"
           target="id-53dcc7b3191b4b84a1d0e97272ad089f">
         <archimateRelationship
@@ -1223,6 +1272,8 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-8bf5cebaea6c48d3a33ac64cee9fb619"
+          lineWidth="2"
+          lineColor="#ae4376"
           source="id-53dcc7b3191b4b84a1d0e97272ad089f"
           target="id-d3aa698828e347e280d44e1df3bf2aab">
         <bendpoints

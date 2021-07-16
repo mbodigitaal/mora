@@ -431,7 +431,6 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-6366422b1a32467ca9015fbabf4f13f9"
-          lineWidth="3"
           source="id-3128cf832b1c48d29edb90a123b24401"
           target="id-b303be0793c7496f8e57227b9214db31">
         <archimateRelationship
