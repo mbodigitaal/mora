@@ -1210,21 +1210,9 @@
       textAlignment="1"
       content="Rene: Dit proces staat wel in https://route21.wikixl.nl/index.php/Procesketen_Onderwijsuitvoering_en_begeleiding getekend in /gekoppeld aan het hoofdproces Verzorgen onderwijs. Echter qua beschrjiving lijkt het meer iets voor in het hoofdproces Plannen en Roosteren (en daar is het ook al aan gekoppeld)  Welke kiezen we.....?">
     <bounds
-        x="1392"
-        y="12"
+        x="24"
+        y="684"
         width="337"
         height="97"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-a2b45f61b3f64855bb7907adadbe0122">
-    <bounds
-        x="1440"
-        y="129"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_f2d107b8-e865-4a42-8619-671d37501702.xml#f2d107b8-e865-4a42-8619-671d37501702"/>
   </children>
 </archimate:ArchimateDiagramModel>
