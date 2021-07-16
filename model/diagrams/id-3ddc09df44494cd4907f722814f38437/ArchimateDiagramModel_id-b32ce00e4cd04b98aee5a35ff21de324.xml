@@ -637,15 +637,6 @@
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-8985dac582ed4f44b9b7190c6183fd7e.xml#id-8985dac582ed4f44b9b7190c6183fd7e"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-ff1e172bc32041478f005f311e12f3e3"
-        source="id-202d459810a8479b9764c52607b55a0f"
-        target="id-f15775a4b0d445569c6d4f24c27f40ef">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_id-f24bd03330cb4843983b80daa542ea19.xml#id-f24bd03330cb4843983b80daa542ea19"/>
-    </sourceConnections>
     <bounds
         x="1176"
         y="681"
@@ -669,7 +660,7 @@
           href="ServingRelationship_id-a428fa68c6ea4cc9bff9220e096696bf.xml#id-a428fa68c6ea4cc9bff9220e096696bf"/>
     </sourceConnections>
     <bounds
-        x="1619"
+        x="1572"
         y="681"
         width="120"
         height="55"/>
@@ -691,7 +682,7 @@
           href="ServingRelationship_id-8dd6db4713bb438aabfc294ec3432169.xml#id-8dd6db4713bb438aabfc294ec3432169"/>
     </sourceConnections>
     <bounds
-        x="1488"
+        x="1440"
         y="681"
         width="120"
         height="55"/>
@@ -737,7 +728,7 @@
     <bounds
         x="300"
         y="849"
-        width="186"
+        width="193"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -783,12 +774,27 @@
         id="id-a3084639553a460f9ccc02cb2e5adc32"
         source="id-042bd47779b242ef8d0d01dd9c418d43"
         target="id-99de85b712414a18b2a1602015d25ba6">
+      <bendpoints
+          startX="-24"
+          startY="-60"
+          endX="108"
+          endY="108"/>
+      <bendpoints
+          startX="-24"
+          startY="-120"
+          endX="108"
+          endY="48"/>
+      <bendpoints
+          startX="-84"
+          startY="-120"
+          endX="48"
+          endY="48"/>
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_id-b9a2b877cc8f4bcf8c614c6553ad8855.xml#id-b9a2b877cc8f4bcf8c614c6553ad8855"/>
     </sourceConnections>
     <bounds
-        x="1578"
+        x="1572"
         y="849"
         width="120"
         height="55"/>
@@ -841,9 +847,9 @@
           href="RealizationRelationship_id-cda2e66169f6456cb13637de08c0c770.xml#id-cda2e66169f6456cb13637de08c0c770"/>
     </sourceConnections>
     <bounds
-        x="643"
+        x="636"
         y="849"
-        width="120"
+        width="133"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -1659,13 +1665,13 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-9244712e12d64d1184bf55efa3424d83"
-      font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      font="1|Segoe UI|10.2|0|WINDOWS|1|-17|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
       content="Releasenotes:&#xD;&#xA;&#xD;&#xA;Nieuw:&#xD;&#xA;App: Workflow systeem + service: procesvoortgang ondersteuning &#xD;&#xA;Service: Analysering toets resultaat&#xD;&#xA;App: Student communicatiesysteem (hiermee is de studentenapp vervallen)&#xD;&#xA;&#xD;&#xA;Naam van appcomp: Toets en examen inlever &amp; beoordeling systeem&#xD;&#xA;&#xD;&#xA;Bestaande service: archivering en DMS zijn gekoppeld (=nieuw) aan Proces Examineren en aan proces Diplomeren en certificeren&#xD;&#xA;&#xD;&#xA;Bestaande service: Document waarmerking en ondertekening en Document waarmerking en onderteken systeem zijn gekoppeld (=nieuw) aan proces Diplomeren en certificeren">
     <bounds
         x="1295"
         y="12"
-        width="722"
+        width="458"
         height="345"/>
   </children>
   <children
@@ -1677,6 +1683,16 @@
         id="id-c70817af7057419b8b04a084c89b4039"
         source="id-59f7b97d6a714722a0213bddc3b10353"
         target="id-4e2496a388e84a9b93bbfa1e01e7bc58">
+      <bendpoints
+          startX="-53"
+          startY="-36"
+          endX="73"
+          endY="132"/>
+      <bendpoints
+          startX="-89"
+          startY="-84"
+          endX="37"
+          endY="84"/>
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_id-f2d0323808cd408fa5fa012bc3cc772c.xml#id-f2d0323808cd408fa5fa012bc3cc772c"/>
@@ -1691,9 +1707,9 @@
           href="RealizationRelationship_id-092676719f3d41b19a4cfd0173511650.xml#id-092676719f3d41b19a4cfd0173511650"/>
     </sourceConnections>
     <bounds
-        x="972"
+        x="1030"
         y="849"
-        width="145"
+        width="134"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -1735,9 +1751,9 @@
           href="RealizationRelationship_id-1c822fb6beca47db86d3a651f839965a.xml#id-1c822fb6beca47db86d3a651f839965a"/>
     </sourceConnections>
     <bounds
-        x="864"
-        y="921"
-        width="120"
+        x="924"
+        y="849"
+        width="85"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -1893,7 +1909,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f15775a4b0d445569c6d4f24c27f40ef"
-      targetConnections="id-b1a58f780b39419f923f04f2e2660d96 id-ff1e172bc32041478f005f311e12f3e3">
+      targetConnections="id-b1a58f780b39419f923f04f2e2660d96">
     <bounds
         x="1308"
         y="681"
@@ -1961,9 +1977,9 @@
           href="ServingRelationship_id-1dec8cbfdc4b4586b6f41480f7eaa2ef.xml#id-1dec8cbfdc4b4586b6f41480f7eaa2ef"/>
     </sourceConnections>
     <bounds
-        x="1459"
+        x="1427"
         y="765"
-        width="120"
+        width="146"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
@@ -2005,9 +2021,9 @@
           href="RealizationRelationship_id-3a19dbf2af464976b71f9fb2108d9120.xml#id-3a19dbf2af464976b71f9fb2108d9120"/>
     </sourceConnections>
     <bounds
-        x="1752"
+        x="1704"
         y="849"
-        width="106"
+        width="109"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -2036,7 +2052,7 @@
           href="ServingRelationship_id-04f78fdd96d044b3892999d57850ef5a.xml#id-04f78fdd96d044b3892999d57850ef5a"/>
     </sourceConnections>
     <bounds
-        x="1752"
+        x="1704"
         y="681"
         width="109"
         height="55"/>
@@ -2051,9 +2067,9 @@
       fillColor="#ffff80"
       content="Rene: Deze niet gekoppeld..?">
     <bounds
-        x="1857"
+        x="1884"
         y="633"
-        width="172"
+        width="121"
         height="37"/>
   </children>
 </archimate:ArchimateDiagramModel>
