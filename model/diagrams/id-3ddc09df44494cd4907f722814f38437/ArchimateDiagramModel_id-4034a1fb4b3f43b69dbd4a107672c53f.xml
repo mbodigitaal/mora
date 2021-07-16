@@ -897,20 +897,20 @@
         source="id-ff17f4c9faef4f98adedcf0310fe1694"
         target="id-9f694809da904382a38dc014c21a4440">
       <bendpoints
-          startX="-6"
-          startY="-87"
-          endX="210"
-          endY="417"/>
+          startX="-12"
+          startY="-63"
+          endX="204"
+          endY="441"/>
       <bendpoints
-          startX="-138"
-          startY="-87"
-          endX="78"
-          endY="417"/>
+          startX="-96"
+          startY="-63"
+          endX="120"
+          endY="441"/>
       <bendpoints
-          startX="-138"
-          startY="-507"
-          endX="78"
-          endY="-3"/>
+          startX="-96"
+          startY="-495"
+          endX="120"
+          endY="9"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-88a42fcd83de4bc3bff2b1a6f34a2297.xml#id-88a42fcd83de4bc3bff2b1a6f34a2297"/>
@@ -1642,8 +1642,8 @@
       textAlignment="1"
       content="Wijzigingen t.o.v. versie 1.0:&#xD;&#xA;&#xD;&#xA;Service Ruimtebeheer gekoppeld aan proces Bepalen benodigde middelen (was niet zo)&#xD;&#xA;&#xD;&#xA;Service Medewerker inzet beheer gekoppeld aan proces Matchen onderwijs vraag op beschikbare middelen (was niet zo)&#xD;&#xA;">
     <bounds
-        x="206"
-        y="1037"
+        x="79"
+        y="948"
         width="1162"
         height="172"/>
   </children>
