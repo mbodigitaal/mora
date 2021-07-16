@@ -1037,6 +1037,7 @@
       id="2c1a8d2e-62d5-47c4-9426-efc9f7b81a13"
       font="1|Segoe UI|10.8|1|WINDOWS|1|-18|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fontColor="#28583b"
+      textAlignment="1"
       fillColor="#e5e9df">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"

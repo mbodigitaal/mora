@@ -144,13 +144,13 @@
         <bendpoints
             startX="120"
             startY="-3"
-            endX="-120"
+            endX="-114"
             endY="117"/>
         <bendpoints
             startX="120"
-            startY="-111"
-            endX="-120"
-            endY="9"/>
+            startY="-99"
+            endX="-114"
+            endY="21"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_dbc9d064-0f4f-452d-9765-2fde6f191efc.xml#dbc9d064-0f4f-452d-9765-2fde6f191efc"/>
@@ -208,7 +208,7 @@
       <bounds
           x="24"
           y="72"
-          width="120"
+          width="109"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
@@ -1035,6 +1035,7 @@
       id="781bf033-355d-4561-a41a-1b24816f1dca"
       font="1|Segoe UI|10.8|1|WINDOWS|1|-18|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fontColor="#28583b"
+      textAlignment="1"
       fillColor="#e5e9df">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
