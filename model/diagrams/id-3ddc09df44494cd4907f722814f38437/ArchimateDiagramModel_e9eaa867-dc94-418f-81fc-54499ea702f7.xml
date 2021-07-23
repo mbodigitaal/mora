@@ -1299,27 +1299,6 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="10612b95-987a-48da-b868-dfadd1f5a293"
-          lineWidth="2"
-          lineColor="#428e9b"
-          source="76635922-a03f-4005-a298-bff8e6c8b9ea"
-          target="ae24cde2-4686-4ce7-bb2c-b01c1467aa03">
-        <bendpoints
-            startX="114"
-            startY="6"
-            endX="-120"
-            endY="-71"/>
-        <bendpoints
-            startX="120"
-            startY="78"
-            endX="-120"
-            endY="-6"/>
-        <archimateRelationship
-            xsi:type="archimate:TriggeringRelationship"
-            href="TriggeringRelationship_0964345b-62c3-4b34-b308-123e72b34778.xml#0964345b-62c3-4b34-b308-123e72b34778"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="8b0793b3-df85-470e-b23c-0334f7b96db7"
           lineWidth="2"
           lineColor="#428e9b"
@@ -1416,12 +1395,12 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="ae24cde2-4686-4ce7-bb2c-b01c1467aa03"
-        targetConnections="690fc3cc-d69d-4c2c-9e06-96ff7e5e532a 10612b95-987a-48da-b868-dfadd1f5a293"
+        targetConnections="690fc3cc-d69d-4c2c-9e06-96ff7e5e532a 86a9bca2-00b1-45e2-87ac-4531a212f47b"
         fontColor="#ffffff"
         fillColor="#428e9b">
       <bounds
-          x="240"
-          y="409"
+          x="468"
+          y="264"
           width="169"
           height="56"/>
       <archimateElement
@@ -1481,7 +1460,7 @@
           fillColor="#428e9b">
         <bounds
             x="48"
-            y="108"
+            y="48"
             width="169"
             height="49"/>
         <archimateElement
@@ -1494,9 +1473,20 @@
           targetConnections="7ade57e6-a7d7-4028-aab0-c3efef7b05a1"
           fontColor="#ffffff"
           fillColor="#428e9b">
+        <sourceConnections
+            xsi:type="archimate:DiagramModelArchimateConnection"
+            id="86a9bca2-00b1-45e2-87ac-4531a212f47b"
+            lineWidth="2"
+            lineColor="#428e9b"
+            source="76c25a53-a88e-430d-8337-b5a567608cf1"
+            target="ae24cde2-4686-4ce7-bb2c-b01c1467aa03">
+          <archimateRelationship
+              xsi:type="archimate:TriggeringRelationship"
+              href="TriggeringRelationship_550183b6-cd7a-465a-8835-49915d740dc2.xml#550183b6-cd7a-465a-8835-49915d740dc2"/>
+        </sourceConnections>
         <bounds
             x="48"
-            y="48"
+            y="108"
             width="169"
             height="49"/>
         <archimateElement
