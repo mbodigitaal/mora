@@ -11,4 +11,7 @@
       value="Registreren BPV-bedrijfsgegevens, gekoppeld aan de registratie en erkenning bij SBB"/>
   <properties
       value="Geregistreerd BPV-bedrijf"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

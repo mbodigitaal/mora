@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Autoriseren bestellingen"
-    id="id-7e671801d1f94329a528d700ce67f7a8"/>
+    id="id-7e671801d1f94329a528d700ce67f7a8">
+  <properties
+      key="MORA-type"
+      value="Proces"/>
+</archimate:BusinessProcess>

@@ -9,4 +9,7 @@
   <properties
       key="Output"
       value="Uitschrijving; Bewijs van uitschrijving"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

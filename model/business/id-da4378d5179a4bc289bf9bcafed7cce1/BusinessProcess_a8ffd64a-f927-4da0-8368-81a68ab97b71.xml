@@ -12,4 +12,7 @@
   <properties
       key="Proces"
       value="Voor het vastgestelde aanbod aan opleidingen bepalen welke middelen daarvoor benodigd zijn"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

@@ -9,4 +9,7 @@
   <properties
       key="Output"
       value="EVC-portfolio"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

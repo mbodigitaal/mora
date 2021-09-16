@@ -12,4 +12,7 @@
   <properties
       key="Output"
       value="Geregistreerde BPV-plaats"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

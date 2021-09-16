@@ -9,4 +9,7 @@
   <properties
       key="Output"
       value="Besluit plaatsing; Aanmelddossier"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

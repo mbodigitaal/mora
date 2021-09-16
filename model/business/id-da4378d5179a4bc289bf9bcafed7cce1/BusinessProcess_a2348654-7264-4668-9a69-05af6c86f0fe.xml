@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beheren crediteuren"
-    id="a2348654-7264-4668-9a69-05af6c86f0fe"/>
+    id="a2348654-7264-4668-9a69-05af6c86f0fe">
+  <properties
+      key="MORA-type"
+      value="Proces"/>
+</archimate:BusinessProcess>

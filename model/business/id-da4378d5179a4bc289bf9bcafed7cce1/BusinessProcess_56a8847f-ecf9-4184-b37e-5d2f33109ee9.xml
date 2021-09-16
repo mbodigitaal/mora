@@ -12,4 +12,7 @@
   <properties
       key="Proces"
       value="Opstellen van het onderwijsplan, een samenhangend overzicht waarin per opleiding de leertaken staan die samen een opleiding vormen"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

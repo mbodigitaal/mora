@@ -12,4 +12,7 @@
   <properties
       key="Output"
       value="Positieve match van BPV-plaats en persoonlijk arrangement"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

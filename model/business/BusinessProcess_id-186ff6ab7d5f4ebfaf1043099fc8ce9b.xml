@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BTW/IB47"
-    id="id-186ff6ab7d5f4ebfaf1043099fc8ce9b"/>
+    id="id-186ff6ab7d5f4ebfaf1043099fc8ce9b">
+  <properties
+      key="MORA-type"
+      value="Proces"/>
+</archimate:BusinessProcess>

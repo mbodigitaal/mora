@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Reintegreren medewerker"
-    id="id-3a9b709fb25e480585b9a7cd85177a3a"/>
+    id="id-3a9b709fb25e480585b9a7cd85177a3a">
+  <properties
+      key="MORA-type"
+      value="Proces"/>
+</archimate:BusinessProcess>

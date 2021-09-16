@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Publiceren leermiddelenlijst"
     id="id-27780dfe1abd44308c2036516bfc6b81"
-    documentation="De leermiddelenlijst wordt zodanig gepubliceerd dat studenten en docenten op basis daarvan de voor hen relevante daadwerkelijk leermiddelen kunnen aanschaffen. De leermiddelenlijst wordt gepubliceerd als een gepersonaliseerde lijst, afhankelijk van de persoonlijke leerroute (de opleidingsonderdelen) die de student volgt.&#xD;&#xA;"/>
+    documentation="De leermiddelenlijst wordt zodanig gepubliceerd dat studenten en docenten op basis daarvan de voor hen relevante daadwerkelijk leermiddelen kunnen aanschaffen. De leermiddelenlijst wordt gepubliceerd als een gepersonaliseerde lijst, afhankelijk van de persoonlijke leerroute (de opleidingsonderdelen) die de student volgt.&#xD;&#xA;">
+  <properties
+      key="MORA-type"
+      value="Proces"/>
+</archimate:BusinessProcess>
