@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beheren formatieve resultaat structuur"
-    id="b56dc54d-1ef0-4112-a0eb-58c0d7773155"/>
+    id="b56dc54d-1ef0-4112-a0eb-58c0d7773155"
+    documentation="Opbouwen en onderhouden van een structuur waarin formatieve resultaten gestructureerd kunnen worden vastgelegd zodat op basis daarvan de voortgang gevolgd kan worden.&#xD;&#xA;&#xD;&#xA;De formatieve resultatenstructuur is een structuur voor de geordende vastlegging van formatieve resultaten.&#xD;&#xA;&#xD;&#xA;Per opleidingsonderdeel kunnen één of meerdere resultatenstructuren worden gemaakt. Elke resultatenstructuur bestaat uit een aantal toetsen waarvoor resultaten geregistreerd kunnen worden en een berekeningswijze, om tot een eindresultaat voor het geheel te komen. Bij elke toets wordt gedefinieerd op welke schaal het resultaat geregistreerd kan worden.&#xD;&#xA;&#xD;&#xA;Elke toets kan gerelateerd worden aan één of meerdere onderdelen van de kwalificatiestructuur.&#xD;&#xA;"/>
