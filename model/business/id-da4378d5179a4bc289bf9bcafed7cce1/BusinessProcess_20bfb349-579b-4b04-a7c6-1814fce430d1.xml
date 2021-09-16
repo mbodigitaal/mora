@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bepalen benodigde inzet van mensen en middelen"
     id="20bfb349-579b-4b04-a7c6-1814fce430d1"
-    documentation="Resultaat&#xD;&#xA;* Beschikbare leermiddelen (lesmaterialen, faciliteiten, ed.) die benodigd zijn voor de uitvoering van de leertaken.&#xD;&#xA;&#xD;&#xA;Vastgelegd in&#xD;&#xA;* Uitgewerkte leertaken met daarbij noodzakelijke middelen – logistiek&#xD;&#xA;"/>
+    documentation="Resultaat&#xD;&#xA;* Beschikbare leermiddelen (lesmaterialen, faciliteiten, ed.) die benodigd zijn voor de uitvoering van de leertaken.&#xD;&#xA;&#xD;&#xA;Vastgelegd in&#xD;&#xA;* Uitgewerkte leertaken met daarbij noodzakelijke middelen – logistiek&#xD;&#xA;">
+  <properties
+      key="MORA-type"
+      value="Hoofdproces"/>
+</archimate:BusinessProcess>

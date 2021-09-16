@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Borgen (onderwijs)kwaliteit en wetgeving"
     id="49175cb8-1a33-4da5-90a1-c4853884939e"
-    documentation="Resultaat&#xD;&#xA;* De organisatie voldoet aan de (benoemde) kwaliteitseisen en wetgeving.&#xD;&#xA;&#xD;&#xA;Vastgelegd in&#xD;&#xA;* Kwaliteitsplan of  -agenda"/>
+    documentation="Resultaat&#xD;&#xA;* De organisatie voldoet aan de (benoemde) kwaliteitseisen en wetgeving.&#xD;&#xA;&#xD;&#xA;Vastgelegd in&#xD;&#xA;* Kwaliteitsplan of  -agenda">
+  <properties
+      key="MORA-type"
+      value="Hoofdproces"/>
+</archimate:BusinessProcess>
