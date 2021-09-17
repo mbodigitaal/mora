@@ -12,4 +12,7 @@
   <properties
       key="Output"
       value="Specificatie benodigd examenmateriaal"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

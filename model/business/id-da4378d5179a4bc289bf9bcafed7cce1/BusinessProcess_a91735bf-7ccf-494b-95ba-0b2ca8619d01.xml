@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Wijzigen organisatie indeling en aansturing"
-    id="a91735bf-7ccf-494b-95ba-0b2ca8619d01"/>
+    id="a91735bf-7ccf-494b-95ba-0b2ca8619d01">
+  <properties
+      key="MORA-type"
+      value="Proces"/>
+</archimate:BusinessProcess>

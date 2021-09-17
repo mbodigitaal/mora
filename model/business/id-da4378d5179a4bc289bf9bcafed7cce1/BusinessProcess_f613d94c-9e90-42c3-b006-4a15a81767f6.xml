@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verwerven leermiddelen"
-    id="f613d94c-9e90-42c3-b006-4a15a81767f6"/>
+    id="f613d94c-9e90-42c3-b006-4a15a81767f6">
+  <properties
+      key="MORA-type"
+      value="Proces"/>
+</archimate:BusinessProcess>

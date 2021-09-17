@@ -12,4 +12,7 @@
   <properties
       key="Proces"
       value="Het daadwerkelijk roosteren van alle onderwijsactiviteiten tot een rooster voor de komende periode"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

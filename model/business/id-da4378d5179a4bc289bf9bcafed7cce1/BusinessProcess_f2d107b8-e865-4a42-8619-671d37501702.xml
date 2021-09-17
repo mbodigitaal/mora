@@ -12,4 +12,7 @@
   <properties
       key="Proces"
       value="Het daadwerkelijk toewijzen (alloceren) van middelen ten behoeve van het onderwijs van de komende periode"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

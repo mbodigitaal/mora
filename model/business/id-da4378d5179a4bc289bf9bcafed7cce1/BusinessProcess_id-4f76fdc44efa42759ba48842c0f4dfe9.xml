@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Uitvragen kwaliteit van onderwijs"
-    id="id-4f76fdc44efa42759ba48842c0f4dfe9"/>
+    id="id-4f76fdc44efa42759ba48842c0f4dfe9">
+  <properties
+      key="MORA-type"
+      value="Proces"/>
+</archimate:BusinessProcess>

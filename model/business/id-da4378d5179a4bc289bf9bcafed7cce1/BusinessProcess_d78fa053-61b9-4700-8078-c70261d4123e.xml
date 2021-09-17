@@ -12,4 +12,7 @@
   <properties
       key="Output"
       value="Verwachtingen van betrokkenen, de leerdoelen, de inhoud van bpv-opdrachten, geldende regels binnen het bedrijf en afspraken over de uit te voeren werkzaamheden"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

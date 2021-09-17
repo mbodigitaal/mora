@@ -12,4 +12,7 @@
   <properties
       key="Output"
       value="Beoordeeld en gemeld ongeoorloofd verzuim"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

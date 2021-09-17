@@ -12,4 +12,7 @@
   <properties
       key="Proces"
       value="Registratie van de aan- of afwezigheid van de student bij een (geroosterde) activiteit"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

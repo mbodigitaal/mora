@@ -12,4 +12,7 @@
   <properties
       key="Proces"
       value="De student meldt zich aan voor een (keuze)module in het rooster"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

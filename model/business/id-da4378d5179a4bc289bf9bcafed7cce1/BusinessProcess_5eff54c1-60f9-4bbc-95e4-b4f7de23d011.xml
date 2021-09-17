@@ -12,4 +12,7 @@
   <properties
       key="Output"
       value="Examenplan"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

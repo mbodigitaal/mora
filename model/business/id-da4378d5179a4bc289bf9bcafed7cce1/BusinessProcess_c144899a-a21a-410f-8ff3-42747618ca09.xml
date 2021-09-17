@@ -12,4 +12,7 @@
   <properties
       key="Proces"
       value="Een oplossing zoeken voor arrangementen die niet gepland konden worden, al dan niet met aanpassing van de leervraag of het arrangement"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

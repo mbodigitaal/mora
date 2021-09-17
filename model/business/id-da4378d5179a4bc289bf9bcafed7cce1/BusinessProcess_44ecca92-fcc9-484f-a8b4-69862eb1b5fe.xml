@@ -9,4 +9,7 @@
   <properties
       key="Output"
       value="Aanmelddossier; Aanvullende begeleiding; Studieadvies"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

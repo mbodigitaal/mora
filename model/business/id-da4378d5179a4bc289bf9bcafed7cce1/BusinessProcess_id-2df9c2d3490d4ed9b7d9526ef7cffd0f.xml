@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beheren en organiseren personeel"
     id="id-2df9c2d3490d4ed9b7d9526ef7cffd0f"
-    documentation="Het administreren van alle gegevens van medewerkers."/>
+    documentation="Het administreren van alle gegevens van medewerkers.">
+  <properties
+      key="MORA-type"
+      value="Proces"/>
+</archimate:BusinessProcess>

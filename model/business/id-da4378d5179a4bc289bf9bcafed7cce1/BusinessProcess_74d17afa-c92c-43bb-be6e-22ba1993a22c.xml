@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Consolideren"
-    id="74d17afa-c92c-43bb-be6e-22ba1993a22c"/>
+    id="74d17afa-c92c-43bb-be6e-22ba1993a22c">
+  <properties
+      key="MORA-type"
+      value="Proces"/>
+</archimate:BusinessProcess>

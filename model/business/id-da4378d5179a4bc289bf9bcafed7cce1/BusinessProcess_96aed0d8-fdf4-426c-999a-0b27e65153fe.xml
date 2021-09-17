@@ -6,4 +6,7 @@
   <properties
       key="Output"
       value="Verzamelde leerrsultaten"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

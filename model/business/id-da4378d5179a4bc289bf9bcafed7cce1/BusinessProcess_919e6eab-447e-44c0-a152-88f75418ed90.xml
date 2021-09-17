@@ -17,4 +17,7 @@
       key="Kaders"/>
   <properties
       key="Actoren"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

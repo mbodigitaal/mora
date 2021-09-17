@@ -12,4 +12,7 @@
   <properties
       key="Output"
       value="In eigen beheer geconstrueerde (ontwikkelde) examens"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

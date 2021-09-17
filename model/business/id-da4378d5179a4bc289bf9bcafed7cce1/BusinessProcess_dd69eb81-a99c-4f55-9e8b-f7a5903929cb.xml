@@ -12,4 +12,7 @@
   <properties
       key="Output"
       value="(1) Vastgelegde leervraag en (2) Keuze voor een verbintenisgebied en/of keuzedelen die verwerkt kunnen worden op de onderwijsovereenkomst"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

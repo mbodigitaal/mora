@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verbinding met maatschappij, bedrijfsleven en regio"
-    id="1368189e-e2e5-462f-9f87-b2ae0979e667"/>
+    id="1368189e-e2e5-462f-9f87-b2ae0979e667">
+  <properties
+      key="MORA-type"
+      value="Procesdomein"/>
+</archimate:Grouping>

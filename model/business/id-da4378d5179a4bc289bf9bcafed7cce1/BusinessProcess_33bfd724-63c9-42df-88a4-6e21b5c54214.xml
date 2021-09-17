@@ -12,4 +12,7 @@
   <properties
       key="Proces"
       value="Vaststellen van het examenresultaat door de examencommissie"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

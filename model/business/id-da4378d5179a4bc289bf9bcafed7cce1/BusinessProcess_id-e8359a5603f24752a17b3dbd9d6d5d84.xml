@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Nazorg"
     id="id-e8359a5603f24752a17b3dbd9d6d5d84"
-    documentation="Begeleiden naar ander werk"/>
+    documentation="Begeleiden naar ander werk">
+  <properties
+      key="MORA-type"
+      value="Proces"/>
+</archimate:BusinessProcess>

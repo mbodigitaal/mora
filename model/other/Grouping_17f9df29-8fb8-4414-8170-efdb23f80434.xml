@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Student begeleiden"
-    id="17f9df29-8fb8-4414-8170-efdb23f80434"/>
+    id="17f9df29-8fb8-4414-8170-efdb23f80434">
+  <properties
+      key="MORA-type"
+      value="Procesdomein"/>
+</archimate:Grouping>

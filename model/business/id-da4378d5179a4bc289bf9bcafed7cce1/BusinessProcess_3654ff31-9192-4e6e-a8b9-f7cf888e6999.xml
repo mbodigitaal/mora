@@ -9,4 +9,7 @@
   <properties
       key="Input"
       value="Leervraag van de student"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Uitstroom"
-    id="7961986f-d045-4357-86f7-3a080d580b46"/>
+    id="7961986f-d045-4357-86f7-3a080d580b46">
+  <properties
+      key="MORA-type"
+      value="Procesdomein"/>
+</archimate:Grouping>

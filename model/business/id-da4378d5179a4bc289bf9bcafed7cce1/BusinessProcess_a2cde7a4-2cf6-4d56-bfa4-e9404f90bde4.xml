@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Alumni beheren"
     id="a2cde7a4-2cf6-4d56-bfa4-e9404f90bde4"
-    documentation="Resultaat&#xD;&#xA;* Geïnformeerde en betrokken oud-studenten&#xD;&#xA;&#xD;&#xA;Vastgelegd in&#xD;&#xA;* Actuele alumni gegevens."/>
+    documentation="Resultaat&#xD;&#xA;* Geïnformeerde en betrokken oud-studenten&#xD;&#xA;&#xD;&#xA;Vastgelegd in&#xD;&#xA;* Actuele alumni gegevens.">
+  <properties
+      key="MORA-type"
+      value="Hoofdproces"/>
+</archimate:BusinessProcess>

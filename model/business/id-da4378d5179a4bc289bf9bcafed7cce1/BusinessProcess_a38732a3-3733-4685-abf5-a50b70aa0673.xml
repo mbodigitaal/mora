@@ -12,4 +12,7 @@
   <properties
       key="Output"
       value="1) Roosterwijziging, 2) Aangepaste inzet van middelen en/of 3) Aangepaste inzet van mensen"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

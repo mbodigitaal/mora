@@ -9,4 +9,7 @@
   <properties
       key="Output"
       value="Geanalyseerde leerresultaten"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>
