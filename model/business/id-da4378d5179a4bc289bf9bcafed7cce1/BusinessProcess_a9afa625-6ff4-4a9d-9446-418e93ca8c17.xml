@@ -9,4 +9,7 @@
   <properties
       key="Output"
       value="Informatie voor student en beoordelaar mbt examen"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

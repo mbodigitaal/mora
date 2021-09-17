@@ -12,4 +12,7 @@
   <properties
       key="Output"
       value="Analyse van de aan- en afwezigheid ten behoeve van de monitoring van de voortgang en de begeleiding van studenten"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

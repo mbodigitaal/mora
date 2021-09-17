@@ -9,4 +9,7 @@
   <properties
       key="Output"
       value="Geworven aspirant-studenten"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

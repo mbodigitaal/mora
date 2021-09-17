@@ -9,4 +9,7 @@
   <properties
       key="Output"
       value="Voorlichtingsmaterialen; Planning voorlichtingsbijeenkomsten; Voorlichting decanen VO-scholen"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

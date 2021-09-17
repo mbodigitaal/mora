@@ -9,4 +9,7 @@
   <properties
       key="Output"
       value="Ondergetekende onderwijsovereenkomst"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

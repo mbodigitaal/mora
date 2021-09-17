@@ -70,6 +70,22 @@
               xsi:type="archimate:TriggeringRelationship"
               href="TriggeringRelationship_cf21f62f-cbcd-458c-a93f-42119a1fda3c.xml#cf21f62f-cbcd-458c-a93f-42119a1fda3c"/>
         </sourceConnections>
+        <sourceConnections
+            xsi:type="archimate:DiagramModelArchimateConnection"
+            id="id-20c318ef818a486f928eb14f9962a75e"
+            lineWidth="2"
+            lineColor="#919394"
+            source="42191d32-f5a9-43bb-920d-863fd7c82cf0"
+            target="69e965a9-d634-47b7-acfa-053c2fec83b7">
+          <bendpoints
+              startX="36"
+              startY="-50"
+              endX="-132"
+              endY="4"/>
+          <archimateRelationship
+              xsi:type="archimate:TriggeringRelationship"
+              href="TriggeringRelationship_id-df18b9dc91d94b83a7f149afd7156301.xml#id-df18b9dc91d94b83a7f149afd7156301"/>
+        </sourceConnections>
         <bounds
             x="12"
             y="84"
@@ -82,6 +98,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="69e965a9-d634-47b7-acfa-053c2fec83b7"
+          targetConnections="id-20c318ef818a486f928eb14f9962a75e"
           fillColor="#ffffff">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"

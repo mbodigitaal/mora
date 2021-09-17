@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Extern verantwoorden"
     id="0af6198d-0034-4331-a81a-1dee741b926f"
-    documentation="Resultaat&#xD;&#xA;* Operationele, financiële en overige verantwoordingsgegevens zijn beschikbaar voor de partijen die daar recht op hebben. Inclusief wettelijk bepaalde gegevens voor de OR en studentenraad.&#xD;&#xA;&#xD;&#xA;Vastgelegd in&#xD;&#xA;* Inspectierapporten&#xD;&#xA;* Accountantsverklaring&#xD;&#xA;* Jaarverslagen&#xD;&#xA;* Overzicht en uitleg vroegtijdig schoolverlaters'&#xD;&#xA;* etc.&#xD;&#xA;"/>
+    documentation="Resultaat&#xD;&#xA;* Operationele, financiële en overige verantwoordingsgegevens zijn beschikbaar voor de partijen die daar recht op hebben. Inclusief wettelijk bepaalde gegevens voor de OR en studentenraad.&#xD;&#xA;&#xD;&#xA;Vastgelegd in&#xD;&#xA;* Inspectierapporten&#xD;&#xA;* Accountantsverklaring&#xD;&#xA;* Jaarverslagen&#xD;&#xA;* Overzicht en uitleg vroegtijdig schoolverlaters'&#xD;&#xA;* etc.&#xD;&#xA;">
+  <properties
+      key="MORA-type"
+      value="Hoofdproces"/>
+</archimate:BusinessProcess>

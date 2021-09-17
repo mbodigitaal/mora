@@ -12,4 +12,7 @@
   <properties
       key="Proces"
       value="Naar aanleiding van een onvoorziene omstandigheid aanpassen van het rooster en/of de inzet van mensen en middelen"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

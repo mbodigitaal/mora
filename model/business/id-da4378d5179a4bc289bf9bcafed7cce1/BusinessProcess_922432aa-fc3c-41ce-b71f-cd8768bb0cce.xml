@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beëindiging arbeidscontract, ontslag"
-    id="922432aa-fc3c-41ce-b71f-cd8768bb0cce"/>
+    id="922432aa-fc3c-41ce-b71f-cd8768bb0cce">
+  <properties
+      key="MORA-type"
+      value="Proces"/>
+</archimate:BusinessProcess>

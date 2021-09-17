@@ -12,4 +12,7 @@
   <properties
       key="Output"
       value="Kaders voor examinering"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

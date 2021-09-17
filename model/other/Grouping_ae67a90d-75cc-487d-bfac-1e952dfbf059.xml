@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Instroom"
-    id="ae67a90d-75cc-487d-bfac-1e952dfbf059"/>
+    id="ae67a90d-75cc-487d-bfac-1e952dfbf059">
+  <properties
+      key="MORA-type"
+      value="Procesdomein"/>
+</archimate:Grouping>

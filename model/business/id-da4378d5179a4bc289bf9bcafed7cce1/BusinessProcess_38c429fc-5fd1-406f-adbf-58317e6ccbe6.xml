@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beheren documenten"
-    id="38c429fc-5fd1-406f-adbf-58317e6ccbe6"/>
+    id="38c429fc-5fd1-406f-adbf-58317e6ccbe6">
+  <properties
+      key="MORA-type"
+      value="Proces"/>
+</archimate:BusinessProcess>

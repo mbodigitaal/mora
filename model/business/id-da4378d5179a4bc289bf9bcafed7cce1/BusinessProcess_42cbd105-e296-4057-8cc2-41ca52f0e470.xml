@@ -6,4 +6,7 @@
   <properties
       key="Output"
       value="Visie op onderwijs en examinering"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

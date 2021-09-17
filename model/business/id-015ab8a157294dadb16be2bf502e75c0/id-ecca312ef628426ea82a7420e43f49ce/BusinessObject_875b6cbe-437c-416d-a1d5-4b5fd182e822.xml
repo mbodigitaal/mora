@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Opleidingen overzicht"
     id="875b6cbe-437c-416d-a1d5-4b5fd182e822"
-    documentation="Definitie: &#xD;&#xA;"/>
+    documentation="Definitie: &#xD;&#xA;">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+</archimate:BusinessObject>

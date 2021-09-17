@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Onderzoek"
-    id="67265b9d-ff48-4858-8938-2885ae9c54b7"/>
+    id="67265b9d-ff48-4858-8938-2885ae9c54b7">
+  <properties
+      key="MORA-type"
+      value="Procesdomein"/>
+</archimate:Grouping>

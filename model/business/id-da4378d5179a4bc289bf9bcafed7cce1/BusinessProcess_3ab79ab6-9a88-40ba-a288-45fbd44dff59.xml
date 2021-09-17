@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Organiseren schoonmaak"
-    id="3ab79ab6-9a88-40ba-a288-45fbd44dff59"/>
+    id="3ab79ab6-9a88-40ba-a288-45fbd44dff59">
+  <properties
+      key="MORA-type"
+      value="Proces"/>
+</archimate:BusinessProcess>

@@ -12,4 +12,7 @@
   <properties
       key="Proces"
       value="De leervraag wordt uitgewerkt naar een concreet, persoonlijk arrangement voor de student, bestaande uit onderwijsproducten"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

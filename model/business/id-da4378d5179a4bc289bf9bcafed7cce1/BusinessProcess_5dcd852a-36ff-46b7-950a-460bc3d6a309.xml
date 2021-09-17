@@ -12,4 +12,7 @@
   <properties
       key="Proces"
       value="Het extern inkopen van examens"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>
