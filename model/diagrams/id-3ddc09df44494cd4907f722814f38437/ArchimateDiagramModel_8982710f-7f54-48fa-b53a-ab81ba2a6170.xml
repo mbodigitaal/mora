@@ -349,22 +349,22 @@
         <bendpoints
             startY="45"
             endX="-228"
-            endY="-375"/>
+            endY="-393"/>
         <bendpoints
             startX="108"
             startY="45"
             endX="-120"
-            endY="-375"/>
+            endY="-393"/>
         <bendpoints
             startX="108"
-            startY="369"
+            startY="381"
             endX="-120"
-            endY="-51"/>
+            endY="-57"/>
         <bendpoints
             startX="204"
-            startY="369"
+            startY="381"
             endX="-24"
-            endY="-51"/>
+            endY="-57"/>
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_068eafb3-bf04-403f-9553-41ed62aebe4c.xml#068eafb3-bf04-403f-9553-41ed62aebe4c"/>
@@ -392,15 +392,15 @@
           source="db56ab77-69f3-4d97-a1ab-2aedff44f5a1"
           target="a3058917-8fe1-43ff-8b98-37fda0fd329e">
         <bendpoints
-            startX="6"
+            startX="-18"
             startY="69"
-            endX="516"
-            endY="-101"/>
+            endX="492"
+            endY="-119"/>
         <bendpoints
             startX="-534"
             startY="69"
             endX="-24"
-            endY="-101"/>
+            endY="-119"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_364d4ed2-8b6c-402c-9963-dba615a36f51.xml#364d4ed2-8b6c-402c-9963-dba615a36f51"/>
@@ -508,22 +508,22 @@
             startX="155"
             startY="138"
             endX="24"
-            endY="-341"/>
+            endY="-359"/>
         <bendpoints
             startX="203"
             startY="138"
             endX="72"
-            endY="-341"/>
+            endY="-359"/>
         <bendpoints
             startX="203"
-            startY="426"
+            startY="438"
             endX="72"
-            endY="-53"/>
+            endY="-59"/>
         <bendpoints
             startX="155"
-            startY="426"
+            startY="438"
             endX="24"
-            endY="-53"/>
+            endY="-59"/>
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_id-85b485c3a8b540d99b084aefedd34ed7.xml#id-85b485c3a8b540d99b084aefedd34ed7"/>
@@ -721,7 +721,7 @@
     </sourceConnections>
     <bounds
         x="12"
-        y="366"
+        y="384"
         width="1561"
         height="247"/>
     <children
@@ -749,15 +749,15 @@
           source="a3058917-8fe1-43ff-8b98-37fda0fd329e"
           target="5f16fb57-e27f-436b-b077-8e146b99f35a">
         <bendpoints
-            startX="24"
-            startY="-53"
-            endX="-582"
-            endY="-108"/>
+            startX="36"
+            startY="-95"
+            endX="-570"
+            endY="-150"/>
         <bendpoints
             startX="492"
-            startY="-53"
+            startY="-95"
             endX="-114"
-            endY="-108"/>
+            endY="-150"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_9a3062aa-a6d7-4e67-9cbc-3bf95a237a14.xml#9a3062aa-a6d7-4e67-9cbc-3bf95a237a14"/>
@@ -770,13 +770,14 @@
           source="a3058917-8fe1-43ff-8b98-37fda0fd329e"
           target="63b02cf6-1d1e-4518-992b-8f28958727c5">
         <bendpoints
-            startY="-89"
-            endX="-947"
+            startX="12"
+            startY="-107"
+            endX="-948"
             endY="93"/>
         <bendpoints
-            startX="924"
-            startY="-89"
-            endX="-23"
+            startX="936"
+            startY="-107"
+            endX="-24"
             endY="93"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
@@ -1292,7 +1293,7 @@
       targetConnections="fbeaa2d5-60a4-47a3-af37-18a751d1a82c">
     <bounds
         x="433"
-        y="660"
+        y="678"
         width="120"
         height="55"/>
     <archimateElement
@@ -1323,7 +1324,7 @@
     </sourceConnections>
     <bounds
         x="564"
-        y="660"
+        y="678"
         width="120"
         height="55"/>
     <archimateElement
@@ -1355,7 +1356,7 @@
     </sourceConnections>
     <bounds
         x="1368"
-        y="660"
+        y="678"
         width="120"
         height="55"/>
     <archimateElement
@@ -1392,7 +1393,7 @@
     </sourceConnections>
     <bounds
         x="696"
-        y="768"
+        y="786"
         width="120"
         height="55"/>
     <archimateElement
@@ -1423,7 +1424,7 @@
     </sourceConnections>
     <bounds
         x="168"
-        y="660"
+        y="678"
         width="120"
         height="55"/>
     <archimateElement
@@ -1455,7 +1456,7 @@
     </sourceConnections>
     <bounds
         x="36"
-        y="660"
+        y="678"
         width="120"
         height="55"/>
     <archimateElement
@@ -1506,7 +1507,7 @@
     </sourceConnections>
     <bounds
         x="300"
-        y="660"
+        y="678"
         width="120"
         height="55"/>
     <archimateElement
@@ -1519,7 +1520,7 @@
       targetConnections="0531b404-e1dc-4791-a826-663446a5c8b3 5be218c9-51ce-4f36-b8d1-2670a51494bc 495db0a1-2fd6-4e70-9d06-e21fbf42f033 958a4cd0-6054-4e5d-9ce3-6ed585cbcaf2">
     <bounds
         x="960"
-        y="660"
+        y="678"
         width="120"
         height="55"/>
     <archimateElement
@@ -1551,7 +1552,7 @@
     </sourceConnections>
     <bounds
         x="828"
-        y="660"
+        y="678"
         width="120"
         height="55"/>
     <archimateElement
@@ -1564,7 +1565,7 @@
       targetConnections="39650a20-f47f-4b39-abd5-9ecffa97cfb4 e480c6e9-f4c4-4bef-a952-a22500aab560">
     <bounds
         x="1092"
-        y="662"
+        y="680"
         width="120"
         height="55"/>
     <archimateElement
@@ -1577,7 +1578,7 @@
       targetConnections="e1f12afb-baee-49e9-b4a9-d4f5d0dac341">
     <bounds
         x="1224"
-        y="660"
+        y="678"
         width="133"
         height="56"/>
     <archimateElement
@@ -1599,7 +1600,7 @@
     </sourceConnections>
     <bounds
         x="696"
-        y="660"
+        y="678"
         width="120"
         height="55"/>
     <archimateElement
