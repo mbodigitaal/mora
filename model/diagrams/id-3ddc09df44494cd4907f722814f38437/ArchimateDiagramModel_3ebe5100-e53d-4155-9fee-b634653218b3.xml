@@ -415,7 +415,7 @@
           href="CompositionRelationship_cb15113c-7d35-49e2-a540-f0270489751a.xml#cb15113c-7d35-49e2-a540-f0270489751a"/>
     </sourceConnections>
     <bounds
-        x="791"
+        x="804"
         y="12"
         width="421"
         height="337"/>
@@ -463,7 +463,7 @@
             href="CompositionRelationship_6ab06be2-5e26-4bd5-8d47-631c6db900dc.xml#6ab06be2-5e26-4bd5-8d47-631c6db900dc"/>
       </sourceConnections>
       <bounds
-          x="24"
+          x="12"
           y="132"
           width="386"
           height="181"/>
@@ -554,7 +554,7 @@
         fontColor="#ffffff"
         fillColor="#428e9b">
       <bounds
-          x="36"
+          x="24"
           y="48"
           width="133"
           height="55"/>
