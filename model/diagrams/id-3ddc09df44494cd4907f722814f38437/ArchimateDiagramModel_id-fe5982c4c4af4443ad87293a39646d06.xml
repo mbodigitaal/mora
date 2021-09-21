@@ -955,6 +955,8 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-f42e28d5b02f4621b135967ff2d7fc7d"
+          fontColor="#732b55"
+          lineColor="#712c55"
           source="id-9e3e781902c1469982f841ce764e1240"
           target="id-a00b206df5194e4f9a50ec8dfce0c869">
         <bendpoints
