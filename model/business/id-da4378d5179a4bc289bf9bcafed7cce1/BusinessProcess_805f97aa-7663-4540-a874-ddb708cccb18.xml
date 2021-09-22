@@ -1,4 +1,9 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inkopen leermiddelen"
-    id="805f97aa-7663-4540-a874-ddb708cccb18"/>
+    id="805f97aa-7663-4540-a874-ddb708cccb18"
+    documentation="Dit inkoopproces van leermiddelen begint bij de vastgestelde behoefte aan leermateriaal. In eerste instantie wordt deze behoefte op hoofdlijnen in kaart gebracht, per onderwerp waarvoor leermateriaal nodig. Zo’n onderwerp kan bijvoorbeeld een bepaald kennisgebied, beroepstaak of werkproces zijn.&#xD;&#xA;&#xD;&#xA;Daarnaast zijn de eisen die door allerlei belanghebbenden aan het leermateriaal worden gesteld relevant. Zo stelt de wetgever eisen in de vorm van het kwalificatiedossier, maar ook vanuit het beleid van de instelling zelf, de ouders, werkgevers en student kunnen eisen zijn geformuleerd waar leermateriaal aan moet voldoen.&#xD;&#xA;&#xD;&#xA;Op basis van de in kaart gebrachte behoefte aan leermateriaal, en de eisen die daaraan door de verschillende belanghebbenden worden gesteld, wordt gezocht in allerlei bronnen naar relevant leermateriaal. Dit kan worden gezien als een soort marktverkenning, waarin een overzicht ontstaat van het relevante leermateriaal voor de betreffende opleiding(en) waarvoor wordt gezocht.&#xD;&#xA;&#xD;&#xA;In dit zoekproces wordt vaak al duidelijk op welke onderwerpen er geen, of onvoldoende, leermateriaal in de markt beschikbaar is dat aan de eisen van de instelling zou kunnen voldoen.&#xD;&#xA;&#xD;&#xA;Daarbij is het vaak nodig  om met een uitgever en/of distributeur, of een individuele auteur contractuele afspraken te maken. Deze afspraken kunnen gaan over prijs en leveringsvoorwaarden, maar bijvoorbeeld ook over de wijze van bestellen, betalen en leveren, afspraken over serviceverlening etc. Voor digitaal leermateriaal zijn wellicht afspraken over licenties of koppelingen. Dit is allemaal onderdeel van het inkoopproces dat voorafgaat aan de daadwerkelijke aanschaf door individuele studenten of docenten.&#xD;&#xA;">
+  <properties
+      key="MORA-type"
+      value="Proces"/>
+</archimate:BusinessProcess>

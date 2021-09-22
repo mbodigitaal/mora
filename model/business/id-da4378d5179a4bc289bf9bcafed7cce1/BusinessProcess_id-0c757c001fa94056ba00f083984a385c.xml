@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inschrijven alumni"
-    id="id-0c757c001fa94056ba00f083984a385c"/>
+    id="id-0c757c001fa94056ba00f083984a385c">
+  <properties
+      key="MORA-type"
+      value="Proces"/>
+</archimate:BusinessProcess>

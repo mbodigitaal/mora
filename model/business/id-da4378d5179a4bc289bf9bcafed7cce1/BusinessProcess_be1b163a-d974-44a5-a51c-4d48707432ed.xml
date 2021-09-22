@@ -9,4 +9,7 @@
   <properties
       key="Output"
       value="Geregistreerde vrijstellingen"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

@@ -12,4 +12,7 @@
   <properties
       key="Output"
       value="Student is voorbereid voor de start van de BPV"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

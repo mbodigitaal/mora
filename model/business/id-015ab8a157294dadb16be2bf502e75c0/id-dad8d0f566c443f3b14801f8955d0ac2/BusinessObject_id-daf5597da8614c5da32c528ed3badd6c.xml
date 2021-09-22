@@ -1,5 +1,15 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Examen dossier"
+    name="Examendossier"
     id="id-daf5597da8614c5da32c528ed3badd6c"
-    documentation="Definitie: &#xD;&#xA;Het dossier met de bewijsstukken van de summatieve (kwalificerende) beoordelingen en EVC-rapportages die relevant zijn voor de diplomering.   &#xD;&#xA;&#xD;&#xA;Relatie/overlap met andere bronnen: "/>
+    documentation="Definitie: &#xD;&#xA;Het dossier met de bewijsstukken van de summatieve (kwalificerende) beoordelingen en EVC-rapportages die relevant zijn voor de diplomering.   &#xD;&#xA;&#xD;&#xA;Relatie/overlap met andere bronnen: ">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+</archimate:BusinessObject>

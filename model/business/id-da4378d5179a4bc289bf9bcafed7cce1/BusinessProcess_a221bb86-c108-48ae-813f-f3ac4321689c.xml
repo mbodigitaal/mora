@@ -9,4 +9,7 @@
   <properties
       key="Input"
       value="Match van examenaanvraag en examenaanbod"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

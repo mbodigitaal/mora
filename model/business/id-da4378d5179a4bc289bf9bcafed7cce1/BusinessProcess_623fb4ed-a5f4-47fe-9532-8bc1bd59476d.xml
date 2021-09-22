@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inschrijven"
     id="623fb4ed-a5f4-47fe-9532-8bc1bd59476d"
-    documentation="Resultaat&#xD;&#xA;* Ingeschreven studenten met (onderwijs-)overeenkomst &#xD;&#xA;&#xD;&#xA;Vastgelegd in&#xD;&#xA;* Inschrijving als student met getekende overeenkomst."/>
+    documentation="Resultaat&#xD;&#xA;* Ingeschreven studenten met (onderwijs-)overeenkomst &#xD;&#xA;&#xD;&#xA;Vastgelegd in&#xD;&#xA;* Inschrijving als student met getekende overeenkomst.">
+  <properties
+      key="MORA-type"
+      value="Hoofdproces"/>
+</archimate:BusinessProcess>

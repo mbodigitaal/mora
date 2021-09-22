@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Eenheid met waardedocument"
     id="d9b796c2-755a-4a48-82cc-7b6bc139e3fd"
-    documentation="Definitie: &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Relatie/overlap met andere bronnen: &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;------&#xD;&#xA;Beroepsthema's"/>
+    documentation="Definitie: &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Relatie/overlap met andere bronnen: &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;------&#xD;&#xA;Beroepsthema's">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+</archimate:BusinessObject>

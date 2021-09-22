@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Betalen kas/creditkaart"
-    id="id-8e21c31fd134424aa2e54298b815be9d"/>
+    name="Betalen kas/creditkaart/deit-card"
+    id="id-8e21c31fd134424aa2e54298b815be9d">
+  <properties
+      key="MORA-type"
+      value="Proces"/>
+</archimate:BusinessProcess>

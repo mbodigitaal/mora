@@ -9,4 +9,7 @@
   <properties
       key="Output"
       value="Beoordeeld examen"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

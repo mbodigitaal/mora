@@ -9,4 +9,7 @@
   <properties
       key="Output"
       value="Aanmelddossier; Leerbehoefte; Begeleidingsbehoefte; (eventueel) Afspraak intake-plusgesprek; Mogelijk aan te vragen vrijstellingen "/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

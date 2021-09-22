@@ -12,4 +12,7 @@
   <properties
       key="Proces"
       value="Beschikbaar stellen van het rooster aan studenten en medewerkers"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

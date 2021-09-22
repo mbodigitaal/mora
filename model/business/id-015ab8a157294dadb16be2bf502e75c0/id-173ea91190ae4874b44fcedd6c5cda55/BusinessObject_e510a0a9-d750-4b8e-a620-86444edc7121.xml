@@ -1,4 +1,14 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Diploma opleiding"
-    id="e510a0a9-d750-4b8e-a620-86444edc7121"/>
+    id="e510a0a9-d750-4b8e-a620-86444edc7121">
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+</archimate:BusinessObject>

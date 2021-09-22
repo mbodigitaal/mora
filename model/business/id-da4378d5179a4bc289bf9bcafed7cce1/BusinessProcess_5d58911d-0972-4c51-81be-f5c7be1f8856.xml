@@ -1,4 +1,9 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vaststellen opleidingen aanbod"
-    id="5d58911d-0972-4c51-81be-f5c7be1f8856"/>
+    id="5d58911d-0972-4c51-81be-f5c7be1f8856"
+    documentation="Het passend aanbod van opleidingen wordt periodiek bepaald door degenen die daartoe bevoegd zijn en is gebaseerd op analyse van de kwalificatiestructuur, van de omgeving met het oog op afspraken in de regio, de arbeidsmarkt in verband met het perspectief voor studenten en alumni en de eigen sterke en zwakke punten. Het gaat hierbij zowel over het aanbod van bekostigde opleidingen, als opleidingen in de derde leerweg. Ook de beslissing welke keuzedelen zullen worden aangeboden is gebaseerd op deze analyses.&#xD;&#xA;&#xD;&#xA;Na vaststelling worden onderwijsplan en examenplan gemaakt voor de vastgestelde opleidingen.">
+  <properties
+      key="MORA-type"
+      value="Proces"/>
+</archimate:BusinessProcess>

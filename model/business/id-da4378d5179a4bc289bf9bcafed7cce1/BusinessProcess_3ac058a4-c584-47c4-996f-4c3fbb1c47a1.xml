@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Overeenkomen arbeids contract"
-    id="3ac058a4-c584-47c4-996f-4c3fbb1c47a1"/>
+    id="3ac058a4-c584-47c4-996f-4c3fbb1c47a1">
+  <properties
+      key="MORA-type"
+      value="Proces"/>
+</archimate:BusinessProcess>

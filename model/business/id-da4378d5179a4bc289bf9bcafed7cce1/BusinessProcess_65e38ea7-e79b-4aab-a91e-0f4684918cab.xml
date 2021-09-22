@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Analyseren werkverdeling"
     id="65e38ea7-e79b-4aab-a91e-0f4684918cab"
-    documentation="Het analyseren van de inzet van de medewerkers ten opzichte van de verwachte onderwijsvraag. Dit geschiedt op basis van een schatting van onderwijs en studenten.&#xD;&#xA;&#xD;&#xA;Dit kan leiden tot:&#xD;&#xA;&#xD;&#xA;- Wijzigingen in het personeelsbestand&#xD;&#xA;- Wijzigingen in het onderwijsaanbod&#xD;&#xA;- Wijzigingen in de clustering van leertaken&#xD;&#xA;- Wijzigingen in de jaarplanning&#xD;&#xA;&#xD;&#xA;Deze analyse voedt en kent een wisselwerking met de jaarplanning en het opstellen van de werkverdeling. ">
+    documentation="Het analyseren van de inzet van de medewerkers ten opzichte van de verwachte onderwijsvraag. Dit geschiedt op basis van een schatting van onderwijs en studenten.&#xD;&#xA;&#xD;&#xA;Dit kan leiden tot:&#xD;&#xA;- Wijzigingen in het personeelsbestand&#xD;&#xA;- Wijzigingen in het onderwijsaanbod&#xD;&#xA;- Wijzigingen in de clustering van leertaken&#xD;&#xA;- Wijzigingen in de jaarplanning&#xD;&#xA;&#xD;&#xA;Deze analyse voedt en kent een wisselwerking met de jaarplanning en het opstellen van de werkverdeling. ">
   <properties
       key="Input"
       value="Schatting onderwijs en studenten"/>
@@ -12,4 +12,7 @@
   <properties
       key="Proces"
       value="Het analyseren van de inzet van de medewerkers ten opzichte van de verwachte onderwijsvraag"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

@@ -12,4 +12,7 @@
   <properties
       key="Output"
       value="Rapportage aan- en afwezigheid"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

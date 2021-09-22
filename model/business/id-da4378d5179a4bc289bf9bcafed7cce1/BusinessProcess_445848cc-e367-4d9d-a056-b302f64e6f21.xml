@@ -12,4 +12,7 @@
   <properties
       key="Proces"
       value="Opstellen van de formele, juridische afspraken en kaders met betrekking tot de examinering"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

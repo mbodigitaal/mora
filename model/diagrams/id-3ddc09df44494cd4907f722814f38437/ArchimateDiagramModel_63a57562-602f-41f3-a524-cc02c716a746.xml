@@ -48,9 +48,9 @@
     </sourceConnections>
     <bounds
         x="-444"
-        y="-48"
+        y="-108"
         width="397"
-        height="313"/>
+        height="373"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="c5618993-31de-4cd7-ab50-7869ee1e111b"
@@ -74,7 +74,7 @@
       </sourceConnections>
       <bounds
           x="58"
-          y="36"
+          y="96"
           width="121"
           height="67"/>
       <archimateElement
@@ -105,7 +105,7 @@
       </sourceConnections>
       <bounds
           x="238"
-          y="36"
+          y="96"
           width="133"
           height="67"/>
       <archimateElement
@@ -131,7 +131,7 @@
       </sourceConnections>
       <bounds
           x="142"
-          y="132"
+          y="192"
           width="120"
           height="55"/>
       <archimateElement
@@ -162,7 +162,7 @@
       </sourceConnections>
       <bounds
           x="142"
-          y="228"
+          y="288"
           width="120"
           height="55"/>
       <archimateElement
@@ -473,9 +473,9 @@
           href="CompositionRelationship_8ee0eb3f-cfad-46a3-9c92-94a64bd04435.xml#8ee0eb3f-cfad-46a3-9c92-94a64bd04435"/>
     </sourceConnections>
     <bounds
-        x="132"
+        x="-36"
         y="-108"
-        width="181"
+        width="349"
         height="133"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -495,7 +495,7 @@
             href="TriggeringRelationship_e739bc19-5d5f-438b-8a57-1d67d6fa7b2f.xml#e739bc19-5d5f-438b-8a57-1d67d6fa7b2f"/>
       </sourceConnections>
       <bounds
-          x="12"
+          x="180"
           y="60"
           width="145"
           height="55"/>
@@ -974,7 +974,7 @@
     <bounds
         x="1344"
         y="24"
-        width="361"
+        width="781"
         height="109"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -1631,7 +1631,7 @@
     <bounds
         x="-444"
         y="432"
-        width="325"
+        width="337"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"

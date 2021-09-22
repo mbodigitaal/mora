@@ -9,4 +9,7 @@
   <properties
       key="Output"
       value="Examenaanmelding"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

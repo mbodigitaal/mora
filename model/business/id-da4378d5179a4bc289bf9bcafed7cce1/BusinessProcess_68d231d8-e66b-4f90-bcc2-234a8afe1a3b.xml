@@ -1,4 +1,9 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bepalen benodigde BPV plaatsen"
-    id="68d231d8-e66b-4f90-bcc2-234a8afe1a3b"/>
+    id="68d231d8-e66b-4f90-bcc2-234a8afe1a3b"
+    documentation="Voor het vastgestelde aanbod aan opleidingen bepalen school en team jaarlijks wat nodig is aan benodigde BPV-plaatsen. Het team bepaalt jaarlijks -- mede op basis van de eigen verbeteragenda -- of er aanpassing en aanvulling of vernieuwing moet plaatsvinden.">
+  <properties
+      key="MORA-type"
+      value="Proces"/>
+</archimate:BusinessProcess>

@@ -12,4 +12,7 @@
   <properties
       key="Proces"
       value="Het matchen van het onderwijsaanbod, studenten, BPV, de medewerkers en de middelen, grofmazig uiteengezet over het schooljaar (globaal jaarrooster) en indien van toepassing periodes."/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

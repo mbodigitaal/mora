@@ -1,4 +1,9 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Opstellen leermiddelenlijst"
-    id="2551afeb-d04c-4fda-9f0d-881af05c1152"/>
+    id="2551afeb-d04c-4fda-9f0d-881af05c1152"
+    documentation="In dit proces wordt vastgesteld, welk leermiddelen geschikt is voor welke opleidingsonderdelen. Uiteindelijk zal hierin een keuze moeten worden gemaakt, die leidt tot een concrete leermiddelenlijst per opleidingsonderdeel of onderwijsprogramma. In deze leermiddelenlijst zijn in principe alle leermiddelen opgenomen, zowel folio als digitaal lesmateriaal, maar ook andere materialen zoals vakkleding of gereedschap.&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="MORA-type"
+      value="Proces"/>
+</archimate:BusinessProcess>

@@ -12,4 +12,7 @@
   <properties
       key="Output"
       value="Besluit om examens in te kopen of in eigen beheer te construeren"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

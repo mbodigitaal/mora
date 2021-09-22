@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vastleggen aan- en afwezigheid"
     id="9a68066f-2256-499b-95ed-6c7afb725b29"
-    documentation="Gedurende de opleiding van de student wordt bij alle onderwijsactiviteiten de aanwezigheid van de student geregistreerd. In geval van begeleide onderwijstijd (BOT) wordt deze aanwezigheidsregistratie door de docent uitgevoerd. In de BPV is de student zelf verantwoordelijk voor het bijhouden van zijn urenstaat.&#xD;&#xA;&#xD;&#xA;Onderwijsactiviteiten kunnen verschillende vormen aannemen, bijvoorbeeld: lessen vanuit het rooster, een begeleidingsmoment met een onderwijsbegeleider, BPV, praktijkopdracht (buiten de school), workshops of activiteiten waarop kan worden ingeschreven, etc. Het gaat om activiteiten vanuit een onderwijsproduct. Een buitenschoolse opdracht die wel wordt gekenmerkt als onderwijsproduct, maar niet is ingeroosterd valt hier dus ook onder. Het gaat niet om zelfstudietijd en huiswerk.&#xD;&#xA;&#xD;&#xA;De aanwezigheid van deelnemers kan van te voren ‘onbekend’ of ‘verwacht’ zijn. De docent of de deelnemer kan de werkelijke aan- of afwezigheid registreren. Er wordt aangegeven of er aanwezigheid of afwezigheid wordt geregistreerd en er is ruimte voor een aantal bijzonderheden. ">
+    documentation="Gedurende de opleiding van de student wordt bij alle onderwijsactiviteiten de aanwezigheid van de student geregistreerd. In geval van begeleide onderwijstijd (BOT) wordt deze aanwezigheidsregistratie door de docent uitgevoerd. In de BPV is de student zelf verantwoordelijk voor het bijhouden van zijn urenstaat.&#xD;&#xA;&#xD;&#xA;Onderwijsactiviteiten kunnen verschillende vormen aannemen, bijvoorbeeld: lessen vanuit het rooster, een begeleidingsmoment met een onderwijsbegeleider, BPV, praktijkopdracht (buiten de school), workshops of activiteiten waarop kan worden ingeschreven, etc. Het gaat niet om zelfstudietijd en huiswerk.&#xD;&#xA;&#xD;&#xA;De aanwezigheid van deelnemers kan van te voren ‘onbekend’ of ‘verwacht’ zijn. De docent of de deelnemer kan de werkelijke aan- of afwezigheid registreren. Er wordt aangegeven of er aanwezigheid of afwezigheid wordt geregistreerd en er is ruimte voor een aantal bijzonderheden. ">
   <properties
       key="Input"
       value="1) Rooster en 2) Vastgestelde aan- of afwezigheid van de student bij de uitvoering van een leertaak"/>
@@ -12,4 +12,7 @@
   <properties
       key="Proces"
       value="Registratie van de aan- of afwezigheid van de student bij een (geroosterde) activiteit"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>

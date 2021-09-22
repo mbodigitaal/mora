@@ -923,9 +923,9 @@
     </sourceConnections>
     <bounds
         x="12"
-        y="201"
+        y="168"
         width="169"
-        height="289"/>
+        height="322"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-48ca87aa06d84412b2387cc82ffa9a6f"
@@ -945,7 +945,7 @@
       </sourceConnections>
       <bounds
           x="12"
-          y="216"
+          y="249"
           width="132"
           height="55"/>
       <archimateElement
@@ -971,7 +971,7 @@
       </sourceConnections>
       <bounds
           x="12"
-          y="144"
+          y="156"
           width="132"
           height="55"/>
       <archimateElement
@@ -1305,9 +1305,9 @@
       </sourceConnections>
       <bounds
           x="468"
-          y="9"
+          y="48"
           width="529"
-          height="205"/>
+          height="166"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-323da966c889471babe22712e934d978"
@@ -1358,7 +1358,7 @@
         </sourceConnections>
         <bounds
             x="12"
-            y="84"
+            y="45"
             width="120"
             height="55"/>
         <archimateElement
@@ -1394,7 +1394,7 @@
         </sourceConnections>
         <bounds
             x="204"
-            y="30"
+            y="33"
             width="120"
             height="55"/>
         <archimateElement
@@ -1428,7 +1428,7 @@
         </sourceConnections>
         <bounds
             x="396"
-            y="84"
+            y="45"
             width="120"
             height="55"/>
         <archimateElement
@@ -1464,7 +1464,7 @@
         </sourceConnections>
         <bounds
             x="204"
-            y="138"
+            y="99"
             width="120"
             height="55"/>
         <archimateElement
@@ -1598,7 +1598,7 @@
         x="12"
         y="12"
         width="169"
-        height="178"/>
+        height="145"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-88ca1638b1bc48f18b81e4343c67458b"
@@ -1614,14 +1614,14 @@
           target="id-e6e3d391409a4aa18f0a35b59d989141">
         <bendpoints
             startX="96"
-            startY="18"
+            startY="9"
             endX="-96"
-            endY="-129"/>
+            endY="-173"/>
         <bendpoints
             startX="96"
-            startY="105"
+            startY="189"
             endX="-96"
-            endY="3"/>
+            endY="7"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_3c1ed9e5-6acd-40f2-9796-4cfac811630a.xml#3c1ed9e5-6acd-40f2-9796-4cfac811630a"/>
@@ -1635,21 +1635,21 @@
           target="id-b14a9cc1f4bc42ecb665aa0b62962519">
         <bendpoints
             startX="96"
-            startY="-6"
+            startY="9"
             endX="-96"
-            endY="-45"/>
+            endY="-65"/>
         <bendpoints
             startX="96"
-            startY="18"
+            startY="81"
             endX="-96"
-            endY="-21"/>
+            endY="7"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_5d402eb6-c260-4ec9-9287-59d6eb95761a.xml#5d402eb6-c260-4ec9-9287-59d6eb95761a"/>
       </sourceConnections>
       <bounds
           x="24"
-          y="108"
+          y="72"
           width="120"
           height="55"/>
       <archimateElement
@@ -2037,9 +2037,9 @@
       textAlignment="1"
       content="Rene:&#xD;&#xA;&#xD;&#xA;Ik mis:&#xD;&#xA;&#xD;&#xA;Relatie tussen service en proces Verzamel leerresultaten">
     <bounds
-        x="82"
-        y="943"
-        width="351"
-        height="80"/>
+        x="1464"
+        y="936"
+        width="217"
+        height="138"/>
   </children>
 </archimate:ArchimateDiagramModel>

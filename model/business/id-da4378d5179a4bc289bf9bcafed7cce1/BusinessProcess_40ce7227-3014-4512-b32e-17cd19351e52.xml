@@ -9,4 +9,7 @@
   <properties
       key="Output"
       value="Besluit tot kwalificering; Melding besluit kwalificering aan student"/>
+  <properties
+      key="MORA-type"
+      value="Proces"/>
 </archimate:BusinessProcess>
