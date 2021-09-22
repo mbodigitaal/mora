@@ -283,14 +283,14 @@
           target="id-0d3996ff7c914290abda833060cb6b75">
         <bendpoints
             startX="96"
-            startY="-3"
-            endX="-102"
-            endY="-87"/>
+            startY="-2"
+            endX="-96"
+            endY="-86"/>
         <bendpoints
             startX="96"
-            startY="69"
-            endX="-102"
-            endY="-15"/>
+            startY="70"
+            endX="-96"
+            endY="-14"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_336483ed-6208-4cc3-a849-392b1efd091c.xml#336483ed-6208-4cc3-a849-392b1efd091c"/>
@@ -444,7 +444,7 @@
       <bounds
           x="24"
           y="156"
-          width="133"
+          width="120"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
