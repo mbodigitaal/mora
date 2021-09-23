@@ -529,15 +529,4 @@
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_fb9a5705-db10-4338-b704-1ff99eecbe60.xml#fb9a5705-db10-4338-b704-1ff99eecbe60"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-39fb19ecbe31458192683e9f95cae1d9"
-      textAlignment="1"
-      content="Opmerking">
-    <bounds
-        x="946"
-        y="664"
-        width="185"
-        height="80"/>
-  </children>
 </archimate:ArchimateDiagramModel>
