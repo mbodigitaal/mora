@@ -712,9 +712,9 @@
       </sourceConnections>
       <bounds
           x="468"
-          y="30"
+          y="24"
           width="120"
-          height="55"/>
+          height="68"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-9d7f7ff50a9146bfb6767cd15a4657e4.xml#id-9d7f7ff50a9146bfb6767cd15a4657e4"/>
@@ -1027,7 +1027,7 @@
             href="TriggeringRelationship_id-3a06cf55b3f44d1ea6b3888078e8fa67.xml#id-3a06cf55b3f44d1ea6b3888078e8fa67"/>
       </sourceConnections>
       <bounds
-          x="516"
+          x="528"
           y="24"
           width="193"
           height="49"/>
