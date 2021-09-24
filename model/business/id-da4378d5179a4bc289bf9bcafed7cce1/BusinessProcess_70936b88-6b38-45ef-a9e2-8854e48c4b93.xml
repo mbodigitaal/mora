@@ -1,7 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Opstellen kostprijs calculatie"
-    id="70936b88-6b38-45ef-a9e2-8854e48c4b93">
+    id="70936b88-6b38-45ef-a9e2-8854e48c4b93"
+    documentation="Het opstellen van de kostprijs van goederen of diensten">
   <properties
       key="MORA-type"
       value="Proces"/>

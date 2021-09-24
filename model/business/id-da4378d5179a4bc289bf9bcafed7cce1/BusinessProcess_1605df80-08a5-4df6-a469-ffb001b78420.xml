@@ -1,7 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Alloceren"
-    id="1605df80-08a5-4df6-a469-ffb001b78420">
+    id="1605df80-08a5-4df6-a469-ffb001b78420"
+    documentation="Het boekhoudkundig toekennen van kosten, inkomsten of uitgaven aan kostenplaatsen en/of in de boekhouding gedefinieerde projecten">
   <properties
       key="MORA-type"
       value="Proces"/>
