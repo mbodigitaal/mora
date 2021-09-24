@@ -1,7 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beveiligen"
-    id="140a94f2-67cf-4e49-a25c-cfe84a6826e0">
+    id="140a94f2-67cf-4e49-a25c-cfe84a6826e0"
+    documentation="Het zorgdragen voor beveiligen van ruimten, middelen, ICT-systemen en mensen">
   <properties
       key="MORA-type"
       value="Proces"/>
