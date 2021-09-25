@@ -5,5 +5,5 @@
     documentation="Het zorgdragen voor het (laten) ontwikkelen of kopen van applicaties ">
   <properties
       key="MORA-type"
-      value="Proces"/>
+      value="Hoofdproces"/>
 </archimate:BusinessProcess>

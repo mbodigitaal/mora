@@ -5,5 +5,5 @@
     documentation="Het sturen op en beheren van de formatieplanning en -begroting van (de afdelingen van) de instelling.">
   <properties
       key="MORA-type"
-      value="Proces"/>
+      value="Hoofdproces"/>
 </archimate:BusinessProcess>

@@ -5,5 +5,5 @@
     documentation="Het sturen op financiën zoals kostprijscalculaties, de investeringsbegroting, kostenallocaties, formatielasten e.d.">
   <properties
       key="MORA-type"
-      value="Proces"/>
+      value="Hoofdproces"/>
 </archimate:BusinessProcess>

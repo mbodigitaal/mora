@@ -5,5 +5,5 @@
     documentation="Het plannen van en het inkopen van middelen en diensten en het beheren van de gemaakte afspraken">
   <properties
       key="MORA-type"
-      value="Proces"/>
+      value="Hoofdproces"/>
 </archimate:BusinessProcess>

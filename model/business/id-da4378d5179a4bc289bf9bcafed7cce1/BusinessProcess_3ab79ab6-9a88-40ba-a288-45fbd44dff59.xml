@@ -5,5 +5,5 @@
     documentation="Het zorgdragen voor het schoonmaken van gebouwen en gebouwinrichting. ">
   <properties
       key="MORA-type"
-      value="Proces"/>
+      value="Hoofdproces"/>
 </archimate:BusinessProcess>

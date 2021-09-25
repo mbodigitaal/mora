@@ -5,5 +5,5 @@
     documentation="Het afsluiten van, beheren van en evalueren van contracten met leveranciers en het beheren van leveranciersrelaties">
   <properties
       key="MORA-type"
-      value="Proces"/>
+      value="Hoofdproces"/>
 </archimate:BusinessProcess>

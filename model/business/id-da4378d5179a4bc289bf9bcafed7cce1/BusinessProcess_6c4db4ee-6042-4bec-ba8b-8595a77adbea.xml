@@ -5,5 +5,5 @@
     documentation="Het systematisch registreren van uitgaven, inkomsten en de vermogenspositie van de instellling">
   <properties
       key="MORA-type"
-      value="Proces"/>
+      value="Hoofdproces"/>
 </archimate:BusinessProcess>

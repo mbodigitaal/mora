@@ -5,5 +5,5 @@
     documentation="Het zorgdragen voor het verwerken van post, goederenstromen, repro-diensten en het archiveren van documenten">
   <properties
       key="MORA-type"
-      value="Proces"/>
+      value="Hoofdproces"/>
 </archimate:BusinessProcess>

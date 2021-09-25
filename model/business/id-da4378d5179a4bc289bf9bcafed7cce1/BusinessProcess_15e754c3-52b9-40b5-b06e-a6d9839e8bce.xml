@@ -5,5 +5,5 @@
     documentation="Het ondersteunen en administratief verwerken van het uitstromen van personeel">
   <properties
       key="MORA-type"
-      value="Proces"/>
+      value="Hoofdproces"/>
 </archimate:BusinessProcess>

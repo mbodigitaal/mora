@@ -5,5 +5,5 @@
     documentation="Het zorgdragen voor het beheren van applicaties en ICT diensten zoals het beheren van de IT-infrastructuur, applicatiebeheer, werkplekbeheer, ondersteuning ICT en Leren">
   <properties
       key="MORA-type"
-      value="Proces"/>
+      value="Hoofdproces"/>
 </archimate:BusinessProcess>

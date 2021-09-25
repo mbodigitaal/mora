@@ -5,5 +5,5 @@
     documentation="Het zorgdragen voor de beveiligingsfunctie (denk aan het saMBO-ICT BP framework) en (meer concreet) het bepalen van de gewenste mate van beveiling van processen, ICT-systemen (risico-analyses, BIV-coderingen)">
   <properties
       key="MORA-type"
-      value="Proces"/>
+      value="Hoofdproces"/>
 </archimate:BusinessProcess>

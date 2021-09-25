@@ -5,5 +5,5 @@
     documentation="Het formeel verantwoording afleggen over de financiële situatie van de instelling. Denk aan de jaarrekening, BTW/IB47 overzichten, consolidaties, subsidieoverzichten">
   <properties
       key="MORA-type"
-      value="Proces"/>
+      value="Hoofdproces"/>
 </archimate:BusinessProcess>

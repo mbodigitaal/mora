@@ -5,5 +5,5 @@
     documentation="Het in kaart van de gewenste informatiebehoefte (vraagarticulatie) en het vormgeven, sturen, aanpassen, bewaken en in stand houden van de informatievoorziening ">
   <properties
       key="MORA-type"
-      value="Proces"/>
+      value="Hoofdproces"/>
 </archimate:BusinessProcess>

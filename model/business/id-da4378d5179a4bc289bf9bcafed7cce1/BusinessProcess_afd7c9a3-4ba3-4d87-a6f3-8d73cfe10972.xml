@@ -5,5 +5,5 @@
     documentation="Het beheren van gebouwen zoals het vastgoedbeheer, verbouwingen, onderhoud, beheren inrichting e.d.">
   <properties
       key="MORA-type"
-      value="Proces"/>
+      value="Hoofdproces"/>
 </archimate:BusinessProcess>

@@ -5,5 +5,5 @@
     documentation="Het zorgdragen voor de salarisadministratie, het verwerken van declaraties en het uitbetalen ervan">
   <properties
       key="MORA-type"
-      value="Proces"/>
+      value="Hoofdproces"/>
 </archimate:BusinessProcess>

@@ -5,5 +5,5 @@
     documentation="Het voeren van de verlof- en verzuimadministratie en het ondersteunen bij langdurig verzuim en reïntegreren van medewerkers">
   <properties
       key="MORA-type"
-      value="Proces"/>
+      value="Hoofdproces"/>
 </archimate:BusinessProcess>

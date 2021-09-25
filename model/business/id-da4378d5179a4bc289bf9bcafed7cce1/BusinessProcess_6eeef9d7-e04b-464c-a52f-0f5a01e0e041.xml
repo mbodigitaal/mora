@@ -5,5 +5,5 @@
     documentation="Het Zorgdragen voor een bedrijfshulpverleningsorganisatie.  Denk aan BHV/EHBO middelen Werving en selectie BHV/EHBO medewerkers Trainingen/certificeringen">
   <properties
       key="MORA-type"
-      value="Proces"/>
+      value="Hoofdproces"/>
 </archimate:BusinessProcess>

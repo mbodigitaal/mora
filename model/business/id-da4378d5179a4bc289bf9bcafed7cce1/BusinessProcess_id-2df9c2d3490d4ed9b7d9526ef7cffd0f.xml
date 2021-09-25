@@ -5,5 +5,5 @@
     documentation="Het administreren van HRM-gegevens van medewerkers.">
   <properties
       key="MORA-type"
-      value="Proces"/>
+      value="Hoofdproces"/>
 </archimate:BusinessProcess>

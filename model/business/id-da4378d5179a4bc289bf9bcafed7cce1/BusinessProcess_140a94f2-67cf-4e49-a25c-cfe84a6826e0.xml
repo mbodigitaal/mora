@@ -5,5 +5,5 @@
     documentation="Het zorgdragen voor beveiligen van ruimten, middelen, ICT-systemen en mensen">
   <properties
       key="MORA-type"
-      value="Proces"/>
+      value="Hoofdproces"/>
 </archimate:BusinessProcess>

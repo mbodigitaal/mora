@@ -5,5 +5,5 @@
     documentation="Het zorgdragen voor het integraal verzamelen, metadateren, beheren en beschikbaarstellen van gegevens voor de informatievoorziening op veelal tactisch en strategisch niveau. Dit manifesteert zich in bijv. gegevenswoordenboeken, informatiemodellen en in BI-systemen of een datawarehouse">
   <properties
       key="MORA-type"
-      value="Proces"/>
+      value="Hoofdproces"/>
 </archimate:BusinessProcess>

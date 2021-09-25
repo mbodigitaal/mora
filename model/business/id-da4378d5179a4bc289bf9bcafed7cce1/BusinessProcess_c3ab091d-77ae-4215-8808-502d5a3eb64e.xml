@@ -5,5 +5,5 @@
     documentation="Het beoordelen van en het ontwikkelen van de kennis en vaardigheden van medewerkers">
   <properties
       key="MORA-type"
-      value="Proces"/>
+      value="Hoofdproces"/>
 </archimate:BusinessProcess>

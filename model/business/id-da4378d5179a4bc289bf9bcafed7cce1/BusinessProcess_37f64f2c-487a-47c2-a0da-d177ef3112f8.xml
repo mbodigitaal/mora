@@ -5,5 +5,5 @@
     documentation="Het zorgdragen voor de (enterprise) architectuur zoals het definiëren van architectuurprincipes en het ontwikkelen van IST en SOLL modellen van onder meer processen en het applicatielandschap">
   <properties
       key="MORA-type"
-      value="Proces"/>
+      value="Hoofdproces"/>
 </archimate:BusinessProcess>
