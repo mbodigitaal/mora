@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Informatie- en datamanagement"
     id="f054780c-d12d-46d1-ba2d-72b2af3addb5"
-    documentation="Het zorgdragen voor het ontwerpen, ontwikkelen en beheren van de informatievoorziening en het gegevensbeheer (datamanagement) zoals het verwerven van applicaties, vraagarticulatie, werken onder architectuur, beheren (kern)gegevens">
-  <properties
-      key="MORA-type"
-      value="Hoofdproces"/>
-</archimate:BusinessFunction>
+    documentation="Het zorgdragen voor het ontwerpen, ontwikkelen en beheren van de informatievoorziening en het gegevensbeheer (datamanagement) zoals het verwerven van applicaties, vraagarticulatie, werken onder architectuur, beheren (kern)gegevens"/>
