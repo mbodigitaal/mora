@@ -1,7 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aanbesteden"
-    id="ab065263-6aaa-456e-b0b8-a531c9dd6cb7">
+    id="ab065263-6aaa-456e-b0b8-a531c9dd6cb7"
+    documentation="Het inkopen via een formele door de europese overheden vastgestelde procedure">
   <properties
       key="MORA-type"
       value="Proces"/>

@@ -1,7 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Maken prestatie afspraken"
-    id="150236c3-0ccb-4356-95db-cfb76d150a7d">
+    id="150236c3-0ccb-4356-95db-cfb76d150a7d"
+    documentation="Het overeenkomen van prestatie-afspraken tussen de instelling en een leverancier">
   <properties
       key="MORA-type"
       value="Proces"/>
