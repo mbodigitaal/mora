@@ -1,7 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Onderzoek"
-    id="67265b9d-ff48-4858-8938-2885ae9c54b7">
+    id="67265b9d-ff48-4858-8938-2885ae9c54b7"
+    documentation="Innovatie van het onderwijs valt onder dit procesgebied. Ook onderzoek vindt plaats binnen het MBO; de ontwikkeling van de practoraten en de bijdrage aan onderzoek vanuit het MBO aan de samenwerking met het hoger onderwijs.">
   <properties
       key="MORA-type"
       value="Procesdomein"/>
