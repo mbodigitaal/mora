@@ -1206,6 +1206,8 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-a5581535cb844f1fbf986f1ed0f61b13"
+          lineWidth="2"
+          lineColor="#2c5738"
           source="id-0eca2151210448aba37f7abf4ed1210f"
           target="id-b64d8540d62b4fad859a2c257a1fe259">
         <bendpoints

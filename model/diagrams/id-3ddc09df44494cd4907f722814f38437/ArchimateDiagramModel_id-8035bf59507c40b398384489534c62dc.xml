@@ -557,6 +557,8 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-20221da93feb485882652410239f17a8"
+          lineWidth="2"
+          lineColor="#80b245"
           source="id-5bfabfc4c69042c9a3c37be745a21f74"
           target="id-6ba1915fe0db45efa1883ec017bc1913">
         <bendpoints
