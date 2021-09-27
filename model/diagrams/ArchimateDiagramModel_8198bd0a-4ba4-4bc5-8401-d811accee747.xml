@@ -1,14 +1,12 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Inkoop en contractmanagement  - (P) procesmodel"
+    name="Inkoop en Contract Management"
     id="8198bd0a-4ba4-4bc5-8401-d811accee747">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="e0ddd1f5-59a1-4b43-8fda-74785731bb2e"
-      font="1|Segoe UI|10.8|1|WINDOWS|1|-18|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-      fontColor="#919394"
-      fillColor="#edeced">
+      fillColor="#ffffff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="622f3a2a-2da0-43fb-98b6-3528aaaa84a4"
@@ -27,8 +25,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="845184d9-9b90-4e9d-8261-f2710e8d728d"
         targetConnections="622f3a2a-2da0-43fb-98b6-3528aaaa84a4"
-        fontColor="#ffffff"
-        fillColor="#c9c9c9">
+        fillColor="#ffffff">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="1f98ca1c-1ae1-48d7-a9ea-f5590cdbf001"
@@ -56,8 +53,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="42191d32-f5a9-43bb-920d-863fd7c82cf0"
           targetConnections="1f98ca1c-1ae1-48d7-a9ea-f5590cdbf001 54a41016-bf27-48ce-8369-b6e797421456"
-          fontColor="#ffffff"
-          fillColor="#919394">
+          fillColor="#ffffff">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="aa8b528e-2f86-43bf-97ce-dc5c43babcaa"
@@ -86,8 +82,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="69e965a9-d634-47b7-acfa-053c2fec83b7"
-          fontColor="#ffffff"
-          fillColor="#919394">
+          fillColor="#ffffff">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-8dfa746fe3a14224b90db13a0ec50a83"
@@ -112,8 +107,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="3b6d83b9-0b20-4c0a-bdab-fa37fc4b72f3"
           targetConnections="2102d7b8-f94f-49b8-a70f-a3c496fa93f7 aa8b528e-2f86-43bf-97ce-dc5c43babcaa"
-          fontColor="#ffffff"
-          fillColor="#919394">
+          fillColor="#ffffff">
         <bounds
             x="180"
             y="132"
@@ -280,7 +274,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-be691210a41b4058be9e73148a33fa2b"
-        targetConnections="id-9cb1faf515514668a7bddae94ef007c0 ca5c5773-3b91-41cb-89ae-2fea8e8db3fb"
+        targetConnections="id-9cb1faf515514668a7bddae94ef007c0 id-c84b6fa3faa5465b8fa9cf1ad02da49f"
         fontColor="#ffffff"
         fillColor="#919394">
       <sourceConnections
@@ -493,12 +487,12 @@
       fillColor="#e5e9df">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="32a4095b-27c3-4495-9848-e6bcbb0ba384"
+        id="id-5c088e3ca6114985b8139018ffdde85b"
         source="id-6b5bb763ef8f4502a096f4c268374644"
-        target="02475a7c-25ff-48a1-8ca3-e6778562eedc">
+        target="id-7d1449fe058849a0a0ac14bf0af6600b">
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_e1c017c8-2598-4154-abdc-7e72b77f462e.xml#e1c017c8-2598-4154-abdc-7e72b77f462e"/>
+          href="CompositionRelationship_efaccd04-276f-4208-a60d-7fa43d8aad0d.xml#efaccd04-276f-4208-a60d-7fa43d8aad0d"/>
     </sourceConnections>
     <bounds
         x="60"
@@ -507,18 +501,20 @@
         height="204"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="02475a7c-25ff-48a1-8ca3-e6778562eedc"
-        targetConnections="32a4095b-27c3-4495-9848-e6bcbb0ba384"
+        id="id-7d1449fe058849a0a0ac14bf0af6600b"
+        targetConnections="id-5c088e3ca6114985b8139018ffdde85b"
         fontColor="#ffffff"
         fillColor="#4c7f45">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="ca5c5773-3b91-41cb-89ae-2fea8e8db3fb"
-          source="02475a7c-25ff-48a1-8ca3-e6778562eedc"
+          id="id-c84b6fa3faa5465b8fa9cf1ad02da49f"
+          lineWidth="2"
+          lineColor="#4c7f45"
+          source="id-7d1449fe058849a0a0ac14bf0af6600b"
           target="id-be691210a41b4058be9e73148a33fa2b">
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
-            href="TriggeringRelationship_c1013fac-293e-4295-9851-fa55d1bd2c45.xml#c1013fac-293e-4295-9851-fa55d1bd2c45"/>
+            href="TriggeringRelationship_id-c59f001d011e4e4a978ded94a2af4d8e.xml#id-c59f001d011e4e4a978ded94a2af4d8e"/>
       </sourceConnections>
       <bounds
           x="12"
@@ -527,7 +523,7 @@
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
-          href="BusinessProcess_83fcea1b-0ffa-4d20-baed-d40efa77621d.xml#83fcea1b-0ffa-4d20-baed-d40efa77621d"/>
+          href="BusinessProcess_63f87f79-6973-4543-b85e-2c83487b0139.xml#63f87f79-6973-4543-b85e-2c83487b0139"/>
     </children>
     <archimateElement
         xsi:type="archimate:BusinessProcess"

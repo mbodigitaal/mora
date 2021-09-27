@@ -1,8 +1,7 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beheren vermogen"
-    id="id-911b52453a524e278e867b975f3edaa8"
-    documentation="Het beheren en/of optimaliseren van het vermogen van de instelling. Denk aan rederende investeringen.">
+    id="id-911b52453a524e278e867b975f3edaa8">
   <properties
       key="MORA-type"
       value="Proces"/>

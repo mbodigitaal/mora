@@ -1,8 +1,7 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Beheren applicaties"
-    id="id-bf000a386abf4d9fb766ef7ea82cd1a1"
-    documentation="Het technisch en/of functioneel beheren van applicaties.">
+    name="Beheren applicatie"
+    id="id-bf000a386abf4d9fb766ef7ea82cd1a1">
   <properties
       key="MORA-type"
       value="Proces"/>

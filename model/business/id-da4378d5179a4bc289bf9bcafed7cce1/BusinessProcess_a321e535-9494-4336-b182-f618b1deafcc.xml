@@ -1,8 +1,7 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Uitvoeren Projectadministratie"
-    id="a321e535-9494-4336-b182-f618b1deafcc"
-    documentation="Het registreren van de financiële gegevens m.b.t. gedefinieerde projecten die de instelling specifiek wil volgen. Denk aan kosten, opbrengsten, voortgang, dekkingsgraad e.d.">
+    id="a321e535-9494-4336-b182-f618b1deafcc">
   <properties
       key="MORA-type"
       value="Proces"/>

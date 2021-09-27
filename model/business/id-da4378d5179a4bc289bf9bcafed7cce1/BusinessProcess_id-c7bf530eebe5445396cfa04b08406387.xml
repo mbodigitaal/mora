@@ -1,8 +1,7 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Beheren digitale toegang en rechten"
-    id="id-c7bf530eebe5445396cfa04b08406387"
-    documentation="Het beheren van de toegang tot en rechten in digitale systemen zoals een RBAC oplossing">
+    name="Beheren digitale toegang (/rechten)"
+    id="id-c7bf530eebe5445396cfa04b08406387">
   <properties
       key="MORA-type"
       value="Proces"/>

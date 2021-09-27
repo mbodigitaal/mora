@@ -1,8 +1,7 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beeindigen contract en nazorg"
-    id="2b710be4-24be-4c35-a32b-b85857459f7a"
-    documentation="Het zorgdragen voor het correct beëindigen van een contract en de daaruitvoortvloeiende nazorg.">
+    id="2b710be4-24be-4c35-a32b-b85857459f7a">
   <properties
       key="MORA-type"
       value="Proces"/>

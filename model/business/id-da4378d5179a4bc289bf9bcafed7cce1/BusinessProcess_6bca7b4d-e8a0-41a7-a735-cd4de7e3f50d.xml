@@ -1,8 +1,7 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beheren sleutels, pasjes, tokens"
-    id="6bca7b4d-e8a0-41a7-a735-cd4de7e3f50d"
-    documentation="Het beheren van sleutels, pasjes, tokens zoals de uitgifte en inname ervan en het bepalen van de toegangsrechten">
+    id="6bca7b4d-e8a0-41a7-a735-cd4de7e3f50d">
   <properties
       key="MORA-type"
       value="Proces"/>

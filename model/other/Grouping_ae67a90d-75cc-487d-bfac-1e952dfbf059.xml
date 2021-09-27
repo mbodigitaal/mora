@@ -1,8 +1,7 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Instroom"
-    id="ae67a90d-75cc-487d-bfac-1e952dfbf059"
-    documentation="Dit is het procesgebied waarbij nieuwe studenten worden geworden, de intake plaatsvindt en ze zich officieel inschrijven voor de opleiding. Vanaf hier start hun inhoudelijke opleiding en persoonlijke begeleiding.">
+    id="ae67a90d-75cc-487d-bfac-1e952dfbf059">
   <properties
       key="MORA-type"
       value="Procesdomein"/>

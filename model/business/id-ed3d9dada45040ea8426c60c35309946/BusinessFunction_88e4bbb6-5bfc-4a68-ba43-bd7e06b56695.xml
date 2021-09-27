@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Juridische ondersteuning"
     id="88e4bbb6-5bfc-4a68-ba43-bd7e06b56695"
-    documentation="Het adviseren bij interne vraagstukken over de juridische kant. Denk aan conflicten met studenten, medewerkers en derden.&#xD;&#xA;&#xD;&#xA;"/>
+    documentation="Resultaat&#xD;&#xA;* Adviezen over interne vraagstukken met betrekking tot de juridische kant van een onderwerp en in conflict situaties met studenten, medewerkers en derden.&#xD;&#xA;&#xD;&#xA;Vastgelegd in&#xD;&#xA;* Juridische dossiers en contractparagrafen&#xD;&#xA;* Adviesnotities&#xD;&#xA;* Beleid&#xD;&#xA;* etc.&#xD;&#xA;">
+  <properties
+      key="MORA-type"
+      value="Hoofdproces"/>
+</archimate:BusinessFunction>

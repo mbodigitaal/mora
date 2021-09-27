@@ -1,8 +1,7 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Student begeleiden"
-    id="17f9df29-8fb8-4414-8170-efdb23f80434"
-    documentation="De student wordt gedurende zijn of haar onderwijstraject begeleidt; bij het doorlopen van zijn of haar leerroute. Daarnaast is er ondersteuning bij zijn of haar persoonlijke ontwikkeling en zorgvragen.">
+    id="17f9df29-8fb8-4414-8170-efdb23f80434">
   <properties
       key="MORA-type"
       value="Procesdomein"/>

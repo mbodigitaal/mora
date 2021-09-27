@@ -1,9 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beheren applicaties en ICT voorzieningen"
-    id="68398772-8632-47b8-8e0e-906872d10e5e"
-    documentation="Het zorgdragen voor het beheren van applicaties en ICT diensten zoals het beheren van de IT-infrastructuur, applicatiebeheer, werkplekbeheer, ondersteuning ICT en Leren">
+    id="68398772-8632-47b8-8e0e-906872d10e5e">
   <properties
       key="MORA-type"
-      value="Hoofdproces"/>
+      value="Proces"/>
 </archimate:BusinessProcess>

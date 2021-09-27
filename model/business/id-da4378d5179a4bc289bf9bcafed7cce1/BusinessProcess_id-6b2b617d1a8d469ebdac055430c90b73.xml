@@ -1,8 +1,7 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bepalen formatielasten"
-    id="id-6b2b617d1a8d469ebdac055430c90b73"
-    documentation="Het vaststellen en registreren van de (kosten van) de formatie van (afdelingen van) de instelling">
+    id="id-6b2b617d1a8d469ebdac055430c90b73">
   <properties
       key="MORA-type"
       value="Proces"/>

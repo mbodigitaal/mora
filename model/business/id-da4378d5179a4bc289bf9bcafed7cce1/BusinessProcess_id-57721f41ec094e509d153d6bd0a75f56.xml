@@ -1,8 +1,7 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beheren Audio/visueel"
-    id="id-57721f41ec094e509d153d6bd0a75f56"
-    documentation="Het beheren van audio- en video-apparatuur en bijbehorende software. Denk (het uitlenen van) beamers, professionele opname-apparatuur (van lessen), geluidsapparatuur voor evenementen">
+    id="id-57721f41ec094e509d153d6bd0a75f56">
   <properties
       key="MORA-type"
       value="Proces"/>

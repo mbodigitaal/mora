@@ -1,8 +1,7 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BTW/IB47"
-    id="id-186ff6ab7d5f4ebfaf1043099fc8ce9b"
-    documentation="Het zorgdragen voor de BTW-aangifte en het opgeven van betalingen aan derden, aan de belastingdienst">
+    id="id-186ff6ab7d5f4ebfaf1043099fc8ce9b">
   <properties
       key="MORA-type"
       value="Proces"/>

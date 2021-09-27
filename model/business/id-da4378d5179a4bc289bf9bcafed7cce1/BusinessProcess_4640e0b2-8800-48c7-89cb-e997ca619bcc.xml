@@ -2,8 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beheren werktijden, verlof en verzuim"
     id="4640e0b2-8800-48c7-89cb-e997ca619bcc"
-    documentation="Het voeren van de verlof- en verzuimadministratie en het ondersteunen bij langdurig verzuim en reïntegreren van medewerkers">
+    documentation="Het registreren waaran de tijd van medewerkers is besteedt.">
   <properties
       key="MORA-type"
-      value="Hoofdproces"/>
+      value="Proces"/>
 </archimate:BusinessProcess>

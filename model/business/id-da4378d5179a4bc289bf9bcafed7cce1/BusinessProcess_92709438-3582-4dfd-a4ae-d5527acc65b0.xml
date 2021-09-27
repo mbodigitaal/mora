@@ -1,8 +1,7 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Signaleren lange termijn verzuim en ondernemen vervolgacties"
-    id="92709438-3582-4dfd-a4ae-d5527acc65b0"
-    documentation="Het signaleren van (mogelijk) lange termijn verzuim en het ondernemen van vervolgacties">
+    id="92709438-3582-4dfd-a4ae-d5527acc65b0">
   <properties
       key="MORA-type"
       value="Proces"/>

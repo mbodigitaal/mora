@@ -1,8 +1,7 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Opstellen investeringen begroting"
-    id="11af9232-c206-4604-91c3-63ae98256eb1"
-    documentation="Het proces van het aanmaken van de financiële begroting door (afdelingen van) de instelling">
+    name="Opstellen investerings begroting"
+    id="11af9232-c206-4604-91c3-63ae98256eb1">
   <properties
       key="MORA-type"
       value="Proces"/>

@@ -2,8 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ontwikkelen en opleiden personeel"
     id="c3ab091d-77ae-4215-8808-502d5a3eb64e"
-    documentation="Het beoordelen van en het ontwikkelen van de kennis en vaardigheden van medewerkers">
+    documentation="Het (her)ontwikkelen van een specifieke opleiding.">
   <properties
       key="MORA-type"
-      value="Hoofdproces"/>
+      value="Proces"/>
 </archimate:BusinessProcess>

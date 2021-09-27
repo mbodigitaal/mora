@@ -1,8 +1,7 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Beheren ICT-infrastructuur"
-    id="32d9059c-4636-452e-bcf0-67086a86d417"
-    documentation="Het beheren van de ICT-infrastructuur zoals het netwerk, opslagsystemen en servers">
+    name="Beheren infrastructuur"
+    id="32d9059c-4636-452e-bcf0-67086a86d417">
   <properties
       key="MORA-type"
       value="Proces"/>

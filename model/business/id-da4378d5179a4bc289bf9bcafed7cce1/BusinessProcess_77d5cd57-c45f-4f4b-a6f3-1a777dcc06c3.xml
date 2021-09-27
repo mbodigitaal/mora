@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Plannen en roosteren"
     id="77d5cd57-c45f-4f4b-a6f3-1a777dcc06c3"
-    documentation="Resultaat:&#xD;&#xA;* Optimale inzet van mensen en middelen ten behoeve van het onderwijs geven (docent/praktijkinstructeur) en onderwijs krijgen (student).&#xD;&#xA;&#xD;&#xA;Vastgelegd in:&#xD;&#xA;* (Individueel) rooster (studenten en docenten): jaar, periode, week en dag&#xD;&#xA;* Werkverdeling team&#xD;&#xA;">
-  <properties
-      key="MORA-type"
-      value="Hoofdproces"/>
-</archimate:BusinessProcess>
+    documentation="Resultaat:&#xD;&#xA;* Optimale inzet van mensen en middelen ten behoeve van het onderwijs geven (docent/praktijkinstructeur) en onderwijs krijgen (student).&#xD;&#xA;&#xD;&#xA;Vastgelegd in:&#xD;&#xA;* (Individueel) rooster (studenten en docenten): jaar, periode, week en dag&#xD;&#xA;* Werkverdeling team&#xD;&#xA;"/>

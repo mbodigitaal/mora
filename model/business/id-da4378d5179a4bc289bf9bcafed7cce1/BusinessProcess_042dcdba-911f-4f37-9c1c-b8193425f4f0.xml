@@ -2,8 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Instromen personeel"
     id="042dcdba-911f-4f37-9c1c-b8193425f4f0"
-    documentation="Het werven, plaatsen, benoemen, registreren, inhuren, onboarden van nieuwe medewerkers">
+    documentation="Het werven en selecteren van medewerkers">
   <properties
       key="MORA-type"
-      value="Hoofdproces"/>
+      value="Proces"/>
 </archimate:BusinessProcess>

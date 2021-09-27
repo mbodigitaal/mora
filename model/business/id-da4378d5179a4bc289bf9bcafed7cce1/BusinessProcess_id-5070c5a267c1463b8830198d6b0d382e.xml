@@ -1,8 +1,7 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bewaken gebouwen"
-    id="id-5070c5a267c1463b8830198d6b0d382e"
-    documentation="Het zorgdragen voor het bewaken van gebouwen zoals camera's, bewegingsdetectoren, centrale meldkamer, beveiligingsdienst">
+    id="id-5070c5a267c1463b8830198d6b0d382e">
   <properties
       key="MORA-type"
       value="Proces"/>

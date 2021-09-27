@@ -1,8 +1,7 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beheren kluisjes"
-    id="efcc8ac9-98db-4ce8-80e8-a10e0cb81935"
-    documentation="Het ter beschikkingstellen en beheren van kluisjes">
+    id="efcc8ac9-98db-4ce8-80e8-a10e0cb81935">
   <properties
       key="MORA-type"
       value="Proces"/>
