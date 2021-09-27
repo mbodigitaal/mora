@@ -1,7 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aanvragen verlof en bepalen werktijden"
-    id="id-d00247645edf4138b80c3caeaa665c40">
+    id="id-d00247645edf4138b80c3caeaa665c40"
+    documentation="Het verwerken van verlofaanvragen en bepalen van de werktijden">
   <properties
       key="MORA-type"
       value="Proces"/>

@@ -1,7 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Forecast, Bijstellen begroting"
-    id="id-4458c5344cd549f1aa84923c70dfbe5c">
+    id="id-4458c5344cd549f1aa84923c70dfbe5c"
+    documentation="Het bijstellen van bestaande begrotingen a.d.h.v. ontwikkelingen">
   <properties
       key="MORA-type"
       value="Proces"/>

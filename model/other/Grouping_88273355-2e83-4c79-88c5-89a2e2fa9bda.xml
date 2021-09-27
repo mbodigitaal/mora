@@ -1,7 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bedrijfsvoering"
-    id="88273355-2e83-4c79-88c5-89a2e2fa9bda">
+    id="88273355-2e83-4c79-88c5-89a2e2fa9bda"
+    documentation="Dit procesgebied omvat alle secundaire processen om de mbo-school te laten functioneren. Het is lastig om deze scherp als hoofdprocessen te definiëren. Daarom is gekozen om in het hoofdprocesmodel de bedrijfsfuncties te benoemen. Deze zijn in onderliggende modellen uitgewerkt in processen. De organisatie van deze bedrijfsfuncties in afdelingen is binnen scholen verschillend ingericht.">
   <properties
       key="MORA-type"
       value="Procesdomein"/>

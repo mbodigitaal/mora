@@ -1,8 +1,9 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Organiseren bedrijfs hulpverlening"
-    id="6eeef9d7-e04b-464c-a52f-0f5a01e0e041">
+    name="Bedrijfshulpverlening"
+    id="6eeef9d7-e04b-464c-a52f-0f5a01e0e041"
+    documentation="Het Zorgdragen voor een bedrijfshulpverleningsorganisatie.  Denk aan BHV/EHBO middelen Werving en selectie BHV/EHBO medewerkers Trainingen/certificeringen">
   <properties
       key="MORA-type"
-      value="Proces"/>
+      value="Hoofdproces"/>
 </archimate:BusinessProcess>

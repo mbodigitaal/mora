@@ -1,7 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Examineren en diplomeren"
-    id="e6d3fde7-0343-45dd-8805-b6d0b1e57d1a">
+    id="e6d3fde7-0343-45dd-8805-b6d0b1e57d1a"
+    documentation="Binnen dit procesgebied vindt de validatie plaats dat een student voldoet aan de gestelde kwalificatie en wordt de waardering daarover afgegeven in de vorm van een diploma, een certificaat of andere overeengekomen vorm.">
   <properties
       key="MORA-type"
       value="Procesdomein"/>

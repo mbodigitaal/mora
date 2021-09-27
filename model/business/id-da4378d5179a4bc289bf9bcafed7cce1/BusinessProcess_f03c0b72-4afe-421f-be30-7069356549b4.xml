@@ -2,8 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Sturen op personeel en bezetting"
     id="f03c0b72-4afe-421f-be30-7069356549b4"
-    documentation="Het vaststellen welke budgetten en formatieplaatsen beschikbaar zijn voor de verschillend eorganisatorische eenheden.">
+    documentation="Het sturen op en beheren van de formatieplanning en -begroting van (de afdelingen van) de instelling.">
   <properties
       key="MORA-type"
-      value="Proces"/>
+      value="Hoofdproces"/>
 </archimate:BusinessProcess>

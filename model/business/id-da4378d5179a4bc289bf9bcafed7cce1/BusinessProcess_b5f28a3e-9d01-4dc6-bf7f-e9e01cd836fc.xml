@@ -1,7 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bestellen"
-    id="b5f28a3e-9d01-4dc6-bf7f-e9e01cd836fc">
+    id="b5f28a3e-9d01-4dc6-bf7f-e9e01cd836fc"
+    documentation="Het bestellen goederen of diensten">
   <properties
       key="MORA-type"
       value="Proces"/>

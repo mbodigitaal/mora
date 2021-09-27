@@ -1,7 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Onderwijs ontwikkelen"
-    id="b5ab9650-ca28-4bdc-9526-794819da029e">
+    id="b5ab9650-ca28-4bdc-9526-794819da029e"
+    documentation="Dit is het procesgebied waarbij de onderwijsvisie en het aanbod wordt vertaald naar inhoudelijke onderwijsprogramma’s en bepaald wordt welke mensen en middelen daarvoor nodig zijn.">
   <properties
       key="MORA-type"
       value="Procesdomein"/>

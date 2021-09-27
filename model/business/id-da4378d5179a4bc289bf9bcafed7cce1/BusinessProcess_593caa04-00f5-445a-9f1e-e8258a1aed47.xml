@@ -1,8 +1,9 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Financieel verantwoorden"
-    id="593caa04-00f5-445a-9f1e-e8258a1aed47">
+    id="593caa04-00f5-445a-9f1e-e8258a1aed47"
+    documentation="Het formeel verantwoording afleggen over de financiële situatie van de instelling. Denk aan de jaarrekening, BTW/IB47 overzichten, consolidaties, subsidieoverzichten">
   <properties
       key="MORA-type"
-      value="Proces"/>
+      value="Hoofdproces"/>
 </archimate:BusinessProcess>

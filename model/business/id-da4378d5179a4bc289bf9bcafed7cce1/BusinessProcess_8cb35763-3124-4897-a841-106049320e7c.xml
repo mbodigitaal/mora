@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Analyseren en evalueren contracten"
     id="8cb35763-3124-4897-a841-106049320e7c"
-    documentation="Inclusief maken rapportages">
+    documentation="Het op gezette tijden analyseren en evalueren van lopende contracten en beoordelen of acties zoals het openbreken van het contract of het verlengen ervan nodig is">
   <properties
       key="MORA-type"
       value="Proces"/>

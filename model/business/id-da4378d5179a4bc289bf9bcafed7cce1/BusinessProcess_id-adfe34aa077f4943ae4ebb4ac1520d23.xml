@@ -1,7 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beheren overige balans-rekeningen"
-    id="id-adfe34aa077f4943ae4ebb4ac1520d23">
+    id="id-adfe34aa077f4943ae4ebb4ac1520d23"
+    documentation="Het registreren en beheren van balansrekeningen (overzichten van bezittingen, schulden en het eigen vermogen van de instelling)">
   <properties
       key="MORA-type"
       value="Proces"/>

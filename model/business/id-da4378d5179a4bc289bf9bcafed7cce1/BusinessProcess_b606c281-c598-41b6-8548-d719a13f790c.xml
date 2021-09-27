@@ -1,7 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beveiligen ICT omgeving"
-    id="b606c281-c598-41b6-8548-d719a13f790c">
+    id="b606c281-c598-41b6-8548-d719a13f790c"
+    documentation="Het zorgdragen voor de beschikbaarheid, integriteit en vertrouwelijkheid van geautomatiseerde systemen">
   <properties
       key="MORA-type"
       value="Proces"/>

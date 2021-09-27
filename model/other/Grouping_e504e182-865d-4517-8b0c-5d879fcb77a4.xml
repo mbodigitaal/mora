@@ -1,7 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Informatieuitwisseling en verantwoording"
-    id="e504e182-865d-4517-8b0c-5d879fcb77a4">
+    id="e504e182-865d-4517-8b0c-5d879fcb77a4"
+    documentation="Vanuit de hele organisatie vindt uitwisseling van gegevens met derden plaats. Dit is niet beperkt tot een afdeling. Ook de externe verantwoording is een hoofdproces dat in de hele organisatie wordt uitgevoerd. Deze laatste wordt niet gezien als strategisch proces.">
   <properties
       key="MORA-type"
       value="Procesdomein"/>
