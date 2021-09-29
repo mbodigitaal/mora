@@ -5,11 +5,11 @@
     documentation="Definitie: &#xD;&#xA;Informatieobjecten binnen de PDCA-cyclus, zoals de begroting en jaarrekening. De objecten kunnen betrekking hebben op de gehele onderwijsaanbieder, maar ook op een specifiek organisatieonderdeel zoals het onderwijsteam. &#xD;&#xA;&#xD;&#xA;Gebruik in andere bronnen: &#xD;&#xA;Bron: TPO&#xD;&#xA;TPO verwijst naar de PDCA-cyclus van het gehele onderwijsproces bij het proces Evalueren bestaand aanbod.&#xD;&#xA;Link: https://tpo-mbo.nl/tpo/index.php?title=Evalueren_bestaand_aanbod">
   <properties
       key="Beschikbaarheid"
-      value="Niet ingevuld"/>
+      value="Laag"/>
   <properties
       key="Integriteit"
-      value="Niet ingevuld"/>
+      value="Laag"/>
   <properties
       key="Vertrouwelijkheid"
-      value="Niet ingevuld"/>
+      value="Laag"/>
 </archimate:BusinessObject>

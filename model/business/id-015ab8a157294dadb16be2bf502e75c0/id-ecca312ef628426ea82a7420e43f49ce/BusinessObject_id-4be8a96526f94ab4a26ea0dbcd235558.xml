@@ -5,11 +5,11 @@
     documentation="Definitie: &#xD;&#xA;Een formatieve beoordeling (bijvoorbeeld: cijfer aanwezigheid beschrijving) dat niet meetelt voor de uiteindelijke kwalificering maar de lerende informatie geeft over de kwaliteit van zijn of haar leren.&#xD;&#xA;&#xD;&#xA;Relatie/overlap met andere bronnen: &#xD;&#xA;Bron: Triple A&#xD;&#xA;Naam: Formatieve beoordeling&#xD;&#xA;Definitie: Een formatieve beoordeling (bijvoorbeeld: cijfer aanwezigheid beschrijving) dat niet meetelt voor de uiteindelijke kwalificering maar de lerende informatie geeft over de kwaliteit van zijn of haar leren.&#xD;&#xA;Link: ">
   <properties
       key="Beschikbaarheid"
-      value="Niet ingevuld"/>
+      value="Middel"/>
   <properties
       key="Integriteit"
-      value="Niet ingevuld"/>
+      value="Hoog"/>
   <properties
       key="Vertrouwelijkheid"
-      value="Niet ingevuld"/>
+      value="Middel"/>
 </archimate:BusinessObject>

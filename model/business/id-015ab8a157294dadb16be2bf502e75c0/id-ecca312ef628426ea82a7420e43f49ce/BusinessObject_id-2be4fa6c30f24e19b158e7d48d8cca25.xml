@@ -5,11 +5,11 @@
     documentation="Definitie: &#xD;&#xA;Een beschikbare plaats waar een student beroepspraktijkvorming (BPV) volgt of kan volgen.&#xD;&#xA;&#xD;&#xA;Relatie/overlap met andere bronnen: &#xD;&#xA;Bron: Sambo-ICT&#xD;&#xA;Naam: BPV-plaats&#xD;&#xA;Definitie: Een beschikbare plaats waar een student beroepspraktijkvorming kan volgen.&#xD;&#xA;&#xD;&#xA;">
   <properties
       key="Beschikbaarheid"
-      value="Niet ingevuld"/>
+      value="Middel"/>
   <properties
       key="Integriteit"
-      value="Niet ingevuld"/>
+      value="Laag"/>
   <properties
       key="Vertrouwelijkheid"
-      value="Niet ingevuld"/>
+      value="Laag"/>
 </archimate:BusinessObject>

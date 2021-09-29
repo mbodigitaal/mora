@@ -5,11 +5,11 @@
     documentation="Definitie: &#xD;&#xA;Een groep van bij elkaar behorende opleidingen.&#xD;&#xA;&#xD;&#xA;Relatie/overlap met andere bronnen: &#xD;&#xA;Bron: DUO&#xD;&#xA;Naam: Opleidingsgroep&#xD;&#xA;Definitie: Een groep van bij elkaar behorende opleidingen.&#xD;&#xA;Link: http://lod.onderwijsregistratie.nl/term/Opleidingsgroep">
   <properties
       key="Beschikbaarheid"
-      value="Niet ingevuld"/>
+      value="Middel"/>
   <properties
       key="Integriteit"
-      value="Niet ingevuld"/>
+      value="Hoog"/>
   <properties
       key="Vertrouwelijkheid"
-      value="Niet ingevuld"/>
+      value="Openbaar"/>
 </archimate:BusinessObject>

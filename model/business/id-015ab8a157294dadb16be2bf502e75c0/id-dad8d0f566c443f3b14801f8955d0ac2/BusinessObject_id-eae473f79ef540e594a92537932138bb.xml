@@ -5,11 +5,11 @@
     documentation="Definitie: &#xD;&#xA;Het dossier dat tussen onderwijsinstellingen wordt uitgewisseld, met daarin gegevens over de student en zijn loopbaan relevant voor de instelling die de student een vervolgopleiding aanbiedt&#xD;&#xA;&#xD;&#xA;Relatie/overlap met andere bronnen: ">
   <properties
       key="Beschikbaarheid"
-      value="Niet ingevuld"/>
+      value="Laag"/>
   <properties
       key="Integriteit"
-      value="Niet ingevuld"/>
+      value="Hoog"/>
   <properties
       key="Vertrouwelijkheid"
-      value="Niet ingevuld"/>
+      value="Middel"/>
 </archimate:BusinessObject>

@@ -5,11 +5,11 @@
     documentation="Definitie: &#xD;&#xA;Een onderzoek naar kennis, inzicht, houding en vaardigheden van de student, op basis waarvan de instelling na beoordeling een formeel bewijs van prestatie toekent.&#xD;&#xA;&#xD;&#xA;Relatie/overlap met andere bronnen: &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
   <properties
       key="Beschikbaarheid"
-      value="Niet ingevuld"/>
+      value="Hoog"/>
   <properties
       key="Integriteit"
-      value="Niet ingevuld"/>
+      value="Hoog"/>
   <properties
       key="Vertrouwelijkheid"
-      value="Niet ingevuld"/>
+      value="Hoog"/>
 </archimate:BusinessObject>

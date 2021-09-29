@@ -5,11 +5,11 @@
     documentation="Definitie: &#xD;&#xA;Het resultaat van het proces van het koppelen van een student aan een BPV-plaats in een vastgestelde periode, vastgelegd in een BPV-overeenkomst.&#xD;&#xA;&#xD;&#xA;Relatie/overlap met andere bronnen: ">
   <properties
       key="Beschikbaarheid"
-      value="Niet ingevuld"/>
+      value="Laag"/>
   <properties
       key="Integriteit"
-      value="Niet ingevuld"/>
+      value="Middel"/>
   <properties
       key="Vertrouwelijkheid"
-      value="Niet ingevuld"/>
+      value="Laag"/>
 </archimate:BusinessObject>

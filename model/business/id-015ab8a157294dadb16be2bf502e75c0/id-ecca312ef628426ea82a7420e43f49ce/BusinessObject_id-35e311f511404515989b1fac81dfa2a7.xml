@@ -5,11 +5,11 @@
     documentation="Definitie: &#xD;&#xA;Geregistreerde aan- of afwezigheid van een student op een gepland tijdstip in een gespecificeerde omgeving.&#xD;&#xA;&#xD;&#xA;Relatie/overlap met andere bronnen: ">
   <properties
       key="Beschikbaarheid"
-      value="Niet ingevuld"/>
+      value="Hoog"/>
   <properties
       key="Integriteit"
-      value="Niet ingevuld"/>
+      value="Middel"/>
   <properties
       key="Vertrouwelijkheid"
-      value="Niet ingevuld"/>
+      value="Middel"/>
 </archimate:BusinessObject>

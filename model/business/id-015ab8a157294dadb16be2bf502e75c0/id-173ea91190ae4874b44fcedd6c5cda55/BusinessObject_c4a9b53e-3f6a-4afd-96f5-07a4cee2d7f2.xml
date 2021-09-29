@@ -5,11 +5,11 @@
     documentation="De leertaak is de onderwijsactiviteit waarin de student kennis en/of vaardigheden verwerft. Bij een praktische leertaak gaat het om het verwerven van vaardigheden. &#xD;&#xA;&#xD;&#xA;Relatie/overlap met andere bronnen: ">
   <properties
       key="Beschikbaarheid"
-      value="Niet ingevuld"/>
+      value="Middel"/>
   <properties
       key="Integriteit"
-      value="Niet ingevuld"/>
+      value="Hoog"/>
   <properties
       key="Vertrouwelijkheid"
-      value="Niet ingevuld"/>
+      value="Laag"/>
 </archimate:BusinessObject>

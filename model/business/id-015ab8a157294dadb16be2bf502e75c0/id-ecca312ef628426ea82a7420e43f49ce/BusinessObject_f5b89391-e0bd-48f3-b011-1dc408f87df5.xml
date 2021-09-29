@@ -5,11 +5,11 @@
     documentation="Definitie: &#xD;&#xA;De plaatsing of deelname van een student in een onderwijstraject. &#xD;&#xA;&#xD;&#xA;Relatie/overlap met andere bronnen: &#xD;&#xA;Bron: Kennisnet MBO thesaurus&#xD;&#xA;Naam: Inschrijving&#xD;&#xA;Definitie: De afspraak dat een persoon gebruik maakt van de onderwijsvoorziening of examenvoorziening. Aan de inschrijving ligt een schriftelijke overeenkomst tussen het bevoegd gezag en de ingeschrevene ten grondslag die de rechten en plichten van de partijen regelt.&#xD;&#xA;Link: https://www.begrippenxl.nl/mbo/nl/page/?uri=http%3A%2F%2Fpurl.edustandaard.nl%2Fconcept%2F9ab53839-cc56-4475-b62e-eca9257fd594">
   <properties
       key="Beschikbaarheid"
-      value="Niet ingevuld"/>
+      value="Laag"/>
   <properties
       key="Integriteit"
-      value="Niet ingevuld"/>
+      value="Middel"/>
   <properties
       key="Vertrouwelijkheid"
-      value="Niet ingevuld"/>
+      value="Laag"/>
 </archimate:BusinessObject>

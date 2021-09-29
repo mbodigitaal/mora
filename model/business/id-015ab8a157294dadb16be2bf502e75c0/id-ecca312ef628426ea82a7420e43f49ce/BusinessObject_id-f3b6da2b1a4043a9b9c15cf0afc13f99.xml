@@ -5,11 +5,11 @@
     documentation="Definitie: &#xD;&#xA;De matching van het onderwijsaanbod, studenten, BPV, de medewerkers en de middelen, grofmazig uiteengezet over het schooljaar (globaal jaarrooster) en indien van toepassing periodes. In voorkomende gevallen kan de instelling bijsturen op de genoemde onderdelen. Het maken van de jaarplanning kent een wisselwerking met het analyseren en opstellen van de werkverdeling. Op basis van de jaarplanning wordt het plan van inzet voor de medewerkers samengesteld.&#xD;&#xA;&#xD;&#xA;Relatie/overlap met andere bronnen: ">
   <properties
       key="Beschikbaarheid"
-      value="Niet ingevuld"/>
+      value="Laag"/>
   <properties
       key="Integriteit"
-      value="Niet ingevuld"/>
+      value="Middel"/>
   <properties
       key="Vertrouwelijkheid"
-      value="Niet ingevuld"/>
+      value="Laag"/>
 </archimate:BusinessObject>

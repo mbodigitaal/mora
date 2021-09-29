@@ -5,11 +5,11 @@
     documentation="Definitie: &#xD;&#xA;Gestructureerde vastlegging van de bouwstenen van het onderwijsaanbod (onderwijs-, examen-, en BPV-onderdelen) die kunnen worden gekoppeld aan de uitvoeringsvariant (leerweg, duur), kerntaken en werkprocessen.&#xD;&#xA;&#xD;&#xA;Relatie/overlap met andere bronnen: ">
   <properties
       key="Beschikbaarheid"
-      value="Niet ingevuld"/>
+      value="Laag"/>
   <properties
       key="Integriteit"
-      value="Niet ingevuld"/>
+      value="Hoog"/>
   <properties
       key="Vertrouwelijkheid"
-      value="Niet ingevuld"/>
+      value="Laag"/>
 </archimate:BusinessObject>

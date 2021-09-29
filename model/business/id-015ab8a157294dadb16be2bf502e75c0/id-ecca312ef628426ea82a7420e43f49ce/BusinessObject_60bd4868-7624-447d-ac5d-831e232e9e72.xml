@@ -5,11 +5,11 @@
     documentation="Definitie: &#xD;&#xA;Registratie van gegevens van een (potentiele) student benodigd om een onderwijsproduct of opleiding af te gaan nemen.&#xD;&#xA;&#xD;&#xA;Relatie/overlap met andere bronnen: &#xD;&#xA;Bron: Triple A&#xD;&#xA;Naam: Aanmelden&#xD;&#xA;Definitie: De potentiële deelnemer / opdrachtgever (vertegenwoordiger van een groep deelnemers) maakt zijn interesse kenbaar door middel van een aanmelding.&#xD;&#xA;Link: https://triplea.sambo-ict.nl/wiki/index.php/Aanmelden_(Use_case)">
   <properties
       key="Beschikbaarheid"
-      value="Niet ingevuld"/>
+      value="Laag"/>
   <properties
       key="Integriteit"
-      value="Niet ingevuld"/>
+      value="Hoog"/>
   <properties
       key="Vertrouwelijkheid"
-      value="Niet ingevuld"/>
+      value="Laag"/>
 </archimate:BusinessObject>

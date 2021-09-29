@@ -5,11 +5,11 @@
     documentation="Definitie: &#xD;&#xA;Het onderwijsplan is een samenhangend overzicht waarin per opleiding de leertaken staan die samen een opleiding vormen. Bijvoorbeeld de doelen van de opleiding, de leerinhoud, toetsen, didactische principes en/of de wijze en het tijdstip waarop dit aangeboden wordt. In het onderwijsplan staat binnen welke omgeving (mbo-school, zelfstudie of beroepspraktijk) het onderwijs plaatsvindt. Hierbij houdt de school rekening met de praktische haalbaarheid en de doelgroep.&#xD;&#xA;&#xD;&#xA;Relatie/overlap met andere bronnen: &#xD;&#xA;">
   <properties
       key="Beschikbaarheid"
-      value="Niet ingevuld"/>
+      value="Middel"/>
   <properties
       key="Integriteit"
-      value="Niet ingevuld"/>
+      value="Hoog"/>
   <properties
       key="Vertrouwelijkheid"
-      value="Niet ingevuld"/>
+      value="Openbaar"/>
 </archimate:BusinessObject>

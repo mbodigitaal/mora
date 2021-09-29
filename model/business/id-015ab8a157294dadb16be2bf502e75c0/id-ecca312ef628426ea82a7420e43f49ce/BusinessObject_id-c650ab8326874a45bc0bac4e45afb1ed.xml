@@ -5,11 +5,11 @@
     documentation="Definitie: &#xD;&#xA;De regels en afspraken die binnen de instelling gelden omtrent examinering en diplomering.&#xD;&#xA;&#xD;&#xA;Relatie/overlap met andere bronnen: &#xD;&#xA;Bron: Triple A&#xD;&#xA;Naam: Examenreglement&#xD;&#xA;Definitie: De regels en afspraken die binnen de instelling gelden omtrent examinering en diplomering.&#xD;&#xA;Link: https://triplea.sambo-ict.nl/wiki/index.php/Examenreglement&#xD;&#xA;">
   <properties
       key="Beschikbaarheid"
-      value="Niet ingevuld"/>
+      value="Laag"/>
   <properties
       key="Integriteit"
-      value="Niet ingevuld"/>
+      value="Hoog"/>
   <properties
       key="Vertrouwelijkheid"
-      value="Niet ingevuld"/>
+      value="Openbaar"/>
 </archimate:BusinessObject>

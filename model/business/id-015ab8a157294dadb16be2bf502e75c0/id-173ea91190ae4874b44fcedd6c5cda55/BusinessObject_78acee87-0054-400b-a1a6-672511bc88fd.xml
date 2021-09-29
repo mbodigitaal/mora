@@ -5,11 +5,11 @@
     documentation="Definitie: &#xD;&#xA;De leertaak is de onderwijsactiviteit waarin de student kennis en/of vaardigheden verwerft. Bij een zelfstudie-leertaak verwerft de student kennis door zelfstandig leerstof te verwerken. &#xD;&#xA;&#xD;&#xA;Relatie/overlap met andere bronnen: ">
   <properties
       key="Beschikbaarheid"
-      value="Niet ingevuld"/>
+      value="Middel"/>
   <properties
       key="Integriteit"
-      value="Niet ingevuld"/>
+      value="Hoog"/>
   <properties
       key="Vertrouwelijkheid"
-      value="Niet ingevuld"/>
+      value="Laag"/>
 </archimate:BusinessObject>

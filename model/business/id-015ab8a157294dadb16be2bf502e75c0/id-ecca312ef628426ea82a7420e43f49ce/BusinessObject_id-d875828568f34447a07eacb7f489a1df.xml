@@ -5,11 +5,11 @@
     documentation="Definitie: &#xD;&#xA;Alle bij een leeractiviteit inzetbare materialen en middelen die samengesteld of beschikbaar gesteld worden door de docent of instructeur. &#xD;&#xA;&#xD;&#xA;Relatie/overlap met andere bronnen: ">
   <properties
       key="Beschikbaarheid"
-      value="Niet ingevuld"/>
+      value="Middel"/>
   <properties
       key="Integriteit"
-      value="Niet ingevuld"/>
+      value="Middel"/>
   <properties
       key="Vertrouwelijkheid"
-      value="Niet ingevuld"/>
+      value="Laag"/>
 </archimate:BusinessObject>

@@ -5,11 +5,11 @@
     documentation="Definitie: &#xD;&#xA;Op basis van het examendossier met behaalde examenresultaten en de EVC-besluiten beoordeelt de onderwijsaanbieder of een student het waardedocument ontvangt dat in de kwalificatie is vastgelegd.&#xD;&#xA;&#xD;&#xA;Relatie/overlap met andere bronnen: ">
   <properties
       key="Beschikbaarheid"
-      value="Niet ingevuld"/>
+      value="Laag"/>
   <properties
       key="Integriteit"
-      value="Niet ingevuld"/>
+      value="Hoog"/>
   <properties
       key="Vertrouwelijkheid"
-      value="Niet ingevuld"/>
+      value="Middel"/>
 </archimate:BusinessObject>

@@ -5,11 +5,11 @@
     documentation="Definitie: &#xD;&#xA;Het zorgdossier bevat alle documenten en gegevens over lichamelijke psychische en sociaal-emotionele beperkingen van de deelnemer. Het zorgdossier is van het studentbegeleidingsdossier gescheiden omdat dit dossier meer privacygevoelige informatie bevat. &#xD;&#xA;&#xD;&#xA;Relatie/overlap met andere bronnen: &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
   <properties
       key="Beschikbaarheid"
-      value="Niet ingevuld"/>
+      value="Middel"/>
   <properties
       key="Integriteit"
-      value="Niet ingevuld"/>
+      value="Middel"/>
   <properties
       key="Vertrouwelijkheid"
-      value="Niet ingevuld"/>
+      value="Hoog"/>
 </archimate:BusinessObject>

@@ -5,11 +5,11 @@
     documentation="Definitie: &#xD;&#xA;Een project - niet noodzakelijkerwijs binnen een bedrijf - waarbinnen de student de beroepspraktijkvorming volgt of kan volgen. &#xD;&#xA;&#xD;&#xA;Relatie/overlap met andere bronnen: ">
   <properties
       key="Beschikbaarheid"
-      value="Niet ingevuld"/>
+      value="Middel"/>
   <properties
       key="Integriteit"
-      value="Niet ingevuld"/>
+      value="Laag"/>
   <properties
       key="Vertrouwelijkheid"
-      value="Niet ingevuld"/>
+      value="Laag"/>
 </archimate:BusinessObject>
