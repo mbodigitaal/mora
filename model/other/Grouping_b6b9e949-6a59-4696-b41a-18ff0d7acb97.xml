@@ -1,7 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Strategie, beleid en sturing"
-    id="b6b9e949-6a59-4696-b41a-18ff0d7acb97">
+    id="b6b9e949-6a59-4696-b41a-18ff0d7acb97"
+    documentation="Dit procesgebied omvat het bepalen van de koers, de sturing daarop en het borgen van de kwaliteit van een school. Onderdeel hiervan is ook het ervoor zorgen dat een organisatie in staat is de gewenste veranderingen uit te voeren op een gecontroleerde wijze.">
   <properties
       key="MORA-type"
       value="Procesdomein"/>

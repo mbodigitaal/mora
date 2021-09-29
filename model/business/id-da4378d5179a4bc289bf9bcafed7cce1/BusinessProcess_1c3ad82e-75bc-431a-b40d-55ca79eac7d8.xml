@@ -1,8 +1,9 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verwerken salaris"
-    id="1c3ad82e-75bc-431a-b40d-55ca79eac7d8">
+    id="1c3ad82e-75bc-431a-b40d-55ca79eac7d8"
+    documentation="Het zorgdragen voor de salarisadministratie, het verwerken van declaraties en het uitbetalen ervan">
   <properties
       key="MORA-type"
-      value="Proces"/>
+      value="Hoofdproces"/>
 </archimate:BusinessProcess>

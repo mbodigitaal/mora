@@ -5,5 +5,5 @@
     documentation="Het adviseren over en ondersteunen bij externe communicatie zoals de inrichting van de openbare website, social media-uitingen, organiseren evenementen, voorlichtingsavonden">
   <properties
       key="MORA-type"
-      value="Proces"/>
+      value="Hoofdproces"/>
 </archimate:BusinessProcess>

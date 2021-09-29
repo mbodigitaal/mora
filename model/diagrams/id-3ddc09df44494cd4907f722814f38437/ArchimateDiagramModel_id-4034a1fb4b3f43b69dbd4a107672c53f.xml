@@ -1722,18 +1722,6 @@
         href="ApplicationService_id-1b88e045e393491a8dcd64e74632fcfc.xml#id-1b88e045e393491a8dcd64e74632fcfc"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-2b8709c14d5c451c8ceed428985c59f1"
-      font="1|Segoe UI|10.8|0|WINDOWS|1|-18|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-      textAlignment="1"
-      content="Wijzigingen t.o.v. versie 1.0:&#xD;&#xA;&#xD;&#xA;Service Ruimtebeheer gekoppeld aan proces Bepalen benodigde middelen (was niet zo)&#xD;&#xA;&#xD;&#xA;Service Medewerker inzet beheer gekoppeld aan proces Matchen onderwijs vraag op beschikbare middelen (was niet zo)&#xD;&#xA;">
-    <bounds
-        x="49"
-        y="936"
-        width="1162"
-        height="172"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e4d2f40a4b0d4bd690366b3cd2ce56f9"
       fillColor="#00c4c4">

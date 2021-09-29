@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Subsidies"
+    id="id-19a1514019e64efb8ceee473230cfa0b"
+    documentation="Het analyseren, verantwoorden van, rapporteren over verkregen subsidies en de besteding ervan">
+  <properties
+      key="MORA-type"
+      value="Proces"/>
+</archimate:BusinessProcess>

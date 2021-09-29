@@ -5,5 +5,5 @@
     documentation="Het leveren van juridische ondersteuning zoals het afhandelen van bezwaar- en beroepsprocedures">
   <properties
       key="MORA-type"
-      value="Proces"/>
+      value="Hoofdproces"/>
 </archimate:BusinessProcess>

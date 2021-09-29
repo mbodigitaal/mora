@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Matchen student en BPV plaats"
     id="4473941a-8e82-43b2-8e2a-cd0818b503d9"
-    documentation="Resultaat&#xD;&#xA;* Een student met een passende plaats waar hij/zij de praktijkervaring kan opdoen en leertaken kan uitvoeren als onderdeel van zijn/haar persoonlijke leerroute.&#xD;&#xA;&#xD;&#xA;Vastgelegd in&#xD;&#xA;* Door alle partijen getekende BPV-overeenkomst&#xD;&#xA;"/>
+    documentation="Resultaat&#xD;&#xA;* Een student met een passende plaats waar hij/zij de praktijkervaring kan opdoen en leertaken kan uitvoeren als onderdeel van zijn/haar persoonlijke leerroute.&#xD;&#xA;&#xD;&#xA;Vastgelegd in&#xD;&#xA;* Door alle partijen getekende BPV-overeenkomst&#xD;&#xA;">
+  <properties
+      key="MORA-type"
+      value="Hoofdproces"/>
+</archimate:BusinessProcess>

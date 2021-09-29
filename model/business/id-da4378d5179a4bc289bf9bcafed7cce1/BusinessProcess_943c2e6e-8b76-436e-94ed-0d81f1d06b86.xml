@@ -1,7 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beheren vastgoed"
-    id="943c2e6e-8b76-436e-94ed-0d81f1d06b86">
+    id="943c2e6e-8b76-436e-94ed-0d81f1d06b86"
+    documentation="Het beheren van het vastgoed van de instelling. Denk aan toezien op gebruik, vergunningen, inspecties, duurzaamheid, huren, verhuren, kopen, afstoten">
   <properties
       key="MORA-type"
       value="Proces"/>

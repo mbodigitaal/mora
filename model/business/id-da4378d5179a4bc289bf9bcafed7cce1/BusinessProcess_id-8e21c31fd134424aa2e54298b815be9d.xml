@@ -1,7 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Betalen kas/creditkaart/deit-card"
-    id="id-8e21c31fd134424aa2e54298b815be9d">
+    name="Betalen kas/creditkaart/debit-card"
+    id="id-8e21c31fd134424aa2e54298b815be9d"
+    documentation="Het faciliteren, autoriseren en registreren van het doen van betalingen zoals met contant geld of een betaalpas">
   <properties
       key="MORA-type"
       value="Proces"/>

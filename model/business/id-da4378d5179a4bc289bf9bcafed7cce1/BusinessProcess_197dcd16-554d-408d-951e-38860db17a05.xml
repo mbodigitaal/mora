@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ontwikkelen en voorbereiden onderwijs"
     id="197dcd16-554d-408d-951e-38860db17a05"
-    documentation="Resultaat:&#xD;&#xA;* Ontwikkelde leertaken die invulling geven aan het onderwijsaanbod.&#xD;&#xA;&#xD;&#xA;Vastgelegd in:&#xD;&#xA;* Uitgewerkte leertaken&#xD;&#xA;* Onderwijscatalogus&#xD;&#xA;"/>
+    documentation="Resultaat:&#xD;&#xA;* Ontwikkelde leertaken die invulling geven aan het onderwijsaanbod.&#xD;&#xA;&#xD;&#xA;Vastgelegd in:&#xD;&#xA;* Uitgewerkte leertaken&#xD;&#xA;* Onderwijscatalogus&#xD;&#xA;">
+  <properties
+      key="MORA-type"
+      value="Hoofdproces"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitvoeren verplichtingen-administratie"
+    id="id-7316004a66254d9485ada9c070ca6c22"
+    documentation="Het administreren van aangegane financiële verplichtingen zoals die veelal voortvloeien uit inkooptrajecten">
+  <properties
+      key="MORA-type"
+      value="Proces"/>
+</archimate:BusinessProcess>

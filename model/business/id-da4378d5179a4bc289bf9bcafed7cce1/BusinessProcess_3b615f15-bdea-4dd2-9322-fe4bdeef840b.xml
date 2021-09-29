@@ -5,5 +5,5 @@
     documentation="Het adviseren over en ondersteunen bij interne communicatie zoals bij projecten, systeemimplementaties, narrow casting, content op portalen">
   <properties
       key="MORA-type"
-      value="Proces"/>
+      value="Hoofdproces"/>
 </archimate:BusinessProcess>

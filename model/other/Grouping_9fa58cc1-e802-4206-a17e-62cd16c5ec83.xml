@@ -1,7 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Onderwijs uitvoeren"
-    id="9fa58cc1-e802-4206-a17e-62cd16c5ec83">
+    id="9fa58cc1-e802-4206-a17e-62cd16c5ec83"
+    documentation="Dit is het aanbieden en volgen van het onderwijs. Aan de hand van formatieve resultaten wordt bepaald of een student kan deelnemen aan examinering voor dat onderdeel.">
   <properties
       key="MORA-type"
       value="Procesdomein"/>

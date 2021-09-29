@@ -1,7 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tactisch inrichten; het team organiseren en ontwikkelen"
-    id="9b8c0a18-990a-43bc-b1f7-33ac87cfebce">
+    id="9b8c0a18-990a-43bc-b1f7-33ac87cfebce"
+    documentation="Dit procesgebied omvat de processen op tactisch niveau, en de inrichting en ontwikkeling van de organisatie en de teams binnen de organisatie.">
   <properties
       key="MORA-type"
       value="Procesdomein"/>
