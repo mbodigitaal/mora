@@ -1,7 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Intern communiceren"
-    id="3b615f15-bdea-4dd2-9322-fe4bdeef840b">
+    id="3b615f15-bdea-4dd2-9322-fe4bdeef840b"
+    documentation="Het adviseren over en ondersteunen bij interne communicatie zoals bij projecten, systeemimplementaties, narrow casting, content op portalen">
   <properties
       key="MORA-type"
       value="Hoofdproces"/>
