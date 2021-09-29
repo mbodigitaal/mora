@@ -691,14 +691,9 @@
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="54033723-cca8-4ea1-962e-aebd7babb5b4"
           lineWidth="2"
-          lineColor="#76245b"
+          lineColor="#4a3d91"
           source="66448909-e6dc-4b29-801c-adbff8b65b03"
           target="57fae540-aa2a-496b-ad68-f652d87b3ee2">
-        <bendpoints
-            startX="6"
-            startY="33"
-            endX="6"
-            endY="-39"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_bfa614e6-55af-4b07-8ce7-309faa0b9f09.xml#bfa614e6-55af-4b07-8ce7-309faa0b9f09"/>
@@ -722,7 +717,7 @@
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="ff68083a-5563-4766-afa3-00ebffc2f1e9"
           lineWidth="2"
-          lineColor="#76245b"
+          lineColor="#4a3d91"
           source="57fae540-aa2a-496b-ad68-f652d87b3ee2"
           target="c36da25b-10c7-4784-8ab5-701ad3c8d867">
         <archimateRelationship
@@ -748,7 +743,7 @@
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="71b157c8-59f5-49b4-82fb-6deff0dd0668"
           lineWidth="2"
-          lineColor="#76245b"
+          lineColor="#4a3d91"
           source="c36da25b-10c7-4784-8ab5-701ad3c8d867"
           target="77648bd4-80fe-40c8-8d31-c7d6ea18efa8">
         <archimateRelationship
@@ -815,7 +810,7 @@
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="fa20248c-4993-4e89-8c72-43619a66f0a7"
           lineWidth="2"
-          lineColor="#76245b"
+          lineColor="#4a3d91"
           source="42cb3314-6d89-491a-bd35-20da6c64ad21"
           target="66448909-e6dc-4b29-801c-adbff8b65b03">
         <archimateRelationship

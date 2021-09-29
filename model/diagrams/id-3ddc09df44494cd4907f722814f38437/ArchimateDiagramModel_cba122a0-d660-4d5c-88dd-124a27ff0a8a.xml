@@ -142,20 +142,9 @@
           source="dc04d1d4-9473-443c-a091-0080614f1aa6"
           target="50912570-55d9-49e4-87ea-2fd915e1b22c">
         <bendpoints
-            startX="120"
+            startX="240"
             startY="-3"
-            endX="-120"
-            endY="117"/>
-        <bendpoints
-            startX="120"
-            startY="-51"
-            endX="-120"
-            endY="69"/>
-        <bendpoints
-            startX="192"
-            startY="-63"
-            endX="-48"
-            endY="81"/>
+            endY="141"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_dbc9d064-0f4f-452d-9765-2fde6f191efc.xml#dbc9d064-0f4f-452d-9765-2fde6f191efc"/>
