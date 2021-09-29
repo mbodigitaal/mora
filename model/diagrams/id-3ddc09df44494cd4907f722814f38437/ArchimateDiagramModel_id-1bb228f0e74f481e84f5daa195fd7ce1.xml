@@ -496,6 +496,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-b64d8540d62b4fad859a2c257a1fe259"
         targetConnections="id-a5581535cb844f1fbf986f1ed0f61b13 id-09642de4678044c398b022057291de6f"
+        font="1|Segoe UI|10.2|1|WINDOWS|1|-17|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ffffff"
         fillColor="#c6d9a1">
       <sourceConnections
@@ -663,7 +664,7 @@
           fillColor="#80b245">
         <bounds
             x="168"
-            y="24"
+            y="36"
             width="120"
             height="55"/>
         <archimateElement
@@ -678,7 +679,7 @@
           fillColor="#80b245">
         <bounds
             x="168"
-            y="96"
+            y="108"
             width="120"
             height="56"/>
         <archimateElement
@@ -693,7 +694,7 @@
           fillColor="#80b245">
         <bounds
             x="12"
-            y="96"
+            y="108"
             width="120"
             height="56"/>
         <archimateElement
@@ -708,7 +709,7 @@
           fillColor="#80b245">
         <bounds
             x="12"
-            y="24"
+            y="36"
             width="120"
             height="55"/>
         <archimateElement

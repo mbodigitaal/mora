@@ -475,6 +475,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-db4c12f24d284c7ba4b25d29ee5ece81"
         targetConnections="id-be9a20e61fab4d5dbe15fdbc1373b5f4 id-67a5b58ce292419fb4e8eca926592a8d"
+        font="1|Segoe UI|10.2|1|WINDOWS|1|-17|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ffffff"
         fillColor="#c6d9a1">
       <sourceConnections
@@ -628,7 +629,7 @@
           fillColor="#80b245">
         <bounds
             x="168"
-            y="24"
+            y="36"
             width="120"
             height="55"/>
         <archimateElement
@@ -643,7 +644,7 @@
           fillColor="#80b245">
         <bounds
             x="168"
-            y="96"
+            y="108"
             width="120"
             height="56"/>
         <archimateElement
@@ -658,7 +659,7 @@
           fillColor="#80b245">
         <bounds
             x="12"
-            y="96"
+            y="108"
             width="120"
             height="56"/>
         <archimateElement
@@ -941,12 +942,12 @@
         <bendpoints
             startX="924"
             startY="69"
-            endX="138"
+            endX="132"
             endY="249"/>
         <bendpoints
             startX="924"
             startY="-183"
-            endX="138"
+            endX="132"
             endY="-3"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
