@@ -1,7 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Onderzoeken markt"
-    id="969d8344-b994-474d-b806-eacb6697bff4">
+    id="969d8344-b994-474d-b806-eacb6697bff4"
+    documentation="Het onderzoeken van de markt gericht op het behalen van de doelstelling van de onderneming m.b.t. instroom, uitstroom en continuiteit. Denk aan demografische onderzoeken, werken aan marktaandeel, de positie in het werkveld, teveredenheidsonderzoeken, ontwikkelingen in de arbeidsmarkt, onderzoek concurrentiepositie">
   <properties
       key="MORA-type"
       value="Proces"/>

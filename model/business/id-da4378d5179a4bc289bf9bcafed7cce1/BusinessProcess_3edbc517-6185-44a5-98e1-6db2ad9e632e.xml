@@ -1,7 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Afhandelen klachten"
-    id="3edbc517-6185-44a5-98e1-6db2ad9e632e">
+    id="3edbc517-6185-44a5-98e1-6db2ad9e632e"
+    documentation="Het leveren van juridische ondersteuning zoals het afhandelen van klachten">
   <properties
       key="MORA-type"
       value="Proces"/>

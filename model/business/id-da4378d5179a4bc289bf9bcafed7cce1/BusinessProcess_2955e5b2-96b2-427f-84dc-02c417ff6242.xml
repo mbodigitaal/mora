@@ -1,7 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ontwikkelen imago"
-    id="2955e5b2-96b2-427f-84dc-02c417ff6242">
+    id="2955e5b2-96b2-427f-84dc-02c417ff6242"
+    documentation="Het ontwikkelen en onderhouden van het imago van de instelling zoals uitdragen van de huisstijl, deelname in samenwerkingsverbanden, doen van campagnes, uitingen in de pers enz..">
   <properties
       key="MORA-type"
       value="Proces"/>

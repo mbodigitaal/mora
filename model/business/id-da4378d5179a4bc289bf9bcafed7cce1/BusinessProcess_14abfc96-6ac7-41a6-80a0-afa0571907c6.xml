@@ -1,7 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Juridisch adviseren"
-    id="14abfc96-6ac7-41a6-80a0-afa0571907c6">
+    id="14abfc96-6ac7-41a6-80a0-afa0571907c6"
+    documentation="Het leveren van juridische adviezen ">
   <properties
       key="MORA-type"
       value="Proces"/>
