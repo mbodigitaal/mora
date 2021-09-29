@@ -265,6 +265,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="79e9224e-84be-4382-881f-17c29806767f"
         targetConnections="8dc36cb7-a93f-4e4b-a2b7-c91b348d2a40"
+        font="1|Segoe UI|10.2|1|WINDOWS|1|-17|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ffffff"
         fillColor="#cccdce">
       <sourceConnections
@@ -415,7 +416,7 @@
               href="TriggeringRelationship_id-c7aa4d2106a14d28b6e04bb69f7061a3.xml#id-c7aa4d2106a14d28b6e04bb69f7061a3"/>
         </sourceConnections>
         <bounds
-            x="156"
+            x="144"
             y="36"
             width="120"
             height="55"/>
@@ -498,6 +499,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="fc4b2536-ce44-4eb1-99a2-b5c01bbfce74"
         targetConnections="7288132c-b0fd-4a82-b7d9-4dccb253ec19"
+        font="1|Segoe UI|10.2|1|WINDOWS|1|-17|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ffffff"
         fillColor="#cccdce">
       <sourceConnections
@@ -692,9 +694,9 @@
             href="TriggeringRelationship_id-40070ed19d2c4a488aa032b772bf6cb1.xml#id-40070ed19d2c4a488aa032b772bf6cb1"/>
       </sourceConnections>
       <bounds
-          x="300"
+          x="288"
           y="96"
-          width="96"
+          width="108"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
@@ -876,6 +878,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="b3ffaeee-c1dc-4086-a0ef-e9cc6c4ae60b"
         targetConnections="8207e8a0-b608-4dbf-aa5c-dfd56d85e2df id-ec371c11de11497189e8b9ccb229b94c id-6fbb612b4c3547009bcc293777ca071a id-edc19ef249a441478ea52e13541f3032"
+        font="1|Segoe UI|10.2|1|WINDOWS|1|-17|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ffffff"
         fillColor="#bfc0c1">
       <sourceConnections
@@ -949,7 +952,7 @@
           fillColor="#919394">
         <bounds
             x="12"
-            y="24"
+            y="36"
             width="121"
             height="61"/>
         <archimateElement
@@ -979,7 +982,7 @@
           fillColor="#919394">
         <bounds
             x="156"
-            y="24"
+            y="36"
             width="121"
             height="61"/>
         <archimateElement

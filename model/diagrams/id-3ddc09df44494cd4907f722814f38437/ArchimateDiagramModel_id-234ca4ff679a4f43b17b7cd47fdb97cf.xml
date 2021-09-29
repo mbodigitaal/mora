@@ -512,7 +512,7 @@
     <bounds
         x="1284"
         y="381"
-        width="469"
+        width="457"
         height="229"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -600,7 +600,7 @@
             href="AccessRelationship_id-0cf4ab9f7ca643cf8606d349f57fed83.xml#id-0cf4ab9f7ca643cf8606d349f57fed83"/>
       </sourceConnections>
       <bounds
-          x="324"
+          x="312"
           y="84"
           width="120"
           height="55"/>

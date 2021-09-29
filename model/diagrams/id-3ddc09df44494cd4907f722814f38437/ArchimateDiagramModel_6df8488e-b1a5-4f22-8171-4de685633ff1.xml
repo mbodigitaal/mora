@@ -722,7 +722,7 @@
         </sourceConnections>
         <bounds
             x="205"
-            y="24"
+            y="36"
             width="120"
             height="55"/>
         <archimateElement
@@ -912,7 +912,7 @@
           fillColor="#428e9b">
         <bounds
             x="12"
-            y="24"
+            y="36"
             width="133"
             height="55"/>
         <archimateElement
@@ -927,7 +927,7 @@
           fillColor="#428e9b">
         <bounds
             x="252"
-            y="24"
+            y="36"
             width="120"
             height="55"/>
         <archimateElement

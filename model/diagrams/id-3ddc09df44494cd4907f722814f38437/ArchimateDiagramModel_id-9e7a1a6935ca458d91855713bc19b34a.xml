@@ -655,7 +655,7 @@
         fontColor="#ffffff"
         fillColor="#b72b7b">
       <bounds
-          x="534"
+          x="522"
           y="48"
           width="109"
           height="55"/>
@@ -854,7 +854,7 @@
           href="AccessRelationship_id-127dfb6cda824ec8869571dfe7326b2a.xml#id-127dfb6cda824ec8869571dfe7326b2a"/>
     </sourceConnections>
     <bounds
-        x="1296"
+        x="1284"
         y="156"
         width="181"
         height="145"/>
@@ -881,20 +881,20 @@
           source="id-4c43b63cc36d4615827b3c2bf10914fb"
           target="id-028a2427edb84d91bd7d9e084f7a1430">
         <bendpoints
-            startX="114"
+            startX="126"
             startY="-3"
             endX="287"
             endY="-339"/>
         <bendpoints
-            startX="114"
-            startY="285"
+            startX="126"
+            startY="249"
             endX="287"
-            endY="-51"/>
+            endY="-87"/>
         <bendpoints
-            startX="-176"
-            startY="309"
-            endX="24"
-            endY="-63"/>
+            startX="-162"
+            startY="249"
+            endX="-1"
+            endY="-87"/>
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_id-91787fca7dc1493cb932788ade645eb4.xml#id-91787fca7dc1493cb932788ade645eb4"/>
@@ -1064,7 +1064,7 @@
           href="CompositionRelationship_84c74e82-8d4c-454d-be1e-3976e3211c25.xml#84c74e82-8d4c-454d-be1e-3976e3211c25"/>
     </sourceConnections>
     <bounds
-        x="1296"
+        x="1284"
         y="12"
         width="181"
         height="121"/>
@@ -1240,7 +1240,7 @@
       id="id-2c828b18bda540f7a496a03bf91200c7"
       targetConnections="id-3d51a509841b4bca97d3529ebad85b2d">
     <bounds
-        x="1296"
+        x="1284"
         y="564"
         width="120"
         height="55"/>

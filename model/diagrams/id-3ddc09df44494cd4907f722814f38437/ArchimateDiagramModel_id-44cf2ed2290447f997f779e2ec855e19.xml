@@ -52,7 +52,7 @@
       </sourceConnections>
       <bounds
           x="300"
-          y="120"
+          y="132"
           width="120"
           height="55"/>
       <archimateElement
@@ -84,7 +84,7 @@
       </sourceConnections>
       <bounds
           x="300"
-          y="36"
+          y="60"
           width="120"
           height="55"/>
       <archimateElement
@@ -517,7 +517,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-69fe03c5cc0e42038fc436ecba880c9f"
         targetConnections="id-232ab54a25ee40d691b0f9e7848b03e5"
-        font="1|Segoe UI|12.0|1|WINDOWS|1|-20|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        font="1|Segoe UI|10.2|1|WINDOWS|1|-17|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ffffff"
         fillColor="#a8ada3">
       <sourceConnections
@@ -1020,9 +1020,9 @@
           href="CompositionRelationship_id-5b87a0ef28164652b1d924def842028b.xml#id-5b87a0ef28164652b1d924def842028b"/>
     </sourceConnections>
     <bounds
-        x="1683"
+        x="1668"
         y="12"
-        width="145"
+        width="160"
         height="601"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -1031,7 +1031,7 @@
         fontColor="#ffffff"
         fillColor="#7fb955">
       <bounds
-          x="12"
+          x="27"
           y="288"
           width="120"
           height="55"/>

@@ -68,9 +68,9 @@
           href="CompositionRelationship_00a7a13e-6324-42ed-b4de-4c9b0be6b61f.xml#00a7a13e-6324-42ed-b4de-4c9b0be6b61f"/>
     </sourceConnections>
     <bounds
-        x="463"
+        x="479"
         y="504"
-        width="337"
+        width="321"
         height="157"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -115,7 +115,7 @@
             href="TriggeringRelationship_ff0a3293-e4b6-4a39-b047-8f8c03fc0015.xml#ff0a3293-e4b6-4a39-b047-8f8c03fc0015"/>
       </sourceConnections>
       <bounds
-          x="204"
+          x="188"
           y="48"
           width="120"
           height="55"/>
@@ -141,7 +141,7 @@
             href="TriggeringRelationship_33a03f60-90f6-4583-bad1-f3b24c9253df.xml#33a03f60-90f6-4583-bad1-f3b24c9253df"/>
       </sourceConnections>
       <bounds
-          x="36"
+          x="44"
           y="48"
           width="120"
           height="55"/>
@@ -515,17 +515,17 @@
         <bendpoints
             startX="-18"
             startY="330"
-            endX="173"
+            endX="149"
             endY="-99"/>
         <bendpoints
-            startX="-270"
+            startX="-294"
             startY="330"
-            endX="-79"
+            endX="-127"
             endY="-99"/>
         <bendpoints
-            startX="-270"
-            startY="414"
-            endX="-79"
+            startX="-294"
+            startY="426"
+            endX="-127"
             endY="-3"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
