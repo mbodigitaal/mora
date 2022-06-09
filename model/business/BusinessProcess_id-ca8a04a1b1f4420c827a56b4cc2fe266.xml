@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontwikkelen en onderhouden onderwijs catalogus (copy)"
+    id="id-ca8a04a1b1f4420c827a56b4cc2fe266"
+    documentation="Het inrichten en onderhouden van de onderwijscatalogus. De onderwijscatalogus bevat en beschrijft het onderwijsaanbod, zoals dat is samengesteld uit onderwijsprogramma's en opleidingsonderdelen.&#xD;&#xA;">
+  <properties
+      key="MORA-type"
+      value="Proces"/>
+</archimate:BusinessProcess>
