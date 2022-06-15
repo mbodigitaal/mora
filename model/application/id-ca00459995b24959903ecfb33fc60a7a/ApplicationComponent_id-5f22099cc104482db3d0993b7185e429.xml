@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Student begeleiding systeem"
     id="id-5f22099cc104482db3d0993b7185e429"
-    documentation="Een systeem voor het ondersteunen van het studentbegeleidingsproces  (1e, 2e en 3e lijns)">
+    documentation="Een systeem voor het ondersteunen van het studentbegeleidingsproces  (1e, 2e lijns). Dit is exclusief 3e lijns zorg (zie het Zorgsysteem)">
   <properties
       key="Source"
       value="https://www.wikixl.nl/wiki/fora/index.php/FORA/id-b2f7e030-ee3f-4943-9027-07beca5dd434"/>
