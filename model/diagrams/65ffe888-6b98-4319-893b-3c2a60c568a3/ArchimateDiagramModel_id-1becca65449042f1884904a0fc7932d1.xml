@@ -15,6 +15,28 @@
         height="601"/>
   </children>
   <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-55e70ad57c2547bf84a402410fdce11e"
+      textAlignment="1"
+      content="Dit weglaten..?">
+    <bounds
+        x="504"
+        y="414"
+        width="325"
+        height="127"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-f462671b927d43f59db52caa3f568417"
+      textAlignment="1"
+      content="Dit weglaten..?">
+    <bounds
+        x="24"
+        y="348"
+        width="377"
+        height="289"/>
+  </children>
+  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4047b0c826a6488eb19ca2862c667738">
     <sourceConnections
@@ -594,50 +616,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-f9aecac4be834bcdb1431ff786388829"
-      textAlignment="1"
-      content="Dit weglaten..?">
-    <bounds
-        x="228"
-        y="948"
-        width="113"
-        height="32"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-1458bcc85d774d0fb139844fe527b2b1"
-      textAlignment="1"
-      content="Dit weglaten..?">
-    <bounds
-        x="531"
-        y="528"
-        width="113"
-        height="32"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-e9e9dfc8b93549d9afcf6bc9470131ec"
-      textAlignment="1"
-      content="Dit weglaten..?">
-    <bounds
-        x="699"
-        y="528"
-        width="113"
-        height="32"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-f462671b927d43f59db52caa3f568417"
-      textAlignment="1"
-      content="Dit weglaten..?">
-    <bounds
-        x="43"
-        y="528"
-        width="113"
-        height="32"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
       id="id-8a1f05c1ba594c8ebd5b5f8e30126578"
       textAlignment="1"
       content="Cambo levert alleen basis-persoonsgegs; de rest haalt het SIS zelf op bij Bron. ">
@@ -704,31 +682,9 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-55e70ad57c2547bf84a402410fdce11e"
-      textAlignment="1"
-      content="Dit weglaten..?">
-    <bounds
-        x="531"
-        y="414"
-        width="113"
-        height="32"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-5b0e960480534053bdded486333479f5"
-      textAlignment="1"
-      content="Dit weglaten..?">
-    <bounds
-        x="699"
-        y="414"
-        width="113"
-        height="32"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
       id="id-7e03a47b800d4a7ca29c54bb588ead12"
       textAlignment="1"
-      content="Belangrijkste Bron: &#xD;&#xA;https://www.sambo-ict.nl/wp-content/uploads/2019/01/PvE-2.1-Centraal-Aanmelden-MBO.pdf&#xD;&#xA;&#xD;&#xA;Zie tekening blz 11">
+      content="Belangrijkste Bron: &#xD;&#xA;https://www.sambo-ict.nl/wp-content/uploads/2019/01/PvE-2.1-Centraal-Aanmelden-MBO.pdf&#xD;&#xA;&#xD;&#xA;Zie tekening blz 11 en vooral ook blz 14">
     <bounds
         y="24"
         width="289"
