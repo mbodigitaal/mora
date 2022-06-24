@@ -1,12 +1,13 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-3e500be46e5349afbdec193f6aaadbac"
+    name="Aanmeld bericht"
+    id="id-00ecd298cf0a43fba2999580209dac60"
     accessType="1">
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-c89ed4e4d0e64e3183df8450aa567900.xml#id-c89ed4e4d0e64e3183df8450aa567900"/>
+      href="ApplicationComponent_id-baf2a626c75748b1b7ab5309f0036c02.xml#id-baf2a626c75748b1b7ab5309f0036c02"/>
   <target
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_6ea81a60-8e54-4b56-9fec-7bbb285637c7.xml#6ea81a60-8e54-4b56-9fec-7bbb285637c7"/>
+      href="BusinessObject_60bd4868-7624-447d-ac5d-831e232e9e72.xml#60bd4868-7624-447d-ac5d-831e232e9e72"/>
 </archimate:AccessRelationship>
