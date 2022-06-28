@@ -15,7 +15,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-e387cd7b3fcb43f799e4c64f9124a317"
-        targetConnections="id-953f33a3eed2482786fd48df4ec5ae00 id-f8f358ae2131451bb95ace275780b37d">
+        targetConnections="id-953f33a3eed2482786fd48df4ec5ae00 id-f8f358ae2131451bb95ace275780b37d id-537569faf11f41ffa7c2d7c53f1f6cc5">
       <bounds
           x="60"
           y="36"
@@ -117,6 +117,15 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-166a0a6bfb364bbfb5d0b68c2d0e5a64"
       targetConnections="id-196b0fb593994ea9a1c00c1eb9ca449b id-464e2c4156f4478bb22e82cf0f7e5f3a id-820466bf2f9c49cca06e2029011563b4">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-537569faf11f41ffa7c2d7c53f1f6cc5"
+        source="id-166a0a6bfb364bbfb5d0b68c2d0e5a64"
+        target="id-e387cd7b3fcb43f799e4c64f9124a317">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_fbbdeab3-fec9-46a1-bda0-fff432d332f5.xml#fbbdeab3-fec9-46a1-bda0-fff432d332f5"/>
+    </sourceConnections>
     <bounds
         x="420"
         y="324"
@@ -341,5 +350,16 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-85d59e5d664748d89874c883cd4db819.xml#id-85d59e5d664748d89874c883cd4db819"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-a1ceb1ab28af4dc1adfde673efb210b8"
+      textAlignment="1"
+      content="Bron: &#xD;&#xA; https://www.edustandaard.nl/standaard_afspraken/registratie-instellingen-en-opleidingen-rio/registratie-instellingen-en-opleidingen-december-2021/&#xD;&#xA;&#xD;&#xA;en&#xD;&#xA;&#xD;&#xA;https://lod.onderwijsregistratie.nl/rio-api&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+    <bounds
+        x="948"
+        y="228"
+        width="361"
+        height="133"/>
   </children>
 </archimate:ArchimateDiagramModel>
