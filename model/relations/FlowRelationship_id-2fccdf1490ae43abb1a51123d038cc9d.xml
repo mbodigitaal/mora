@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Instellings- en opleidingsgegevens"
+    name="Instellings- en opleidingsgegevens (het opleidingsaanbod)"
     id="id-2fccdf1490ae43abb1a51123d038cc9d">
   <source
       xsi:type="archimate:ApplicationComponent"

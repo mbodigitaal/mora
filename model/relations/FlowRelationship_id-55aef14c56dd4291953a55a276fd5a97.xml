@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Persoonsgegevens en Examenresultaten"
+    name="Inschrijvingsgegevens en examenresultaten"
     id="id-55aef14c56dd4291953a55a276fd5a97"
     documentation="Inschrijvingen, studentgegevens, examenresultaten, BPV gegevens, verzuimgegevens">
   <source

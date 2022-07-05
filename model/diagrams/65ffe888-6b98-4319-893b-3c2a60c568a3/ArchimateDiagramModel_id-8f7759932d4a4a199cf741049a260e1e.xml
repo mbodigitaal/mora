@@ -118,6 +118,30 @@
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-89df8c00b4a149e39236b24248fa0ed8.xml#id-89df8c00b4a149e39236b24248fa0ed8"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-7945cb16eadf4e44b1a3f91086db224c"
+        source="id-0f7c4d4f454c49218920cb2aeea7c8a7"
+        target="id-109bad7286e9494a80adc728b973ff70">
+      <bendpoints
+          startX="25"
+          startY="465"
+          endX="1019"
+          endY="231"/>
+      <bendpoints
+          startX="-155"
+          startY="465"
+          endX="839"
+          endY="231"/>
+      <bendpoints
+          startX="-1019"
+          startY="465"
+          endX="-25"
+          endY="231"/>
+      <archimateRelationship
+          xsi:type="archimate:FlowRelationship"
+          href="FlowRelationship_id-649b04682fef4bc38bed5e3a5514bdb2.xml#id-649b04682fef4bc38bed5e3a5514bdb2"/>
+    </sourceConnections>
     <bounds
         x="1103"
         y="384"
@@ -313,7 +337,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-109bad7286e9494a80adc728b973ff70">
+      id="id-109bad7286e9494a80adc728b973ff70"
+      targetConnections="id-7945cb16eadf4e44b1a3f91086db224c">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-46130a8db046422282a49c02ed66af4f"
@@ -348,9 +373,9 @@
         source="id-109bad7286e9494a80adc728b973ff70"
         target="id-0f7c4d4f454c49218920cb2aeea7c8a7">
       <bendpoints
-          startX="-25"
+          startX="11"
           startY="207"
-          endX="-996"
+          endX="-983"
           endY="441"/>
       <bendpoints
           startX="983"
@@ -358,10 +383,15 @@
           endX="-11"
           endY="441"/>
       <bendpoints
+          startX="695"
+          startY="207"
+          endX="-299"
+          endY="441"/>
+      <bendpoints
           startX="983"
-          startY="-129"
+          startY="207"
           endX="-11"
-          endY="105"/>
+          endY="441"/>
       <bendpoints
           startX="983"
           startY="-177"
@@ -516,11 +546,11 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-dbb2c3d1cc044fc2a3c6546f3535c8b5"
       textAlignment="1"
-      content="Belangrijkste Bron: &#xD;&#xA;https://www.sambo-ict.nl/wp-content/uploads/2019/01/PvE-2.1-Centraal-Aanmelden-MBO.pdf&#xD;&#xA;&#xD;&#xA;Zie tekening blz 11 en vooral ook blz 14">
+      content="Belangrijkste Bron: &#xD;&#xA;https://www.sambo-ict.nl/wp-content/uploads/2019/01/PvE-2.1-Centraal-Aanmelden-MBO.pdf&#xD;&#xA;&#xD;&#xA;Zie tekening blz 11 en vooral ook blz 14&#xD;&#xA;&#xD;&#xA;Andere bronnen:&#xD;&#xA;&#xD;&#xA;https://mbovoorzieningen.nl/faq/">
     <bounds
         x="876"
         y="30"
         width="289"
-        height="91"/>
+        height="211"/>
   </children>
 </archimate:ArchimateDiagramModel>
