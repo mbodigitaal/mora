@@ -1,11 +1,12 @@
-<archimate:AssociationRelationship
+<archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-c6437b7b2f464bb39bcdf51fffacaeb9">
+    name="Persoons- en vooropleidinggegevens"
+    id="id-89df8c00b4a149e39236b24248fa0ed8">
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-85d59e5d664748d89874c883cd4db819.xml#id-85d59e5d664748d89874c883cd4db819"/>
+      href="ApplicationComponent_id-435be02a066441ea9d6335d78fb2b6c3.xml#id-435be02a066441ea9d6335d78fb2b6c3"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-c89ed4e4d0e64e3183df8450aa567900.xml#id-c89ed4e4d0e64e3183df8450aa567900"/>
-</archimate:AssociationRelationship>
+</archimate:FlowRelationship>
