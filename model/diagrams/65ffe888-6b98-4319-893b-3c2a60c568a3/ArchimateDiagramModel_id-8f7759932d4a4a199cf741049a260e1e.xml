@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Koppelvlak CAMBO (copy)"
+    name="Koppelvlak CAMBO"
     id="id-8f7759932d4a4a199cf741049a260e1e">
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -258,7 +258,7 @@
       <bendpoints
           startX="-36"
           startY="105"
-          endX="300"
+          endX="324"
           endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:AccessRelationship"
@@ -281,7 +281,7 @@
       <bendpoints
           startX="-36"
           startY="-99"
-          endX="300"
+          endX="324"
           endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:AccessRelationship"
