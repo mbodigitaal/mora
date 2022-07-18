@@ -78,9 +78,9 @@
           href="TriggeringRelationship_364d4ed2-8b6c-402c-9963-dba615a36f51.xml#364d4ed2-8b6c-402c-9963-dba615a36f51"/>
     </sourceConnections>
     <bounds
-        x="720"
+        x="708"
         y="156"
-        width="120"
+        width="169"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"

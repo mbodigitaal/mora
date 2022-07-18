@@ -165,9 +165,9 @@
           href="TriggeringRelationship_08dcca78-75b3-411c-ba18-a54502c85b31.xml#08dcca78-75b3-411c-ba18-a54502c85b31"/>
     </sourceConnections>
     <bounds
-        x="828"
+        x="816"
         y="300"
-        width="120"
+        width="132"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -205,9 +205,9 @@
           href="TriggeringRelationship_92af7676-8fa7-4506-a168-36122d8de7d8.xml#92af7676-8fa7-4506-a168-36122d8de7d8"/>
     </sourceConnections>
     <bounds
-        x="828"
+        x="816"
         y="192"
-        width="120"
+        width="132"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"

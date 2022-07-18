@@ -54,9 +54,9 @@
           href="TriggeringRelationship_939804f5-def1-49cb-b87b-c1fc8419b763.xml#939804f5-def1-49cb-b87b-c1fc8419b763"/>
     </sourceConnections>
     <bounds
-        x="192"
+        x="180"
         y="168"
-        width="120"
+        width="132"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -79,9 +79,9 @@
           href="TriggeringRelationship_c81622bc-4a7c-4d0a-a365-d18981e8fc99.xml#c81622bc-4a7c-4d0a-a365-d18981e8fc99"/>
     </sourceConnections>
     <bounds
-        x="192"
+        x="180"
         y="312"
-        width="120"
+        width="132"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -169,7 +169,7 @@
     <bounds
         x="708"
         y="336"
-        width="120"
+        width="133"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -427,7 +427,7 @@
     <bounds
         x="708"
         y="456"
-        width="120"
+        width="133"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
