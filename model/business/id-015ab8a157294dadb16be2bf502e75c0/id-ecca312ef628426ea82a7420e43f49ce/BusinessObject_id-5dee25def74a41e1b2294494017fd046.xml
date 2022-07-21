@@ -1,7 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Summatieve resultaat structuur"
-    id="id-5dee25def74a41e1b2294494017fd046">
+    id="id-5dee25def74a41e1b2294494017fd046"
+    documentation="Structuur waarin summatieve resultaten gestructureerd kunnen worden vastgelegd zodat op basis daarvan de voortgang gevolgd kan worden m.b.t. diplomering. In de summatieve resultaatstructuur worden examenonderdelen en examens vastgelegd. ">
   <properties
       key="Beschikbaarheid"
       value="Middel"/>

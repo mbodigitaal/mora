@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Examen deelname"
     id="id-f1da88093c4642a5aa47ee42d4473c56"
-    documentation="De registratie van een formele activiteit (lees examensessie) waarin een examen wordt afgenomen.&#xD;&#xA;&#xD;&#xA;Relatie/overlap met andere bronnen: &#xD;&#xA;">
+    documentation="De registratie van een formele activiteit (lees examensessie) waarin een examen wordt afgenomen.&#xD;&#xA;">
   <properties
       key="Beschikbaarheid"
       value="Hoog"/>

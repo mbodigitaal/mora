@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Formatieve resultaat structuur"
     id="id-5fcb76f5cfb242838cb912eea6b94a0f"
-    documentation="Definitie: &#xD;&#xA;Gestructureerde vastlegging van de bouwstenen van het onderwijsaanbod (onderwijs-, examen-, en BPV-onderdelen) die kunnen worden gekoppeld aan de uitvoeringsvariant (leerweg, duur), kerntaken en werkprocessen.&#xD;&#xA;&#xD;&#xA;Relatie/overlap met andere bronnen: ">
+    documentation="Structuur waarin formatieve resultaten gestructureerd kunnen worden vastgelegd zodat op basis daarvan de voortgang gevolgd kan worden.&#xD;&#xA;&#xD;&#xA;De formatieve resultatenstructuur is een structuur voor de geordende vastlegging van formatieve resultaten.&#xD;&#xA;&#xD;&#xA;Per opleidingsonderdeel kunnen één of meerdere resultatenstructuren worden gemaakt. Elke resultatenstructuur bestaat uit een aantal toetsen waarvoor resultaten geregistreerd kunnen worden en een berekeningswijze, om tot een eindresultaat voor het geheel te komen. Bij elke toets wordt gedefinieerd op welke schaal het resultaat geregistreerd kan worden.&#xD;&#xA;Elke toets kan gerelateerd worden aan één of meerdere onderdelen van de kwalificatiestructuur.&#xD;&#xA;&#xD;&#xA;">
   <properties
       key="Beschikbaarheid"
       value="Laag"/>

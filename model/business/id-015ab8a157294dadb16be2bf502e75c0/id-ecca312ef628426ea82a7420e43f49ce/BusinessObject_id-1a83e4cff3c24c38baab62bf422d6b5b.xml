@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Leermiddelen lijst"
     id="id-1a83e4cff3c24c38baab62bf422d6b5b"
-    documentation="Definitie: &#xD;&#xA;Het totaal aan leermiddelen dat is gekoppeld aan een aantal samenhangende onderwijsproducten. &#xD;&#xA;&#xD;&#xA;Relatie/overlap met andere bronnen: ">
+    documentation="Het totaal aan leermiddelen dat is gekoppeld aan een aantal samenhangende onderwijsproducten. &#xD;&#xA;">
   <properties
       key="Beschikbaarheid"
       value="Laag"/>

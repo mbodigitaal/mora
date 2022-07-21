@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Doorstroom dossier"
     id="id-eae473f79ef540e594a92537932138bb"
-    documentation="Definitie: &#xD;&#xA;Het dossier dat tussen onderwijsinstellingen wordt uitgewisseld, met daarin gegevens over de student en zijn loopbaan relevant voor de instelling die de student een vervolgopleiding aanbiedt&#xD;&#xA;&#xD;&#xA;Relatie/overlap met andere bronnen: ">
+    documentation="Het dossier dat tussen onderwijsinstellingen wordt uitgewisseld, met daarin gegevens over de student en zijn loopbaan relevant voor de instelling die de student een vervolgopleiding aanbiedt&#xD;&#xA;">
   <properties
       key="Beschikbaarheid"
       value="Laag"/>
