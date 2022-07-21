@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Betaal systemen"
+    name="Betaal systeem"
     id="id-b2e09ca126374dc68491cea8513cfcfb"
     documentation="Verzamelbegrip van systemen waarmee (fysieke en/of digitale) betalingen kunnen worden gedaan of ontvangen.&#xD;&#xA;&#xD;&#xA;Voorbeeld:&#xD;&#xA;Pin apparatuur bij printers en in restaurant&#xD;&#xA;PayPro&#xD;&#xA;Zakelijke bankomgeving van Rabo">
   <properties

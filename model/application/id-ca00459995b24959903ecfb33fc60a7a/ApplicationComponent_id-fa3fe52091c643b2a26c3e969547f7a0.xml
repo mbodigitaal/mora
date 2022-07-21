@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Identity en accessmanagement systemen (IAM)"
+    name="Identity en accessmanagement systeem (IAM)"
     id="id-fa3fe52091c643b2a26c3e969547f7a0"
     documentation="Verzamelbegrip van systemen die zorgdragen voor het:&#xD;&#xA;beheren van digitale identiteiten&#xD;&#xA;beheren autorisaties&#xD;&#xA;authenticeren van gebruikers&#xD;&#xA;faciliteren van het inlogproces&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;Ximex&#xD;&#xA;RedSpider&#xD;&#xA;AD(azure)&#xD;&#xA;ADFS&#xD;&#xA;Eduroam (extern/federatie)&#xD;&#xA;SurfConext (extern/federatie)&#xD;&#xA;Entree (extern/federatie)">
   <properties
