@@ -775,7 +775,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="8360f1b1-10bc-4484-b004-f476ae9a62fe"
-        targetConnections="78319487-526c-40a8-9b20-57d7e9f0c4a4 f6d724d1-3b72-478f-b3a1-ccbdfb987d56 f1042cff-237a-493a-9eb4-1c0026d1a648"
+        targetConnections="78319487-526c-40a8-9b20-57d7e9f0c4a4 f6d724d1-3b72-478f-b3a1-ccbdfb987d56"
         font="1|Segoe UI|10.8|1|WINDOWS|1|-18|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#428e9b"
         fillColor="#cae1ea">
@@ -816,7 +816,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="ee682b7e-3c48-410c-8e20-305e7f0dd7c8"
-          targetConnections="e4b72452-2fbe-49e3-accf-dd7c580928eb"
+          targetConnections="e4b72452-2fbe-49e3-accf-dd7c580928eb f1042cff-237a-493a-9eb4-1c0026d1a648"
           fontColor="#ffffff"
           fillColor="#428e9b">
         <bounds
@@ -1146,7 +1146,7 @@
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="f1042cff-237a-493a-9eb4-1c0026d1a648"
         source="ed6b470a-ff84-46b1-a00b-d75eac2a0ca8"
-        target="8360f1b1-10bc-4484-b004-f476ae9a62fe">
+        target="ee682b7e-3c48-410c-8e20-305e7f0dd7c8">
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-0815d4c82e5c47f198eb8dae328618ef.xml#id-0815d4c82e5c47f198eb8dae328618ef"/>

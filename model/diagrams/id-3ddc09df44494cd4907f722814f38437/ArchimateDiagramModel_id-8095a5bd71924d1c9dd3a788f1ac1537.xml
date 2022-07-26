@@ -958,7 +958,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-542047d8ea9d4d97932df65f836c8c73">
+      id="id-542047d8ea9d4d97932df65f836c8c73"
+      targetConnections="550da916-e2a9-4563-9fda-d061c93c2638">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-d7e3fedc2b9a4f528106177c1ed69ae1"
@@ -1432,19 +1433,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-a71b60516aad40e1a56a025117eb93ce"
-      fillColor="#00c4c4">
-    <bounds
-        x="686"
-        y="708"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-7546969193fd439491a36ef6286999af.xml#id-7546969193fd439491a36ef6286999af"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0460bfc7de0b4705914f97d02e25ed1e"
       fillColor="#b5ffff">
     <sourceConnections
@@ -1619,5 +1607,27 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-c44b6564a528401da2237e2b044c3f5d.xml#id-c44b6564a528401da2237e2b044c3f5d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="531a12d3-53d7-4c30-a86e-08718f88679e"
+      fillColor="#00c4c4">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="550da916-e2a9-4563-9fda-d061c93c2638"
+        source="531a12d3-53d7-4c30-a86e-08718f88679e"
+        target="id-542047d8ea9d4d97932df65f836c8c73">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-fe2efb9c962c462db01f718984d481d3.xml#id-fe2efb9c962c462db01f718984d481d3"/>
+    </sourceConnections>
+    <bounds
+        x="686"
+        y="708"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-4e29a6964e6d4281803143241df70ae1.xml#id-4e29a6964e6d4281803143241df70ae1"/>
   </children>
 </archimate:ArchimateDiagramModel>

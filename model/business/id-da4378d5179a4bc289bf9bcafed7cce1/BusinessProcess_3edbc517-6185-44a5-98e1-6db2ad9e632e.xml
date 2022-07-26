@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Afhandelen klachten"
     id="3edbc517-6185-44a5-98e1-6db2ad9e632e"
-    documentation="Het leveren van juridische ondersteuning zoals het afhandelen van klachten">
+    documentation="Het afhandelen van klachten door een klachtencommissie voor medewerkers en studenten aangaande gedragingen, overtredingen, besluiten over inschrijvingen, niet-toelating, besluiten aangaande functiewaardering, taaktoekenning e.d.">
   <properties
       key="MORA-type"
       value="Hoofdproces"/>
