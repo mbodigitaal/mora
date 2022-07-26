@@ -764,6 +764,15 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
+          id="6974bdf4-5535-4802-a515-77090f224fec"
+          source="a3058917-8fe1-43ff-8b98-37fda0fd329e"
+          target="b0db1dc5-a8d0-4464-90d2-acd13fab5092">
+        <archimateRelationship
+            xsi:type="archimate:AccessRelationship"
+            href="AccessRelationship_id-f53eb82be9fc4e878c4f2135b0bb94cf.xml#id-f53eb82be9fc4e878c4f2135b0bb94cf"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
           id="47defc2e-54f9-46d9-ac1e-8174bfce359c"
           lineWidth="2"
           lineColor="#428e9b"
@@ -781,15 +790,6 @@
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_47d6fdda-9f87-4037-bb9e-78f3ff18f1ef.xml#47d6fdda-9f87-4037-bb9e-78f3ff18f1ef"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="6974bdf4-5535-4802-a515-77090f224fec"
-          source="a3058917-8fe1-43ff-8b98-37fda0fd329e"
-          target="b0db1dc5-a8d0-4464-90d2-acd13fab5092">
-        <archimateRelationship
-            xsi:type="archimate:AccessRelationship"
-            href="AccessRelationship_id-f53eb82be9fc4e878c4f2135b0bb94cf.xml#id-f53eb82be9fc4e878c4f2135b0bb94cf"/>
       </sourceConnections>
       <bounds
           x="24"

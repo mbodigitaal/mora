@@ -515,7 +515,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="f721ab79-bb25-4c56-a39a-814f97d317e1"
-          targetConnections="c939281b-8bab-4801-be1d-932f006a4fc0 820816a4-f2f1-4892-a46d-df5c530b4449 3afe4363-bba9-4876-bb54-66153c981171"
+          targetConnections="c939281b-8bab-4801-be1d-932f006a4fc0 3afe4363-bba9-4876-bb54-66153c981171 820816a4-f2f1-4892-a46d-df5c530b4449"
           fontColor="#ffffff"
           fillColor="#428e9b">
         <sourceConnections
