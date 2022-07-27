@@ -645,7 +645,7 @@
         xsi:type="archimate:DiagramModelNote"
         id="7f8d3a74-64e6-4869-92dd-6fa920a91802"
         textAlignment="1"
-        content="Voorgestelde wijziging:&#xD;&#xA;- Proces &quot;Inzetten middelen&quot; vervalt&#xD;&#xA;- &quot;Matchen onderwijsvraag op beschikbare mensen&quot; wordt &quot;Matchen onderwijsvraag op beschikbare mensen en middelen&quot;.&#xD;&#xA;- Rechtstreekse trigger van &quot;Clusteren leertaken&quot; naar &quot;Maken jaarplanning&quot; vervalt&#xD;&#xA;&#xD;&#xA;">
+        content="Voorgestelde wijziging:&#xD;&#xA;- Proces &quot;Inzetten middelen&quot; vervalt&#xD;&#xA;- &quot;Matchen onderwijsvraag op beschikbare mensen&quot; wordt &quot;Matchen onderwijsvraag op beschikbare mensen en middelen&quot;.&#xD;&#xA;- Trigger van &quot;Bepalen benodigde middelen&quot; naar &quot;Matchen...&quot;&#xD;&#xA;- Rechtstreekse trigger van &quot;Clusteren leertaken&quot; naar &quot;Maken jaarplanning&quot; vervalt&#xD;&#xA;&#xD;&#xA;">
       <bounds
           x="299"
           y="312"
