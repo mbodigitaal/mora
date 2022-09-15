@@ -2987,9 +2987,9 @@
             href="RealizationRelationship_b101e32c-58c4-44d3-8180-5f6772233733.xml#b101e32c-58c4-44d3-8180-5f6772233733"/>
       </sourceConnections>
       <bounds
-          x="1920"
+          x="1908"
           y="228"
-          width="205"
+          width="217"
           height="80"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -3000,7 +3000,7 @@
           lineColor="#5c5c5c"
           fillColor="#b5ffff">
         <bounds
-            x="24"
+            x="36"
             y="24"
             width="168"
             height="49"/>
