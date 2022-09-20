@@ -2820,15 +2820,6 @@
             xsi:type="archimate:RealizationRelationship"
             href="RealizationRelationship_id-e6ec7fc152b94579a68810e26645fdbf.xml#id-e6ec7fc152b94579a68810e26645fdbf"/>
       </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-b5efa8fa9d564db88f3984c75f2b9f21"
-          source="id-fbefe6111a224087ab6845a8788cb03c"
-          target="id-cc0fa90edba04655b31bd2807717c8b5">
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_id-50cb9f1e661d4b6b8422025d67f22015.xml#id-50cb9f1e661d4b6b8422025d67f22015"/>
-      </sourceConnections>
       <bounds
           x="1488"
           y="31"
@@ -2871,7 +2862,6 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-cc0fa90edba04655b31bd2807717c8b5"
-          targetConnections="id-b5efa8fa9d564db88f3984c75f2b9f21"
           font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
           fontColor="#000000"
           lineColor="#5c5c5c"
