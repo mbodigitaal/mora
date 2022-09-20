@@ -141,12 +141,12 @@
       id="2ffb4c39-e04a-493a-9ddd-70a7f728f10e"
       targetConnections="6b2d928b-1fc0-4ded-a50c-05548c7687d6 dd383c78-bb18-4464-9e53-8db5eec58a4d"
       fontColor="#ffffff"
-      fillColor="#b72b7b">
+      fillColor="#ae4376">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="5a9be39b-1b98-482e-938e-1c0937c817b4"
         lineWidth="2"
-        lineColor="#b72b7b"
+        lineColor="#ae4376"
         source="2ffb4c39-e04a-493a-9ddd-70a7f728f10e"
         target="955d2fe6-757c-4b26-84cf-7073e648c2f6">
       <archimateRelationship
@@ -166,12 +166,12 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="9623beef-4ff2-4c39-a75f-0c816a6a813a"
       fontColor="#ffffff"
-      fillColor="#b72b7b">
+      fillColor="#ae4376">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="dd383c78-bb18-4464-9e53-8db5eec58a4d"
         lineWidth="2"
-        lineColor="#b72b7b"
+        lineColor="#ae4376"
         source="9623beef-4ff2-4c39-a75f-0c816a6a813a"
         target="2ffb4c39-e04a-493a-9ddd-70a7f728f10e">
       <archimateRelationship
@@ -192,12 +192,12 @@
       id="955d2fe6-757c-4b26-84cf-7073e648c2f6"
       targetConnections="5a9be39b-1b98-482e-938e-1c0937c817b4"
       fontColor="#ffffff"
-      fillColor="#b72b7b">
+      fillColor="#ae4376">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="39424ef9-d884-475f-8afb-5a76f4492944"
         lineWidth="2"
-        lineColor="#b72b7b"
+        lineColor="#ae4376"
         source="955d2fe6-757c-4b26-84cf-7073e648c2f6"
         target="a11ab882-31f2-4771-846b-d256767de5f0">
       <archimateRelationship
@@ -208,7 +208,7 @@
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="5d287d07-949d-41d4-afc5-e643c900af8e"
         lineWidth="2"
-        lineColor="#b72b7b"
+        lineColor="#ae4376"
         source="955d2fe6-757c-4b26-84cf-7073e648c2f6"
         target="fb69c9da-9478-4f63-a9ef-5af7db54308c">
       <archimateRelationship
@@ -229,12 +229,12 @@
       id="a11ab882-31f2-4771-846b-d256767de5f0"
       targetConnections="39424ef9-d884-475f-8afb-5a76f4492944"
       fontColor="#ffffff"
-      fillColor="#b72b7b">
+      fillColor="#ae4376">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="1ba1f3a4-d4d3-4c15-bc98-3e952f4a37a6"
         lineWidth="2"
-        lineColor="#b72b7b"
+        lineColor="#ae4376"
         source="a11ab882-31f2-4771-846b-d256767de5f0"
         target="bd9ae9f9-2ef9-43cc-a957-403b3c3d0ae7">
       <bendpoints
@@ -259,12 +259,12 @@
       id="fb69c9da-9478-4f63-a9ef-5af7db54308c"
       targetConnections="5d287d07-949d-41d4-afc5-e643c900af8e"
       fontColor="#ffffff"
-      fillColor="#b72b7b">
+      fillColor="#ae4376">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="6fad97a9-c4cd-40c1-9aa2-2b5a1a706d1f"
         lineWidth="2"
-        lineColor="#b72b7b"
+        lineColor="#ae4376"
         source="fb69c9da-9478-4f63-a9ef-5af7db54308c"
         target="9c068180-2492-474a-8e10-0a18c8a8b4a7">
       <archimateRelationship
@@ -275,7 +275,7 @@
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="cba43997-1525-463a-9fa7-21628b6b1039"
         lineWidth="2"
-        lineColor="#b72b7b"
+        lineColor="#ae4376"
         source="fb69c9da-9478-4f63-a9ef-5af7db54308c"
         target="f6adfebf-96c3-40a0-ad17-e20b1ce68812">
       <bendpoints
@@ -384,12 +384,12 @@
       id="f6adfebf-96c3-40a0-ad17-e20b1ce68812"
       targetConnections="cba43997-1525-463a-9fa7-21628b6b1039 e3be62e0-a964-47a6-a099-692b7e6da91a"
       fontColor="#ffffff"
-      fillColor="#b72b7b">
+      fillColor="#ae4376">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="cad84261-bbc9-4b45-aef2-26a0d71242f3"
         lineWidth="2"
-        lineColor="#b72b7b"
+        lineColor="#ae4376"
         source="f6adfebf-96c3-40a0-ad17-e20b1ce68812"
         target="24f51415-68d8-4578-b85a-5aa39e8099a6">
       <bendpoints
@@ -414,12 +414,12 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="3e7cb2f5-f4f5-420c-bb20-8b113ed2187d"
       fontColor="#ffffff"
-      fillColor="#b72b7b">
+      fillColor="#ae4376">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="e3be62e0-a964-47a6-a099-692b7e6da91a"
         lineWidth="2"
-        lineColor="#b72b7b"
+        lineColor="#ae4376"
         source="3e7cb2f5-f4f5-420c-bb20-8b113ed2187d"
         target="f6adfebf-96c3-40a0-ad17-e20b1ce68812">
       <archimateRelationship
@@ -440,12 +440,12 @@
       id="1a99a8f4-dc38-4bea-abe3-58bb32a99469"
       targetConnections="58243e25-7813-48d7-a914-92b653007654"
       fontColor="#ffffff"
-      fillColor="#b72b7b">
+      fillColor="#ae4376">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="af5befd5-ce09-43e7-b507-6bd29319604f"
         lineWidth="2"
-        lineColor="#b72b7b"
+        lineColor="#ae4376"
         source="1a99a8f4-dc38-4bea-abe3-58bb32a99469"
         target="99a93f95-24ca-47f0-9dce-60d39042c1d7">
       <bendpoints
@@ -486,7 +486,7 @@
       id="8cb7608a-3a84-40e6-8edf-8e26630d7831"
       targetConnections="0c2560ec-9879-410c-ac9d-31f4e552204d"
       fontColor="#ffffff"
-      fillColor="#b72b7b">
+      fillColor="#ae4376">
     <bounds
         x="1656"
         y="276"
@@ -527,12 +527,12 @@
       id="bd9ae9f9-2ef9-43cc-a957-403b3c3d0ae7"
       targetConnections="1ba1f3a4-d4d3-4c15-bc98-3e952f4a37a6"
       fontColor="#ffffff"
-      fillColor="#b72b7b">
+      fillColor="#ae4376">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="a4a191ad-c3e1-41d7-98af-9df3ff7b6b9c"
         lineWidth="2"
-        lineColor="#b72b7b"
+        lineColor="#ae4376"
         source="bd9ae9f9-2ef9-43cc-a957-403b3c3d0ae7"
         target="611fb706-4e07-46c1-9871-1c692c9370bd">
       <archimateRelationship

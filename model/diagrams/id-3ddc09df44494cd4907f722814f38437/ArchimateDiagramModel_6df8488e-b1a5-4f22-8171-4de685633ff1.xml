@@ -18,10 +18,19 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_e3fff638-2679-4178-8605-b1882c31f573.xml#e3fff638-2679-4178-8605-b1882c31f573"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="ba4b78e3-48fc-40ca-b975-34abae30b4c2"
+        source="56920bd1-d7b3-4383-bc51-a784e69885fd"
+        target="a546ac75-ae25-42b3-bec3-6992c1073444">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_409edfe5-729c-42f4-9edc-cb679010c1ce.xml#409edfe5-729c-42f4-9edc-cb679010c1ce"/>
+    </sourceConnections>
     <bounds
-        x="12"
+        x="-108"
         y="12"
-        width="181"
+        width="301"
         height="186"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -38,7 +47,7 @@
           target="1585f289-cbbd-4c51-a640-819cb3043e1c">
         <bendpoints
             startX="-12"
-            startY="141"
+            startY="177"
             endX="-144"
             endY="-3"/>
         <archimateRelationship
@@ -65,13 +74,43 @@
             href="TriggeringRelationship_229e372c-d77d-498b-a72f-b568b98dc1a8.xml#229e372c-d77d-498b-a72f-b568b98dc1a8"/>
       </sourceConnections>
       <bounds
-          x="36"
+          x="156"
           y="72"
           width="120"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_839615d6-962c-46fd-8bcc-29e405000f9f.xml#839615d6-962c-46fd-8bcc-29e405000f9f"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="a546ac75-ae25-42b3-bec3-6992c1073444"
+        targetConnections="ba4b78e3-48fc-40ca-b975-34abae30b4c2"
+        fontColor="#ffffff"
+        fillColor="#c73532">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="e122de9d-7f1e-45a6-a4a7-786c1ba7a7b1"
+          lineWidth="2"
+          lineColor="#c73532"
+          source="a546ac75-ae25-42b3-bec3-6992c1073444"
+          target="1585f289-cbbd-4c51-a640-819cb3043e1c">
+        <bendpoints
+            startY="189"
+            endX="-276"
+            endY="9"/>
+        <archimateRelationship
+            xsi:type="archimate:TriggeringRelationship"
+            href="TriggeringRelationship_3992c110-f81d-401c-af7b-00c81dcf8ed2.xml#3992c110-f81d-401c-af7b-00c81dcf8ed2"/>
+      </sourceConnections>
+      <bounds
+          x="12"
+          y="72"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_1da87834-4d19-49b6-b679-865bb28da770.xml#1da87834-4d19-49b6-b679-865bb28da770"/>
     </children>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -333,14 +372,14 @@
           href="CompositionRelationship_e6915d31-e23d-47c5-b625-8cdb127acfef.xml#e6915d31-e23d-47c5-b625-8cdb127acfef"/>
     </sourceConnections>
     <bounds
-        x="12"
+        x="-108"
         y="216"
-        width="769"
+        width="889"
         height="133"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="1585f289-cbbd-4c51-a640-819cb3043e1c"
-        targetConnections="4cc7a3a5-f35a-4fe7-97ff-93dc0cb82d95 abec37f2-9a4c-4219-9c6f-46baf8cf407a 0d4e46db-ab64-4674-82c6-fc5c6dd2b1cc 4766ddd1-6019-4110-9cc4-d0095b0a9ba0"
+        targetConnections="4cc7a3a5-f35a-4fe7-97ff-93dc0cb82d95 abec37f2-9a4c-4219-9c6f-46baf8cf407a 0d4e46db-ab64-4674-82c6-fc5c6dd2b1cc 4766ddd1-6019-4110-9cc4-d0095b0a9ba0 e122de9d-7f1e-45a6-a4a7-786c1ba7a7b1"
         fontColor="#ffffff"
         fillColor="#428e9b">
       <sourceConnections
@@ -355,7 +394,7 @@
             href="TriggeringRelationship_8ad63c7c-2a62-408e-83bb-e6e2ec3ed34b.xml#8ad63c7c-2a62-408e-83bb-e6e2ec3ed34b"/>
       </sourceConnections>
       <bounds
-          x="168"
+          x="288"
           y="48"
           width="120"
           height="55"/>
@@ -381,7 +420,7 @@
             href="TriggeringRelationship_11fba3da-6581-4b96-9b0a-1e20c571c152.xml#11fba3da-6581-4b96-9b0a-1e20c571c152"/>
       </sourceConnections>
       <bounds
-          x="312"
+          x="432"
           y="48"
           width="120"
           height="55"/>
@@ -407,7 +446,7 @@
             href="TriggeringRelationship_4be4a851-b28d-480e-a083-c44dfa96eaf1.xml#4be4a851-b28d-480e-a083-c44dfa96eaf1"/>
       </sourceConnections>
       <bounds
-          x="456"
+          x="576"
           y="48"
           width="120"
           height="55"/>
@@ -442,7 +481,7 @@
             href="TriggeringRelationship_dd6d4a2f-6e19-48ae-9df9-7c267c27d419.xml#dd6d4a2f-6e19-48ae-9df9-7c267c27d419"/>
       </sourceConnections>
       <bounds
-          x="600"
+          x="720"
           y="48"
           width="157"
           height="55"/>
@@ -506,9 +545,9 @@
           href="CompositionRelationship_4f03db04-d8bf-41dd-93e0-e3f1fe10b069.xml#4f03db04-d8bf-41dd-93e0-e3f1fe10b069"/>
     </sourceConnections>
     <bounds
-        x="12"
+        x="-108"
         y="366"
-        width="1214"
+        width="1334"
         height="247"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -532,7 +571,7 @@
             href="TriggeringRelationship_e9b290a1-bf98-4bba-8e21-4fdfa4a3afc2.xml#e9b290a1-bf98-4bba-8e21-4fdfa4a3afc2"/>
       </sourceConnections>
       <bounds
-          x="120"
+          x="240"
           y="162"
           width="120"
           height="55"/>
@@ -571,7 +610,7 @@
             href="TriggeringRelationship_01393dbf-0128-4f0a-9f47-59d448ad7bd9.xml#01393dbf-0128-4f0a-9f47-59d448ad7bd9"/>
       </sourceConnections>
       <bounds
-          x="120"
+          x="240"
           y="36"
           width="120"
           height="55"/>
@@ -597,7 +636,7 @@
             href="TriggeringRelationship_4b7f3937-9a7a-4c6a-942d-2351affdecb0.xml#4b7f3937-9a7a-4c6a-942d-2351affdecb0"/>
       </sourceConnections>
       <bounds
-          x="264"
+          x="384"
           y="108"
           width="120"
           height="55"/>
@@ -643,7 +682,7 @@
             href="TriggeringRelationship_31617539-6ddb-4682-85ca-902296cdcc0c.xml#31617539-6ddb-4682-85ca-902296cdcc0c"/>
       </sourceConnections>
       <bounds
-          x="408"
+          x="528"
           y="108"
           width="120"
           height="55"/>
@@ -695,7 +734,7 @@
             href="CompositionRelationship_ccab619c-ca94-48a2-8fa1-a667035f660c.xml#ccab619c-ca94-48a2-8fa1-a667035f660c"/>
       </sourceConnections>
       <bounds
-          x="588"
+          x="708"
           y="51"
           width="529"
           height="178"/>
