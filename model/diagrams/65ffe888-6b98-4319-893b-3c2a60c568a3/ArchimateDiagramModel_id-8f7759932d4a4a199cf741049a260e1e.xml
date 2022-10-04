@@ -542,15 +542,4 @@
         width="145"
         height="85"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-dbb2c3d1cc044fc2a3c6546f3535c8b5"
-      textAlignment="1"
-      content="Belangrijkste Bron: &#xD;&#xA;https://www.sambo-ict.nl/wp-content/uploads/2019/01/PvE-2.1-Centraal-Aanmelden-MBO.pdf&#xD;&#xA;&#xD;&#xA;Zie tekening blz 11 en vooral ook blz 14&#xD;&#xA;&#xD;&#xA;Andere bronnen:&#xD;&#xA;&#xD;&#xA;https://mbovoorzieningen.nl/faq/">
-    <bounds
-        x="876"
-        y="30"
-        width="289"
-        height="211"/>
-  </children>
 </archimate:ArchimateDiagramModel>
