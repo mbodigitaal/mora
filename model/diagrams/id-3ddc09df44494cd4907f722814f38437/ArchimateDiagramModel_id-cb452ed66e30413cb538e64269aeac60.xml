@@ -2275,12 +2275,12 @@
           startX="3"
           startY="165"
           endX="-347"
-          endY="-92"/>
+          endY="-104"/>
       <bendpoints
           startX="351"
           startY="165"
           endX="1"
-          endY="-92"/>
+          endY="-104"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_29ea4352-6d7b-40fb-a992-ab364bd30dc9.xml#29ea4352-6d7b-40fb-a992-ab364bd30dc9"/>
