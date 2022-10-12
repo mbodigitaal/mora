@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="behoort bij"
+    id="0bd5c018-6fd7-48de-91fc-c1c228f60ce2">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_9460b502-8a17-4beb-9a57-334206bbda0f.xml#9460b502-8a17-4beb-9a57-334206bbda0f"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_c0bb0522-d351-4ac4-8faf-aef0ce72cb65.xml#c0bb0522-d351-4ac4-8faf-aef0ce72cb65"/>
+</archimate:AggregationRelationship>

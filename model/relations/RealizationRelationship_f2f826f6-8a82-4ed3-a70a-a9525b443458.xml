@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="levert"
+    id="f2f826f6-8a82-4ed3-a70a-a9525b443458">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_72cc4395-8579-429b-b6c9-3276d9d25d71.xml#72cc4395-8579-429b-b6c9-3276d9d25d71"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_de21697a-ddda-46cd-b4da-45167a715073.xml#de21697a-ddda-46cd-b4da-45167a715073"/>
+</archimate:RealizationRelationship>
