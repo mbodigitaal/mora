@@ -1,7 +1,7 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="levert"
+    name="realiseert"
     id="f2f826f6-8a82-4ed3-a70a-a9525b443458">
   <source
       xsi:type="archimate:ApplicationComponent"

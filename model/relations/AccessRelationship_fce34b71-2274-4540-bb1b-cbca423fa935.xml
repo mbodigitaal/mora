@@ -1,8 +1,9 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="gebruikt"
-    id="fce34b71-2274-4540-bb1b-cbca423fa935">
+    name="beheert / benadert"
+    id="fce34b71-2274-4540-bb1b-cbca423fa935"
+    accessType="3">
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_72cc4395-8579-429b-b6c9-3276d9d25d71.xml#72cc4395-8579-429b-b6c9-3276d9d25d71"/>

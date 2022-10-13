@@ -1,7 +1,7 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="creëert"
+    name="beheert"
     id="6bc56df2-4e2a-49c6-8a95-513fbbbb00f0">
   <source
       xsi:type="archimate:BusinessProcess"

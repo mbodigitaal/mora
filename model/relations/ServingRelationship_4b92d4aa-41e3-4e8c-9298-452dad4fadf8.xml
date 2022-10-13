@@ -1,7 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ondersteunt"
+    name="bedient"
     id="4b92d4aa-41e3-4e8c-9298-452dad4fadf8">
   <source
       xsi:type="archimate:ApplicationService"

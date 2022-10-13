@@ -1,12 +1,12 @@
-<archimate:AggregationRelationship
+<archimate:CompositionRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="bestaat uit"
-    id="3351f87d-db6c-4027-ab7d-41b3f8c0c52e">
+    id="b7fa6f37-2da4-45b1-b6ad-cdbd67730554">
   <source
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_c0bb0522-d351-4ac4-8faf-aef0ce72cb65.xml#c0bb0522-d351-4ac4-8faf-aef0ce72cb65"/>
   <target
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_59e69c73-9cee-4454-8130-b4ca203d9069.xml#59e69c73-9cee-4454-8130-b4ca203d9069"/>
-</archimate:AggregationRelationship>
+</archimate:CompositionRelationship>
