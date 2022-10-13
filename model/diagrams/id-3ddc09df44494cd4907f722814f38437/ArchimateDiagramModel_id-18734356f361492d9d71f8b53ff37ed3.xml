@@ -798,6 +798,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-254eff0eda90478fa3d9374ff8fbda39"
         targetConnections="id-1c2954a0142c4274b70088d5f83168ec"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ffffff"
         fillColor="#917566">
       <sourceConnections
@@ -894,6 +895,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-8c491c354d5a4f4c8b01ef2829efe31f"
         targetConnections="id-fd3601cc022643a89e0f18f8f96fbbda"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ffffff"
         fillColor="#428e9b">
       <sourceConnections
@@ -971,6 +973,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-18e19650fcf945e1b17c5b1401c2c9f0"
         targetConnections="id-6df7e51710344a0a934b03afbdd7c151 id-d6aca69c919145d1b4a392525afa424c id-68ddd359c6ff4a36b37fb3b0882c0c33 id-bb75479a8390471d892dcac3264a6c37"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ffffff"
         fillColor="#4c7f45">
       <sourceConnections
@@ -1007,6 +1010,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-0540d7e625ca4217be8c314e10d6dc5c"
         targetConnections="id-cd4303dea8ec495b93694deea0033c4e id-42595014cca6422cbd02f1ff71e9384e"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ffffff"
         fillColor="#4c7f45">
       <sourceConnections
@@ -1026,9 +1030,9 @@
             href="TriggeringRelationship_495baa74-281a-4cb9-b034-b7bf1e997368.xml#495baa74-281a-4cb9-b034-b7bf1e997368"/>
       </sourceConnections>
       <bounds
-          x="228"
+          x="216"
           y="36"
-          width="120"
+          width="145"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
@@ -1038,6 +1042,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-9cee73b29edc4611a5d171e5b81e8bb4"
         targetConnections="id-e8bb15f41df44969a205e92b6882ae7b id-fb38740b7e3340b189bb8f68f40afc3d"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ffffff"
         fillColor="#4c7f45">
       <sourceConnections
@@ -1131,6 +1136,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-5eb274da9fef42449880c1d0867739eb"
         targetConnections="id-9c7516ef7f414ae5a4811521abd44b90"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ffffff"
         fillColor="#428e9b">
       <sourceConnections
