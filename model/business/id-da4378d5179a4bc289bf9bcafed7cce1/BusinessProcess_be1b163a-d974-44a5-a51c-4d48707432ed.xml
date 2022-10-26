@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Registreren vrijstellingen"
     id="be1b163a-d974-44a5-a51c-4d48707432ed"
-    documentation="Tijdens de intake kunnen er vrijstellingen voor examinering of het volgen van vakken worden aangegeven en aangevraagd. Dit is gebaseerd op behaalde resultaten tijdens de vooropleidng. Een student hoeft dan daarin geen examen te doen of het vak niet te volgen. Nadat vrijstellingen zijn toegekend aan de student worden deze geregistreerd.&#xD;&#xA;&#xD;&#xA;BESCHRIJVING VAN HET PROCES:&#xD;&#xA;1. Ontvangen van een vastgestelde en toegewezen vrijstellingen.&#xD;&#xA;2. Registreren van de vrijstellingen in het studentinformatiesysteem. ">
+    documentation="Op basis van eerder behaalde onderdelen van de opleiding of eerder opgedane werkervaring kan de student vrijstellingen aanvragen bij de examencommissie. Vaak worden eventuele vrijstellingen besproken tijdens de intake. De vrijstellingen kunnen door de examencommissie verleend worden op beroepsgerichte en generieke examenonderdelen. De verleende vrijstellingen worden opgenomen in het examendossier van de student. Een student hoeft dan geen examen te doen.&#xD;&#xA;&#xD;&#xA;In het geval van vrijstelling op basis van eerder opgedane werkervaring spreken we van Erkennen van Verworven Competenties (EVC).&#xD;&#xA;&#xD;&#xA;Naast vrijstelling voor examens kan de student vrijstellingen aanvragen voor onderwijs. Deze vrijstelling wordt niet door de examencommissie, maar door het onderwijsteam verleend.">
   <properties
       key="Input"
       value="Toegewezen vrijstellingen"/>

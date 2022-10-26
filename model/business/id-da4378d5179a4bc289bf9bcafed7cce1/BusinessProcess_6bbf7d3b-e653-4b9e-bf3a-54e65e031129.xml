@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bepalen start/stop opleiding"
     id="6bbf7d3b-e653-4b9e-bf3a-54e65e031129"
-    documentation="Bepalen van de start of stop-datum waarop een opleiding formeel in het aanbod van de instelling is opgenomen.">
+    documentation="Bepalen van de start of stop-datum waarop een opleiding formeel in het aanbod van de instelling is opgenomen. Instellingen voor middelbaar beroepsonderwijs moeten sinds 2016 het voornemen tot het starten of beëindigen van beroepsopleidingen melden.">
   <properties
       key="MORA-type"
       value="Proces"/>
