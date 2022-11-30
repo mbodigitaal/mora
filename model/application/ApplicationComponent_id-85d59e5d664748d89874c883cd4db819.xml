@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="RIO"
-    id="id-85d59e5d664748d89874c883cd4db819"/>
+    name="Register Instellingen en Opleidingen (RIO)"
+    id="id-85d59e5d664748d89874c883cd4db819"
+    documentation="Register waarin de basisgegevens van zowel de onderwijsinrichting van onderwijsinstellingen is vastgelegd (organisatiestructuur, onderewijslocaties, onderwijsaanbod) als van de onderwijserkenning (erkenningen, licenties). Beide sets van basisgegevens zijn aan elkaar gerelateerd."/>

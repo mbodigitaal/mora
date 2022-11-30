@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bron"
-    id="id-435be02a066441ea9d6335d78fb2b6c3"/>
+    name="Register Onderwijsdeelnemers (ROD)"
+    id="id-435be02a066441ea9d6335d78fb2b6c3"
+    documentation="Register waarin basisgegevens, vrijstellingsgegevens,verzuimgegevens, diplomagegevens en persoonsgebonden nummers van onderwijsdeelnemers zijn opgenomen. De basisgegevens omvatten, naast de identificerende gegevens, gegevens met betrekking tot: a. de onderwijsinstelling waar de onderwijsdeelnemer is of was ingeschreven; b. de datum van in- en uitschrijving bij de desbetreffende onderwijsinstelling. &#xD;&#xA;&#xD;&#xA;Sinds 2021 valt een aantal registers bij DUO (waaronder BRON) onder 1 register, het Register Onderwijsdeelnemers (ROD)."/>
