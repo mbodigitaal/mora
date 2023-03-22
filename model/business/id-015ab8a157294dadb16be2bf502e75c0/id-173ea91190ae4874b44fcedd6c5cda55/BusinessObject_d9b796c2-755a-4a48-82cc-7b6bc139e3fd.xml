@@ -5,11 +5,11 @@
     documentation="Andere eenheid afgerond met een waardedocument binnen de kwalificatie&#xD;&#xA;">
   <properties
       key="Beschikbaarheid"
-      value="Middel"/>
+      value="Laag"/>
   <properties
       key="Integriteit"
       value="Hoog"/>
   <properties
       key="Vertrouwelijkheid"
-      value="Openbaar"/>
+      value="Laag"/>
 </archimate:BusinessObject>

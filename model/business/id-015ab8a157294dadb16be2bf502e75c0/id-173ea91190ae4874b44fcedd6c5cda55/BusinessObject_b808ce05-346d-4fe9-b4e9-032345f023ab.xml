@@ -5,11 +5,11 @@
     documentation="Het (opleidings)domein is de eerste laag van de kwalificatiestructuur.&#xD;&#xA;&#xD;&#xA;Relatie/overlap met andere bronnen: &#xD;&#xA;Bron: Triple A&#xD;&#xA;Naam: Domein&#xD;&#xA;Definitie: Het (opleidings)domein is de eerste laag van de kwalificatiestructuur.&#xD;&#xA;">
   <properties
       key="Beschikbaarheid"
-      value="Middel"/>
+      value="Laag"/>
   <properties
       key="Integriteit"
       value="Hoog"/>
   <properties
       key="Vertrouwelijkheid"
-      value="Openbaar"/>
+      value="Laag"/>
 </archimate:BusinessObject>

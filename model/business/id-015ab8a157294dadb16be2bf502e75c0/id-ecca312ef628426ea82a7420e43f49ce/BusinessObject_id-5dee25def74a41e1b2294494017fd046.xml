@@ -5,11 +5,11 @@
     documentation="Structuur waarin summatieve resultaten gestructureerd kunnen worden vastgelegd zodat op basis daarvan de voortgang gevolgd kan worden m.b.t. diplomering. In de summatieve resultaatstructuur worden examenonderdelen en examens vastgelegd. ">
   <properties
       key="Beschikbaarheid"
-      value="Middel"/>
+      value="Laag"/>
   <properties
       key="Integriteit"
       value="Hoog"/>
   <properties
       key="Vertrouwelijkheid"
-      value="Openbaar"/>
+      value="Laag"/>
 </archimate:BusinessObject>

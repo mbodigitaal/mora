@@ -5,11 +5,11 @@
     documentation="Een combinatie van eindtermen voor een bepaalde beroepsopleiding. &#xD;&#xA;&#xD;&#xA;Relatie/overlap met andere bronnen: &#xD;&#xA;Bron: MBO raad&#xD;&#xA;Naam: Deelkwalificatie&#xD;&#xA;Definitie: Een combinatie van eindtermen voor een bepaalde beroepsopleiding. &#xD;&#xA;Link: https://www.mboraad.nl/begrippenlijst#letter_d">
   <properties
       key="Beschikbaarheid"
-      value="Middel"/>
+      value="Laag"/>
   <properties
       key="Integriteit"
       value="Hoog"/>
   <properties
       key="Vertrouwelijkheid"
-      value="Openbaar"/>
+      value="Laag"/>
 </archimate:BusinessObject>

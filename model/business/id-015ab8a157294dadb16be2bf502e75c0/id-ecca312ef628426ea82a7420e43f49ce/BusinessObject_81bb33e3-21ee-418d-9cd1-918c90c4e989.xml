@@ -5,10 +5,10 @@
     documentation="De kleinste eenheid in de kwalificatiestructuur (het geheel van kwalificatiedossier/kwalificatie/kerntaak/werkproces/leertaak). De leertaak is de onderwijsactiviteit waarin de student kennis en/of vaardigheden verwerft. &#xD;&#xA;&#xD;&#xA;Leertaken zijn onder te verdelen in: &#xD;&#xA;- theoretische leertaken&#xD;&#xA;- praktische leertaken&#xD;&#xA;- zelfstudie leertaken&#xD;&#xA;- BPV-leertaken&#xD;&#xA;">
   <properties
       key="Beschikbaarheid"
-      value="Middel"/>
+      value="Laag"/>
   <properties
       key="Integriteit"
-      value="Hoog"/>
+      value="Middel"/>
   <properties
       key="Vertrouwelijkheid"
       value="Laag"/>

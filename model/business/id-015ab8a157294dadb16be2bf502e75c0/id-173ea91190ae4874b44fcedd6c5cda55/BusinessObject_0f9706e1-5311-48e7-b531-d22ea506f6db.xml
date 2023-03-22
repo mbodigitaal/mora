@@ -5,11 +5,11 @@
     documentation="Eenheid afgerond met een waardedocument binnen de kwalificatie anders dan diploma of certificaat. &#xD;&#xA;&#xD;&#xA;Relatie/overlap met andere bronnen: &#xD;&#xA;Bron: SURF&#xD;&#xA;Naam: Edubadges&#xD;&#xA;Definitie: Digitale certificaten uitreiken aan studenten voor opgedane kennis en vaardigheden in het regulier geaccrediteerd onderwijs of in een niet-formeel onderwijstraject? Dat kan met edubadges, het platform voor digitale certificaten voor het Nederlandse onderwijs.&#xD;&#xA;Link: https://www.surf.nl/edubadges-digitale-certificaten-uitreiken-aan-studenten/over-de-dienst-edubadges?dst=n5050&#xD;&#xA;">
   <properties
       key="Beschikbaarheid"
-      value="Middel"/>
+      value="Laag"/>
   <properties
       key="Integriteit"
       value="Hoog"/>
   <properties
       key="Vertrouwelijkheid"
-      value="Openbaar"/>
+      value="Laag"/>
 </archimate:BusinessObject>

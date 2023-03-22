@@ -5,10 +5,10 @@
     documentation="Een onderscheidbaar geheel van kennis, inzicht en vaardigheden, dat onderdeel kan zijn van één of meer opleidingen.&#xD;&#xA;&#xD;&#xA;Relatie/overlap met andere bronnen: &#xD;&#xA;Bron: DUO&#xD;&#xA;Naam: Opleidingsonderdeel&#xD;&#xA;Definitie: Een onderscheidbaar geheel van kennis, inzicht en vaardigheden, dat onderdeel kan zijn van één of meer opleidingen.&#xD;&#xA;Link: https://www.begrippenxl.nl/duo/nl/page/?uri=http%3A%2F%2Flod.duo.nl%2Fterm%2FOpleidingsonderdeel">
   <properties
       key="Beschikbaarheid"
-      value="Middel"/>
+      value="Laag"/>
   <properties
       key="Integriteit"
-      value="Hoog"/>
+      value="Middel"/>
   <properties
       key="Vertrouwelijkheid"
       value="Laag"/>

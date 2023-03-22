@@ -5,7 +5,7 @@
     documentation="Een opleiding die leidt tot een certificaat">
   <properties
       key="Beschikbaarheid"
-      value="Middel"/>
+      value="Laag"/>
   <properties
       key="Integriteit"
       value="Hoog"/>

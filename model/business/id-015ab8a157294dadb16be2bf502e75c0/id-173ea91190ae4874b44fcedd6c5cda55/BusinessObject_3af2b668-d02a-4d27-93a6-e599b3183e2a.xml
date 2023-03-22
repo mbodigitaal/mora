@@ -5,10 +5,10 @@
     documentation="De leertaak is de onderwijsactiviteit waarin de student kennis en/of vaardigheden verwerft. Bij een BPV-leertaak gaat het om het verwerven van kennis en/of vaardigheden als onderdeel van de beroepspraktijkvorming.">
   <properties
       key="Beschikbaarheid"
-      value="Middel"/>
+      value="Laag"/>
   <properties
       key="Integriteit"
-      value="Hoog"/>
+      value="Middel"/>
   <properties
       key="Vertrouwelijkheid"
       value="Laag"/>

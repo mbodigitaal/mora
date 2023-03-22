@@ -5,11 +5,11 @@
     documentation="De uitschrijving bestaande uit onder andere de exitformulieren&#xD;&#xA;Een exitformulier is een document waarop de reden en eventueel omstandigheden van het vertrek van een deelnemer wordt vastgelegd.&#xD;&#xA;">
   <properties
       key="Beschikbaarheid"
-      value="Laag"/>
-  <properties
-      key="Integriteit"
       value="Middel"/>
   <properties
+      key="Integriteit"
+      value="Hoog"/>
+  <properties
       key="Vertrouwelijkheid"
-      value="Laag"/>
+      value="Middel"/>
 </archimate:BusinessObject>

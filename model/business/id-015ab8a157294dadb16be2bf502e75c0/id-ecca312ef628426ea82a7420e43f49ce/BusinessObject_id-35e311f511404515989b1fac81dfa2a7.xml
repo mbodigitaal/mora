@@ -5,10 +5,10 @@
     documentation="Geregistreerde aan- of afwezigheid van een student op een gepland tijdstip in een gespecificeerde omgeving.&#xD;&#xA;">
   <properties
       key="Beschikbaarheid"
-      value="Hoog"/>
+      value="Laag"/>
   <properties
       key="Integriteit"
-      value="Middel"/>
+      value="Hoog"/>
   <properties
       key="Vertrouwelijkheid"
       value="Middel"/>

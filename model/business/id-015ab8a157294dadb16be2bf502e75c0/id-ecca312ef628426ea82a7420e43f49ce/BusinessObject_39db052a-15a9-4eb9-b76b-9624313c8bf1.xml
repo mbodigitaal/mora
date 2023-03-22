@@ -5,11 +5,11 @@
     documentation="Het materiaal waarin de onderwijsaanbieder naar buiten (bijvoorbeeld naar potentiele studenten) communiceert over het opleidingenaanbod. Onder het informatiemateriaal vallen bijvoorbeeld brochures en de website. &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
   <properties
       key="Beschikbaarheid"
-      value="Middel"/>
+      value="Laag"/>
   <properties
       key="Integriteit"
-      value="Hoog"/>
+      value="Middel"/>
   <properties
       key="Vertrouwelijkheid"
-      value="Openbaar"/>
+      value="Laag"/>
 </archimate:BusinessObject>

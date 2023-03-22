@@ -5,11 +5,11 @@
     documentation="Een overeenkomst tussen student,  bpv-bedrijf en de instelling over te volgen beroepspraktijkvorming. &#xD;&#xA;&#xD;&#xA;Relatie/overlap met andere bronnen: &#xD;&#xA;Bron: Triple A&#xD;&#xA;Naam: BPV-overeenkomst&#xD;&#xA;Definitie: Overeenkomst in het kader van een stage/BPV tussen deelnemer, instelling en leerbedrijf, waarin de respectievelijke rechten en plichten zijn opgenomen. BPV-overeenkomst wordt ook wel afgekort tot BPVO. Voorheen noemde men dit in het MBO een Praktijkovereenkomst, afgekort POK.&#xD;&#xA;">
   <properties
       key="Beschikbaarheid"
-      value="Laag"/>
+      value="Middel"/>
   <properties
       key="Integriteit"
       value="Hoog"/>
   <properties
       key="Vertrouwelijkheid"
-      value="Laag"/>
+      value="Middel"/>
 </archimate:BusinessObject>

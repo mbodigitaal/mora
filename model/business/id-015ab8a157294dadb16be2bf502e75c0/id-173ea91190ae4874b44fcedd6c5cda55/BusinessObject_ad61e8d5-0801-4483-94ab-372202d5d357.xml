@@ -5,7 +5,7 @@
     documentation="Een opleiding voor een specifieke branche die niet valt binnen de bestaande kwalificatiestructuur.">
   <properties
       key="Beschikbaarheid"
-      value="Middel"/>
+      value="Laag"/>
   <properties
       key="Integriteit"
       value="Hoog"/>
