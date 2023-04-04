@@ -5,10 +5,10 @@
     documentation="Het bedrijf waar een student beroepspraktijkvorming volgt of kan volgen.&#xD;&#xA;">
   <properties
       key="Beschikbaarheid"
-      value="Middel"/>
+      value="Midden"/>
   <properties
       key="Integriteit"
-      value="Middel"/>
+      value="Midden"/>
   <properties
       key="Vertrouwelijkheid"
       value="Laag"/>

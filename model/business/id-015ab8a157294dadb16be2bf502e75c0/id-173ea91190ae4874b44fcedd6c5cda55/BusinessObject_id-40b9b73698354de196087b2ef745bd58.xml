@@ -5,11 +5,11 @@
     documentation="De leertaak wordt op een bepaalde locatie uitgevoerd, vaak samenhangend met de aard van de leertaak. Bij leslocatie kan gedacht worden aan een specifiek lokaal op een onderwijslocatie, maar ook aan een online omgeving of op het BPV-bedrijf. &#xD;&#xA;">
   <properties
       key="Beschikbaarheid"
-      value="Middel"/>
+      value="Midden"/>
   <properties
       key="Integriteit"
-      value="Middel"/>
+      value="Midden"/>
   <properties
       key="Vertrouwelijkheid"
-      value="Middel"/>
+      value="Midden"/>
 </archimate:BusinessObject>

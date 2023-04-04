@@ -5,10 +5,10 @@
     documentation="Een voorziening ten behoeve van een bepaald (onderwijs)doel. Faciliteiten worden beheerd door de Onderwijsaanbieder (bijvoorbeeld door de Facilitaire Dienst). &#xD;&#xA;&#xD;&#xA;Relatie/overlap met andere bronnen: &#xD;&#xA;Bron: Triple A&#xD;&#xA;Naam: Faciliteiten&#xD;&#xA;Definitie: Een voorziening ten behoeve van een bepaald doel">
   <properties
       key="Beschikbaarheid"
-      value="Middel"/>
+      value="Midden"/>
   <properties
       key="Integriteit"
-      value="Middel"/>
+      value="Midden"/>
   <properties
       key="Vertrouwelijkheid"
       value="Laag"/>

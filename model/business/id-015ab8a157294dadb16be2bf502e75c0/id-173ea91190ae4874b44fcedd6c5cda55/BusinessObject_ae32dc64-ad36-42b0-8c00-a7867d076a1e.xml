@@ -12,4 +12,7 @@
   <properties
       key="Vertrouwelijkheid"
       value="Laag"/>
+  <properties
+      key="MORA-type"
+      value="Hoofdproces"/>
 </archimate:BusinessObject>
