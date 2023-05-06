@@ -542,15 +542,6 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_b47a6d9e-3705-49e3-9974-cda9f8dd5607.xml#b47a6d9e-3705-49e3-9974-cda9f8dd5607"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="285c1920-4b6f-43d7-8a23-0f477e73ef4d"
-        source="0fde538c-cd09-4eb1-823f-f817ea04559c"
-        target="343f33de-be36-4c8d-af14-2ce7a58e092f">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_0f68d6a8-b71d-45cf-919b-427f0afcd390.xml#0f68d6a8-b71d-45cf-919b-427f0afcd390"/>
-    </sourceConnections>
     <bounds
         x="768"
         y="12"
@@ -559,19 +550,24 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="5e3dec1c-d784-4100-9f1a-f5290665b117"
-        targetConnections="33c1fd5d-4355-49d0-93d8-83a3d14e690f 4f7fe54d-4ccf-472a-b720-b055e9943d81 c1843a12-b0f9-4041-8d68-16449f30a764 7a5d00d2-f477-42ea-96b9-fa64f393677e"
+        targetConnections="33c1fd5d-4355-49d0-93d8-83a3d14e690f 4f7fe54d-4ccf-472a-b720-b055e9943d81 7a5d00d2-f477-42ea-96b9-fa64f393677e c1843a12-b0f9-4041-8d68-16449f30a764"
         fontColor="#ffffff"
         fillColor="#76245b">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="b91aecbb-5dbf-4480-802e-5dc38c704915"
+          id="37d7618c-4fef-4f07-949c-e1240783851f"
           lineWidth="2"
           lineColor="#76245b"
           source="5e3dec1c-d784-4100-9f1a-f5290665b117"
-          target="343f33de-be36-4c8d-af14-2ce7a58e092f">
+          target="9753ef22-a4a1-4bbb-95b7-a552b4b22b3d">
+        <bendpoints
+            startX="-12"
+            startY="261"
+            endX="-336"
+            endY="-3"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
-            href="TriggeringRelationship_4f2ad304-dd98-44d2-ac5f-acc2d5300895.xml#4f2ad304-dd98-44d2-ac5f-acc2d5300895"/>
+            href="TriggeringRelationship_92f6ba4a-ab10-465d-a0d9-b3a767784a38.xml#92f6ba4a-ab10-465d-a0d9-b3a767784a38"/>
       </sourceConnections>
       <bounds
           x="24"
@@ -581,36 +577,6 @@
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_7d3d5c9d-7193-4f31-ab65-89ab95a7a935.xml#7d3d5c9d-7193-4f31-ab65-89ab95a7a935"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="343f33de-be36-4c8d-af14-2ce7a58e092f"
-        targetConnections="285c1920-4b6f-43d7-8a23-0f477e73ef4d b91aecbb-5dbf-4480-802e-5dc38c704915"
-        fontColor="#ffffff"
-        fillColor="#76245b">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="37d7618c-4fef-4f07-949c-e1240783851f"
-          lineWidth="2"
-          lineColor="#76245b"
-          source="343f33de-be36-4c8d-af14-2ce7a58e092f"
-          target="9753ef22-a4a1-4bbb-95b7-a552b4b22b3d">
-        <bendpoints
-            startY="165"
-            endX="-336"
-            endY="-3"/>
-        <archimateRelationship
-            xsi:type="archimate:TriggeringRelationship"
-            href="TriggeringRelationship_92f6ba4a-ab10-465d-a0d9-b3a767784a38.xml#92f6ba4a-ab10-465d-a0d9-b3a767784a38"/>
-      </sourceConnections>
-      <bounds
-          x="24"
-          y="168"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:BusinessProcess"
-          href="BusinessProcess_dc470ba4-332c-40a4-88df-51e937b39cb8.xml#dc470ba4-332c-40a4-88df-51e937b39cb8"/>
     </children>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -639,7 +605,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="9753ef22-a4a1-4bbb-95b7-a552b4b22b3d"
-        targetConnections="a733e4a3-54c7-4b6e-a9d3-9b2c3da033b8 37d7618c-4fef-4f07-949c-e1240783851f 11f8e504-3e6b-449b-9bc8-9a11a0097997 ceaea300-8785-4400-ad52-d62e6108828e 09dd126f-bc6c-4bef-a88c-4500ac70f2e4 860cb410-9e98-4a89-b6ad-edff3caa4cf7"
+        targetConnections="a733e4a3-54c7-4b6e-a9d3-9b2c3da033b8 11f8e504-3e6b-449b-9bc8-9a11a0097997 ceaea300-8785-4400-ad52-d62e6108828e 09dd126f-bc6c-4bef-a88c-4500ac70f2e4 860cb410-9e98-4a89-b6ad-edff3caa4cf7 37d7618c-4fef-4f07-949c-e1240783851f"
         fontColor="#ffffff"
         fillColor="#4f97cf">
       <bounds

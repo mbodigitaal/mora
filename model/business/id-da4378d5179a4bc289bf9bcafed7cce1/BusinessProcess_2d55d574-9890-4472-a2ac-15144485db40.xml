@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aanmelden"
     id="2d55d574-9890-4472-a2ac-15144485db40"
-    documentation="De student meldt zich voor één opleiding aan bij de MBO-school. In deze keten heeft de actie 'aanmelden' betrekking op één opleiding, studenten kunnen zich voor meer dan één opleiding aanmelden bij één of meerdere MBO-scholen. Na de aanmelding door de student via de website wordt de aanmelding bevestigd. Vervolgens start de informatie en communicatie namens de instelling of opleiding richting de student. &#xD;&#xA;&#xD;&#xA;">
+    documentation="De student meldt zich voor aan voor een opleiding bij de mbo-school. In deze keten heeft de actie 'aanmelden' betrekking op één opleiding, studenten kunnen zich voor meer dan één opleiding aanmelden bij één of meerdere MBO-scholen. Na de aanmelding door de student wordt de aanmelding bevestigd. Vervolgens start de informatie en communicatie namens de instelling of opleiding richting de student. &#xD;&#xA;&#xD;&#xA;In dit proces wordt gevraagd of er sprake is van een ondersteuningsbehoefte. Als dat het geval is, dan zal er later bij de instelling een uitgebreide intake plaatsvinden waarin die ondersteuningsbehoefte wordt bepaald en vastgelegd.&#xD;&#xA;&#xD;&#xA;">
   <properties
       key="Input"
       value="Aanmelding"/>
