@@ -1,4 +1,8 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nog te plaatsen inf model"
-    id="id-dad8d0f566c443f3b14801f8955d0ac2"/>
+    id="id-dad8d0f566c443f3b14801f8955d0ac2">
+  <properties
+      key="MORA-type"
+      value="Hoofdproces"/>
+</archimate:Folder>

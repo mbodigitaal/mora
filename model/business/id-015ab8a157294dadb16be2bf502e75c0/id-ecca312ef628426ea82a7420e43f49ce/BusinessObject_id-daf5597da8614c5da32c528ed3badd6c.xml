@@ -5,11 +5,11 @@
     documentation="Het dossier met de bewijsstukken van de summatieve (kwalificerende) beoordelingen en EVC-rapportages die relevant zijn voor de diplomering.   &#xD;&#xA;">
   <properties
       key="Beschikbaarheid"
-      value="Middel"/>
+      value="Midden"/>
   <properties
       key="Integriteit"
       value="Hoog"/>
   <properties
       key="Vertrouwelijkheid"
-      value="Middel"/>
+      value="Midden"/>
 </archimate:BusinessObject>

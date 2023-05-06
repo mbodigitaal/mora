@@ -8,8 +8,8 @@
       value="Laag"/>
   <properties
       key="Integriteit"
-      value="Middel"/>
+      value="Midden"/>
   <properties
       key="Vertrouwelijkheid"
-      value="Middel"/>
+      value="Midden"/>
 </archimate:BusinessObject>
