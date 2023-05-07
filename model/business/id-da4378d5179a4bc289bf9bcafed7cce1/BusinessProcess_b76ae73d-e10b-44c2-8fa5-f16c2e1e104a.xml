@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Uitwisselen met ROD"
     id="b76ae73d-e10b-44c2-8fa5-f16c2e1e104a"
-    documentation="Via ROD (voorheen BRON) worden inschrijvingen, diploma’s en BPV-gegevens van de studenten uitgewisseld met DUO. ROD bestaat uit 2 registers; Onderwijsdeelname (OD) en Onderwijsresultaten (OR). De bekostiging van instellingen is mede afhankelijk van de juiste uitwisseling met ROD.&#xD;&#xA;&#xD;&#xA;Aanleidingen voor de uitwisseling met ROD::&#xD;&#xA;&#xD;&#xA;* Nieuwe (of gewijzigde) onderwijsovereenkomst&#xD;&#xA;* Nieuwe (of gewijzigde) BPV-verbintenis&#xD;&#xA;* Uitschrijving met uitvalsreden anders dan diplomering&#xD;&#xA;* Gegevens over diplomering en het behalen van generieke examenonderdelen">
+    documentation="Via ROD (voorheen BRON) worden inschrijvingen, diploma’s en BPV-gegevens van de studenten uitgewisseld met DUO. ROD bestaat uit 2 registers; Onderwijsdeelname (OD) en Onderwijsresultaten (OR). De bekostiging van instellingen is mede afhankelijk van de juiste uitwisseling met ROD.&#xD;&#xA;&#xD;&#xA;Aanleidingen voor de uitwisseling met ROD::&#xD;&#xA;&#xD;&#xA;* Nieuwe (of gewijzigde) inschrijving&#xD;&#xA;* Nieuwe (of gewijzigde) BPV-overeenkomst&#xD;&#xA;* Uitschrijving met uitvalsreden anders dan diplomering&#xD;&#xA;* Gegevens over diplomering en het behalen van generieke examenonderdelen">
   <properties
       key="Input"
       value="Melding inschrijving; Melding BPV; Melding diplomering/certificering; Melding uitschrijving"/>
