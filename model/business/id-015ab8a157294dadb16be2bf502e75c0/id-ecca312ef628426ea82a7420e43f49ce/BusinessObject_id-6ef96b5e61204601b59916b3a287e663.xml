@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Zorgdossier"
     id="id-6ef96b5e61204601b59916b3a287e663"
-    documentation="Het zorgdossier bevat alle documenten en gegevens over lichamelijke psychische en sociaal-emotionele beperkingen van de deelnemer. Het zorgdossier is van het studentbegeleidingsdossier gescheiden omdat dit dossier meer privacygevoelige informatie bevat. &#xD;&#xA;">
+    documentation="Het zorgdossier bevat alle documenten en gegevens over lichamelijke psychische en sociaal-emotionele beperkingen van de deelnemer. Het zorgdossier is van het studentbegeleidingsdossier gescheiden omdat dit dossier meer privacygevoelige informatie bevat.&#xD;&#xA;'&#xD;&#xA;Het zorgdossier is ook gescheiden van het ondersteuningsplan. Het ondertsteuningsplan bevat de ondersteuningsbehoefte en de afspraken die daarover met de student zijn gemaakt. Het zorgdossier bevat het handelingsplan, doorgaans opgesteld door een zorgprofessional.&#xD;&#xA;">
   <properties
       key="Beschikbaarheid"
       value="Midden"/>

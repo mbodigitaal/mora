@@ -1628,9 +1628,9 @@
         source="05e296c1-f9aa-4685-ae40-cd2902d44448"
         target="f0aa7b72-a298-4408-a9c8-a126f5b8e0d8">
       <bendpoints
-          startX="12"
+          startX="15"
           startY="57"
-          endX="-216"
+          endX="-148"
           endY="57"/>
       <bendpoints
           startX="144"
