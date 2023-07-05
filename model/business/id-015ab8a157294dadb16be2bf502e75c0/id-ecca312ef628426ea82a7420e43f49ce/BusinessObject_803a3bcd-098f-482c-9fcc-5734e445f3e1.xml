@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Onderwijs programma"
     id="803a3bcd-098f-482c-9fcc-5734e445f3e1"
-    documentation="Een planbaar geheel van opleidingsonderdelen, met daarbij aanvullende informatie over de volgorde of periode waarin deze door studenten kunnen worden gevolgd. Het onderwijsprogramma staat model voor de persoonlijke leerroute van een student. &#xD;&#xA;&#xD;&#xA;Relatie/overlap met andere bronnen: &#xD;&#xA;Bron: Triple A&#xD;&#xA;Naam: referentie-arrangement&#xD;&#xA;Definitie: Voorbeelden van planbare samengestelde onderwijsproducten die invulling geven aan een bepaalde leerroute.&#xD;&#xA;&#xD;&#xA;">
+    documentation="Een planbaar geheel van opleidingsonderdelen, met daarbij aanvullende informatie over de volgorde of periode waarin deze door studenten kunnen worden gevolgd. Het onderwijsprogramma staat model voor de persoonlijke leerroute van een student. &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
   <properties
       key="Beschikbaarheid"
       value="Laag"/>

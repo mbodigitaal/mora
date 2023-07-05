@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Definieren onderwijs-programma"
     id="f4a60420-899d-458f-ba3a-aa6cce0dca6d"
-    documentation="Het definiëren en vastleggen van een onderwijsprogramma. Een onderwijsprogramma is een planbaar geheel van beschikbare onderwijsproducten, met daarbij aanvullende informatie over de volgorde of periode waarin het product moet worden afgenomen. Het onderwijsprogramma staat model voor de persoonlijke leerroute van een student. ">
+    documentation="Het definiëren en vastleggen van een onderwijsprogramma. Een onderwijsprogramma is een planbaar geheel van beschikbare opleidingsonderdelen, met daarbij aanvullende informatie over de volgorde of periode waarin het product moet worden afgenomen. Het onderwijsprogramma staat model voor de persoonlijke leerroute van een student. ">
   <properties
       key="MORA-type"
       value="Proces"/>
