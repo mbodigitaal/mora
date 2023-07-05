@@ -1,8 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Leercontent omgevingen"
+    name="Leer content management systeem (LCMS)"
     id="id-d13cfba387404a27b058384ec8219030"
-    documentation="Verzamelbegrip van alle (on premise of online) omgevingen die leercontent aanbieden. Denk aan de vele online-omgevingen waarin derden vakinhoudelijk leercontent aanbieden.">
+    documentation="Systeem ten behoeve van het maken en beheren van leermateriaal.">
   <properties
       key="Source"
       value="https://hora.surf.nl/index.php?title=Id-16bb2aed-0013-2e43-b8d8-f4aa039faefc"/>
