@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Onderwijs locatie"
     id="7cde48dd-2814-4b32-8139-bea067af746a"
-    documentation="Een (cluster van) verblijfsobject(en) waar een onderwijsvolger zich kan inschrijven op opleidingen, die daar door een onderwijsaanbieder worden aangeboden.&#xD;&#xA;&#xD;&#xA;Relatie/overlap met andere bronnen: &#xD;&#xA;Bron: DUO&#xD;&#xA;Naam: Onderwijslocatie&#xD;&#xA;Definitie: Een (cluster van) verblijfsobject(en) waar een onderwijsvolger zich kan inschrijven op opleidingen, die daar door een onderwijsaanbieder worden aangeboden.&#xD;&#xA;Link: http://lod.onderwijsregistratie.nl/term/Onderwijslocatie&#xD;&#xA;&#xD;&#xA;Bron: RIO&#xD;&#xA;Naam: Onderwijslocatie&#xD;&#xA;Definitie: Een punt op een geografische kaart waar onderwijs wordt aangeboden. &#xD;&#xA;Link: https://www.edustandaard.nl/standaard_afspraken/registratie-instellingen-en-opleidingen-rio/registratie-instellingen-en-opleidingen-december-2021/">
+    documentation="Een (cluster van) verblijfsobject(en) waar een onderwijsvolger zich kan inschrijven op opleidingen, die daar door een onderwijsaanbieder worden aangeboden.">
   <properties
       key="Beschikbaarheid"
       value="Laag"/>

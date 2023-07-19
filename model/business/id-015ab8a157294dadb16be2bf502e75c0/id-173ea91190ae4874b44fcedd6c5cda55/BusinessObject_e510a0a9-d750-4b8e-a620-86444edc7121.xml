@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Diploma opleiding"
     id="e510a0a9-d750-4b8e-a620-86444edc7121"
-    documentation="Een opleiding die leidt tot een diploma">
+    documentation="Een opleiding die leidt tot een diploma.">
   <properties
       key="Beschikbaarheid"
       value="Laag"/>

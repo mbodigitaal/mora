@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Student"
     id="1b667d54-7a99-4b2b-b47c-8247d45e9222"
-    documentation="Een persoon die aan onderwijsactiviteiten deelneemt of dat wil gaan doen. Dit omvat ingeschreven studenten, aspirant studenten en alumni.&#xD;&#xA;&#xD;&#xA;">
+    documentation="Een persoon die aan onderwijsactiviteiten deelneemt of dat wil gaan doen. Dit omvat ingeschreven studenten, potentiële studenten en alumni.&#xD;&#xA;&#xD;&#xA;">
   <properties
       key="Beschikbaarheid"
       value="Midden"/>
