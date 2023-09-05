@@ -1,7 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Monitoren effectiviteit onderwijs activiteiten"
-    id="ced3dfdf-0d88-4b24-a070-cc7da2df2589">
+    id="ced3dfdf-0d88-4b24-a070-cc7da2df2589"
+    documentation="Naast de uitvoering van onderwijsactiviteiten, volgt de docent of praktijbegeleider ook de effectiviteit ervan en neemt dit mee in de voorbereiding van onderwijsactiviteiten in het vervolg.">
   <properties
       key="MORA-type"
       value="Proces"/>
