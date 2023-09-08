@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aanvragen erkenning leerbedrijf"
-    id="109fa3a8-9ae1-4f08-9a0b-e60455cd6dcd"/>
+    id="109fa3a8-9ae1-4f08-9a0b-e60455cd6dcd">
+  <properties
+      key="MORA-type"
+      value="Proces"/>
+</archimate:BusinessProcess>
