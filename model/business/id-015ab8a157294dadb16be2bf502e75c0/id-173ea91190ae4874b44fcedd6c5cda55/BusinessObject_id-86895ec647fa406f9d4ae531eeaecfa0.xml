@@ -1,6 +1,6 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="EVC besluit"
+    name="Vrijstellingsbesluit"
     id="id-86895ec647fa406f9d4ae531eeaecfa0"
     documentation="Een besluit, op basis van het EVC-portfolio aan vrijstellingen dat is ingediend, of eerder verworven competenties leiden tot een vrijstelling.&#xD;&#xA;">
   <properties
