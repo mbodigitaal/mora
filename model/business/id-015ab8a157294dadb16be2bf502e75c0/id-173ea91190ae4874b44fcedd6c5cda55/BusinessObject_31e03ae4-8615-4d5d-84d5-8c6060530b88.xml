@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Opleidings-onderdeel"
     id="31e03ae4-8615-4d5d-84d5-8c6060530b88"
-    documentation="Een onderscheidbaar geheel van kennis, inzicht en vaardigheden, dat onderdeel kan zijn van één of meer opleidingen.&#xD;&#xA;&#xD;&#xA;Een opleidingsonderdeel is een afgerond geheel binnen een onderwijsprogramma.&#xD;&#xA;De persoonlijke leerroute kan worden samengesteld uit opleidingsonderdelen.&#xD;&#xA;&#xD;&#xA;De leertaken zijn de concrete onderwijsactiviteiten waaruit het opleidingsonderdeel bestaat.">
+    documentation="Een onderscheidbaar geheel van kennis, inzicht en vaardigheden, dat onderdeel kan zijn van één of meer opleidingen.&#xD;&#xA;&#xD;&#xA;Een opleidingsonderdeel is een afgerond geheel binnen een onderwijsprogramma.&#xD;&#xA;De persoonlijke leerroute kan worden samengesteld uit opleidingsonderdelen.&#xD;&#xA;&#xD;&#xA;De leeractiviteiten zijn de roosterbare eenheiden, dus datgene wat in het kader van het opleidingsonderdeel in het rooster gepland met worden.&#xD;&#xA;&#xD;&#xA;De leertaken zijn vervolgens de concrete taken die een student uitvoert in het kader van een leeractiviteit.">
   <properties
       key="Beschikbaarheid"
       value="Laag"/>
