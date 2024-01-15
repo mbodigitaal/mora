@@ -1015,7 +1015,7 @@
         <bounds
             x="12"
             y="36"
-            width="133"
+            width="145"
             height="55"/>
         <archimateElement
             xsi:type="archimate:BusinessProcess"
@@ -1028,9 +1028,9 @@
           fontColor="#ffffff"
           fillColor="#428e9b">
         <bounds
-            x="252"
+            x="240"
             y="36"
-            width="120"
+            width="132"
             height="55"/>
         <archimateElement
             xsi:type="archimate:BusinessProcess"
@@ -1071,7 +1071,7 @@
         <bounds
             x="12"
             y="108"
-            width="133"
+            width="145"
             height="55"/>
         <archimateElement
             xsi:type="archimate:BusinessProcess"
@@ -1099,9 +1099,9 @@
               href="TriggeringRelationship_6f083327-453a-41a0-a8d7-931ac3832e35.xml#6f083327-453a-41a0-a8d7-931ac3832e35"/>
         </sourceConnections>
         <bounds
-            x="252"
+            x="240"
             y="108"
-            width="120"
+            width="132"
             height="55"/>
         <archimateElement
             xsi:type="archimate:BusinessProcess"
