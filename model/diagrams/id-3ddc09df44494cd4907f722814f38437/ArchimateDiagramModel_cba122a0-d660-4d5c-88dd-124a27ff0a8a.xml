@@ -586,7 +586,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="337281a8-5dae-4064-b1a7-ea8a99cf74ff"
-        targetConnections="8605f0ca-14bb-47c6-988b-e072e87477be 5a217399-df8a-454e-bc9d-d89864d73dc9 513ba7ad-279b-434a-a0fe-74fa678cd831 c85806d1-047d-45dc-9aad-29c51b83ae61 17491873-dc03-4cef-ac16-cb6693704a1d 88c1def8-c0a3-4754-b6ea-f9dd64dd673c"
+        targetConnections="8605f0ca-14bb-47c6-988b-e072e87477be 5a217399-df8a-454e-bc9d-d89864d73dc9 513ba7ad-279b-434a-a0fe-74fa678cd831 c85806d1-047d-45dc-9aad-29c51b83ae61 88c1def8-c0a3-4754-b6ea-f9dd64dd673c 17491873-dc03-4cef-ac16-cb6693704a1d"
         fontColor="#ffffff"
         fillColor="#4f97cf">
       <bounds

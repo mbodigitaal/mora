@@ -746,7 +746,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="7ad9bdfb-a61a-458b-8170-be7f598c8ddb"
-        targetConnections="6f1ba38c-bfda-4f60-b32f-3417a182a85a 0b7193f8-9b77-4e6f-9164-9ba9b2c9d639 7d198997-5a20-410a-b3e6-17d59aae67e1 dd0735e1-604b-4fe3-aff4-d7b80d1ddb24 913d1ef6-4ec8-4283-82c3-4346af5be4c6 id-e489742dbc5242f3bb13b9322d7376fc"
+        targetConnections="6f1ba38c-bfda-4f60-b32f-3417a182a85a 0b7193f8-9b77-4e6f-9164-9ba9b2c9d639 7d198997-5a20-410a-b3e6-17d59aae67e1 dd0735e1-604b-4fe3-aff4-d7b80d1ddb24 id-e489742dbc5242f3bb13b9322d7376fc 913d1ef6-4ec8-4283-82c3-4346af5be4c6"
         fontColor="#ffffff"
         fillColor="#4f97cf">
       <bounds
@@ -1176,6 +1176,15 @@
         fillColor="#21487f">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
+          id="8f83bfcc-69f8-435a-8675-a00091ea9673"
+          source="c39e6e20-9daf-4d7e-abe0-a4f91ac75e08"
+          target="12362763-5a7c-4c15-a306-144084799c30">
+        <archimateRelationship
+            xsi:type="archimate:AccessRelationship"
+            href="AccessRelationship_id-c7e5bfef31fb43f6a2854eb26e832974.xml#id-c7e5bfef31fb43f6a2854eb26e832974"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
           id="913d1ef6-4ec8-4283-82c3-4346af5be4c6"
           lineWidth="2"
           lineColor="#21487f"
@@ -1199,15 +1208,6 @@
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_0e6b3516-c0ab-4123-bced-1ca14ddaa31c.xml#0e6b3516-c0ab-4123-bced-1ca14ddaa31c"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="8f83bfcc-69f8-435a-8675-a00091ea9673"
-          source="c39e6e20-9daf-4d7e-abe0-a4f91ac75e08"
-          target="12362763-5a7c-4c15-a306-144084799c30">
-        <archimateRelationship
-            xsi:type="archimate:AccessRelationship"
-            href="AccessRelationship_id-c7e5bfef31fb43f6a2854eb26e832974.xml#id-c7e5bfef31fb43f6a2854eb26e832974"/>
       </sourceConnections>
       <bounds
           x="109"

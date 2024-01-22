@@ -590,7 +590,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="d85f1f37-5d24-414c-ad6e-99ece7cfd882"
-        targetConnections="2da231d0-fa7a-4244-baed-f5eabe64edb3 14ef5850-fb86-4d4f-9534-5513711cec45 bf853d76-8c6c-41a0-9fb9-e88bcfa21a87 016496b5-5dd3-49f2-b60a-3ba216d640a0 4081991e-20e4-4e05-b5c2-a8fccc6a0139 cad238e3-8e01-4d17-bfe1-f692b570b955"
+        targetConnections="2da231d0-fa7a-4244-baed-f5eabe64edb3 14ef5850-fb86-4d4f-9534-5513711cec45 bf853d76-8c6c-41a0-9fb9-e88bcfa21a87 4081991e-20e4-4e05-b5c2-a8fccc6a0139 cad238e3-8e01-4d17-bfe1-f692b570b955 016496b5-5dd3-49f2-b60a-3ba216d640a0"
         fontColor="#ffffff"
         fillColor="#4f97cf">
       <bounds
