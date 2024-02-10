@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheren maatwerkgelden"
+    id="id-e0b67cc2da734b5cac15db5135056764"
+    documentation="Het (financieel) administreren van verkregen gelden in het kader van Lang Leven Ontwikkelen (LLO). De MBO-instelling factureert het geven van onderwijs op maat aan de opdrachtgever. Deze gelden zijn een inkomstenbron voor de MBO-instelling ter financiering van onderwijs voor het verder ontwikkelen van mensen op de arbeidsmarkt.">
+  <properties
+      key="MORA-type"
+      value="Proces"/>
+</archimate:BusinessProcess>

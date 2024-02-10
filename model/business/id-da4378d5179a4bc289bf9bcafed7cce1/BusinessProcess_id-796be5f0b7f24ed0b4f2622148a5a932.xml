@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Afgeven mbo-verklaring"
     id="id-796be5f0b7f24ed0b4f2622148a5a932"
-    documentation="Een mbo-verklaring kan worden verstrekt aan studenten die – bij het verlaten van de opleiding- resultaten hebben gehaald waarvoor geen mbo-diploma of mbo-certificaat kan worden uitgereikt. De student moet een waardering hebben gehaald voor ten minste (een deel van) een onderdeel van de beroepsopleiding. Studenten jonger dan 23 jaar, die het mbo zonder startkwalificatie, diploma of certificaat verlaten, ontvangen een mbo-verklaring. Ook andere studenten krijgen een mbo-verklaring als ze erom vragen."/>
+    documentation="Een mbo-verklaring kan worden verstrekt aan studenten die – bij het verlaten van de opleiding- resultaten hebben gehaald waarvoor geen mbo-diploma of mbo-certificaat kan worden uitgereikt. De student moet een waardering hebben gehaald voor ten minste (een deel van) een onderdeel van de beroepsopleiding. Studenten jonger dan 23 jaar, die het mbo zonder startkwalificatie, diploma of certificaat verlaten, ontvangen een mbo-verklaring. Ook andere studenten krijgen een mbo-verklaring als ze erom vragen.">
+  <properties
+      key="MORA-type"
+      value="Proces"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheren examens"
+    id="id-1168a5a2cbf6444791484c7d1fc4bb74"
+    documentation="Het ontvangen en bewaren van geconstrueerde examens in een beveiligde kluis en het beschikbaar stellen op het examenmoment. ​">
+  <properties
+      key="MORA-type"
+      value="Proces"/>
+</archimate:BusinessProcess>

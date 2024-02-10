@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheren examendossier"
+    id="id-0c7189cb7aee4c6f9cca9106df3ab01a"
+    documentation="Het (tijdelijk) bewaren van gemaakte examens en het bewaren van beoordelingen en bewijsstukken ten behoeve van een diplomabesluit.​">
+  <properties
+      key="MORA-type"
+      value="Proces"/>
+</archimate:BusinessProcess>

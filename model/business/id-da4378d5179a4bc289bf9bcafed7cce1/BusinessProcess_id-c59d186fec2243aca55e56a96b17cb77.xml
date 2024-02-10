@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheren bekostiging"
+    id="id-c59d186fec2243aca55e56a96b17cb77"
+    documentation="Het (financieel) administreren van verkregen financiële Rijksbijdrage van het Ministerie Onderwijs, Cultuur en Wetenschap (OCW). Deze Rijksbijdrage is de lumpsum die afhankelijk is van het aantal studenten en het aantal behaalde diploma's. De gegevensuitwisseling met BRON vormt hierbij de grondslag.">
+  <properties
+      key="MORA-type"
+      value="Proces"/>
+</archimate:BusinessProcess>
