@@ -658,6 +658,8 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="3ce429dd-9665-4270-a7aa-d68ca1876318"
+          lineWidth="2"
+          lineColor="#428e9b"
           source="40f79f56-9d40-4083-a6fd-529dda7a5cdf"
           target="a51a2267-ebdc-4f0a-b307-952d4310eb1d">
         <archimateRelationship
