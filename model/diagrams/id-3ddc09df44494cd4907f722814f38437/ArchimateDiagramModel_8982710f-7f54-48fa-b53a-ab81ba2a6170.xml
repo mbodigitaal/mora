@@ -1516,14 +1516,14 @@
         target="12eeb018-d53d-4ac9-bb02-7518c97d92de">
       <bendpoints
           startX="-24"
-          startY="69"
-          endX="108"
-          endY="69"/>
+          startY="63"
+          endX="120"
+          endY="63"/>
       <bendpoints
-          startX="-108"
-          startY="57"
+          startX="-120"
+          startY="63"
           endX="24"
-          endY="57"/>
+          endY="63"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_205df27c-a305-429e-baf6-133fec00411c.xml#205df27c-a305-429e-baf6-133fec00411c"/>
