@@ -1,9 +1,0 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Beheren toegang"
-    id="eb892363-3129-4f95-acfa-f511bf0f9253"
-    documentation="Het zorgdragen voor het beheren van de toegang tot gebouwen en ruimten. Denk aan sleutelbeheer, pasbeheer">
-  <properties
-      key="MORA-type"
-      value="Proces"/>
-</archimate:BusinessProcess>
