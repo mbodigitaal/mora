@@ -5,5 +5,5 @@
     documentation="Het vaststellen van beschikbare financiële middelen en het toekennen en bewaken van daaruit voortvloeiende budgetten/begrotingen.">
   <properties
       key="MORA-type"
-      value="Proces"/>
+      value="Hoofdproces"/>
 </archimate:BusinessProcess>
