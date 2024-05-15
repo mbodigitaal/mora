@@ -549,27 +549,9 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="cdc44c67-18c5-4828-92e1-ccd1fff4ed78"
         targetConnections="45151d1e-8aa0-415a-a5ba-234e6b376086"
-        font="1|Segoe UI|10.2|1|WINDOWS|1|-17|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fontColor="#ffffff"
-        fillColor="#a8ada3">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="01d7d81c-35b1-4d7b-b9b9-e65a27cb590b"
-          source="cdc44c67-18c5-4828-92e1-ccd1fff4ed78"
-          target="683ed107-6fbd-4b67-93eb-7c4ebfffc05d">
-        <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_6bd2ddee-2842-4c7e-aa9a-70a02618351f.xml#6bd2ddee-2842-4c7e-aa9a-70a02618351f"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="698dcfe0-598e-4d7a-92da-e37c75989427"
-          source="cdc44c67-18c5-4828-92e1-ccd1fff4ed78"
-          target="991fa93a-b626-46e1-8d42-78632ed48c40">
-        <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_4559539a-8da2-49e9-b4df-ed5e93698572.xml#4559539a-8da2-49e9-b4df-ed5e93698572"/>
-      </sourceConnections>
+        fillColor="#28583b">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="c3f6aae5-18b9-4fff-961a-97d4622f0f2e"
@@ -589,56 +571,24 @@
           source="cdc44c67-18c5-4828-92e1-ccd1fff4ed78"
           target="27b5b276-6257-4a64-a931-34650c536a72">
         <bendpoints
-            startX="-114"
-            startY="-71"
-            endX="330"
-            endY="45"/>
+            startX="-28"
+            startY="-63"
+            endX="356"
+            endY="57"/>
         <bendpoints
-            startX="-450"
-            startY="-83"
-            endX="-6"
-            endY="55"/>
+            startX="-388"
+            startY="-63"
+            endX="-4"
+            endY="57"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_8ea5f814-137c-4c7c-94a6-aef6e0a2def0.xml#8ea5f814-137c-4c7c-94a6-aef6e0a2def0"/>
       </sourceConnections>
       <bounds
-          x="408"
-          y="257"
-          width="301"
-          height="109"/>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="683ed107-6fbd-4b67-93eb-7c4ebfffc05d"
-          targetConnections="01d7d81c-35b1-4d7b-b9b9-e65a27cb590b"
-          font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-          fontColor="#ffffff"
-          fillColor="#28583b">
-        <bounds
-            x="12"
-            y="36"
-            width="133"
-            height="55"/>
-        <archimateElement
-            xsi:type="archimate:BusinessProcess"
-            href="BusinessProcess_a38732a3-3733-4685-abf5-a50b70aa0673.xml#a38732a3-3733-4685-abf5-a50b70aa0673"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="991fa93a-b626-46e1-8d42-78632ed48c40"
-          targetConnections="698dcfe0-598e-4d7a-92da-e37c75989427"
-          font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-          fontColor="#ffffff"
-          fillColor="#28583b">
-        <bounds
-            x="156"
-            y="36"
-            width="133"
-            height="55"/>
-        <archimateElement
-            xsi:type="archimate:BusinessProcess"
-            href="BusinessProcess_ba005747-c950-475a-8208-607b951700a7.xml#ba005747-c950-475a-8208-607b951700a7"/>
-      </children>
+          x="420"
+          y="288"
+          width="133"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_0d527e03-ea30-428c-8a57-8230a0af9161.xml#0d527e03-ea30-428c-8a57-8230a0af9161"/>

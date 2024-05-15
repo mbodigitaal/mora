@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beheren rooster wijzigingen"
     id="0d527e03-ea30-428c-8a57-8230a0af9161"
-    documentation="Wijzigingen worden tijdig doorgegeven en verwerkt zodat studenten en docenten tijdig geïnformeerd worden.&#xD;&#xA;&#xD;&#xA;Wijzigingen kunnen voortvloeien uit:&#xD;&#xA;- Ziekte&#xD;&#xA;- Beschikbaarheid docent/instructeur&#xD;&#xA;- Wijzigingen in student-, klas- of groepssamenstellingen&#xD;&#xA;- Wijzigingen in faciliteiten">
+    documentation="Er zijn situaties denkbaar dat het rooster veranderd moet worden ook al is dit vastgesteld voor een bepaalde periode.  Om dit probleem op te lossen kan het rooster of de inzet van middelen worden aangepast.  Wjzigingen worden tijdig doorgegeven en verwerkt zodat studenten en docenten tijdig geïnformeerd worden.&#xD;&#xA;&#xD;&#xA;Dit kan het gevolg zijn van een uitvoeringsprobleem, zoals:&#xD;&#xA;* Ziekte van een docent&#xD;&#xA;* Een docent is plotseling verhinderd of niet beschikbaar&#xD;&#xA;* Een stageplaats is toch niet beschikbaar&#xD;&#xA;* Noodzakelijke apparatuur (zoals PC''s) zijn niet tijdig geleverd &#xD;&#xA;* Wijzigingen in student-, klas- of groepssamenstellingen&#xD;&#xA;* Wijzigingen in faciliteiten&#xD;&#xA;&#xD;&#xA;Dit kan ook het gevolg zijn van een calamiteit, een onvoorziene omstandigheid. Dit kan qua omvang en impact zeer divers zijn, denk aan:&#xD;&#xA;* Een docent is plotseling langdurig afwezig&#xD;&#xA;* Alle PC's zijn uit een lokaal gestolen&#xD;&#xA;* Brand of lekkage&#xD;&#xA;">
   <properties
       key="Input"
       value="Een omstandigheid die aanleiding geeft tot het wijzigen van het actuele rooster"/>
