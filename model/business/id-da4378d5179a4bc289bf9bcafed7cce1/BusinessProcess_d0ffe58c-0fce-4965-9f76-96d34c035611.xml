@@ -1,9 +1,0 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Afhandelen verkoop"
-    id="d0ffe58c-0fce-4965-9f76-96d34c035611"
-    documentation="Het zorgdragen voor de financiële registratie en afhandeling van verkopen. Denk aan factureren, innen, beheren debiteuren">
-  <properties
-      key="MORA-type"
-      value="Proces"/>
-</archimate:BusinessProcess>
