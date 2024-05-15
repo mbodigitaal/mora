@@ -197,6 +197,17 @@
         height="373"/>
     <children
         xsi:type="archimate:DiagramModelGroup"
+        id="id-8584eb7e30934166b9563cd751212125"
+        name="Afhandelen verkoop"
+        textAlignment="1">
+      <bounds
+          x="942"
+          y="36"
+          width="421"
+          height="241"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
         id="id-79d7662298e641e7be8cea90676736e8"
         name="Afhandelen inkoop"
         textAlignment="1">
