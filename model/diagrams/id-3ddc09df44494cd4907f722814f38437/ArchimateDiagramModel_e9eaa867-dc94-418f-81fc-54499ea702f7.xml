@@ -916,9 +916,9 @@
       </sourceConnections>
       <bounds
           x="204"
-          y="228"
+          y="213"
           width="133"
-          height="55"/>
+          height="73"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_b942e7e2-4cb4-419e-af8f-8b205d0fdf57.xml#b942e7e2-4cb4-419e-af8f-8b205d0fdf57"/>
