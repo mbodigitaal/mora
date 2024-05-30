@@ -61,35 +61,9 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="58e27f67-85f2-4604-b34a-9b65b130425d"
-      targetConnections="d3df547f-4921-4c99-8aa3-7e9d5676bcce"
-      fontColor="#ffffff"
-      fillColor="#428e9b">
-    <bounds
-        x="360"
-        y="276"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_f613d94c-9e90-42c3-b006-4a15a81767f6.xml#f613d94c-9e90-42c3-b006-4a15a81767f6"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="e86a1c16-7992-46a9-8e39-855f5c584db0"
       fontColor="#ffffff"
       fillColor="#428e9b">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="d3df547f-4921-4c99-8aa3-7e9d5676bcce"
-        lineWidth="2"
-        lineColor="#428e9b"
-        source="e86a1c16-7992-46a9-8e39-855f5c584db0"
-        target="58e27f67-85f2-4604-b34a-9b65b130425d">
-      <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_6f083327-453a-41a0-a8d7-931ac3832e35.xml#6f083327-453a-41a0-a8d7-931ac3832e35"/>
-    </sourceConnections>
     <bounds
         x="60"
         y="276"
@@ -724,5 +698,33 @@
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_813d6b81-38a7-4136-a2ee-cabac8818ec0.xml#813d6b81-38a7-4136-a2ee-cabac8818ec0"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-5515cd0bb3d0423d81de2a4ea670f4c1"
+      fontColor="#ffffff"
+      fillColor="#428e9b">
+    <bounds
+        x="360"
+        y="276"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_805f97aa-7663-4540-a874-ddb708cccb18.xml#805f97aa-7663-4540-a874-ddb708cccb18"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-0a4ec4a5cabf403a9778e042e91623af"
+      fontColor="#ffffff"
+      fillColor="#428e9b">
+    <bounds
+        x="504"
+        y="276"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_6519431c-11f8-4f58-bb96-f951f83bebde.xml#6519431c-11f8-4f58-bb96-f951f83bebde"/>
   </children>
 </archimate:ArchimateDiagramModel>

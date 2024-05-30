@@ -1,9 +1,0 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Verwerven leermiddelen"
-    id="f613d94c-9e90-42c3-b006-4a15a81767f6"
-    documentation="Voor het vastgestelde aanbod aan opleidingen bepalen de mbo-school en teams jaarlijks wat nodig is aan leermateriaal, onderwijsspecifieke faciliteiten (zoals simulatoren, bedden, kappersstoelen), generieke faciliteiten (zoals theorie- en praktijkruimtes), examenmateriaal en de benodigde BPV-plaatsen. De school en teams bepalen jaarlijks welke personele inzet nodig is. Het team kijkt of er aanpassing van de capaciteit, kennis en competenties in het team nodig is. Het team bepaalt jaarlijks, mede op basis van de eigen verbeteragenda, of er aanpassing en aanvulling of vernieuwing moet plaatsvinden.">
-  <properties
-      key="MORA-type"
-      value="Proces"/>
-</archimate:BusinessProcess>

@@ -1066,28 +1066,19 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="49b2c6d7-0bff-4a67-8aa4-73b68cabe517"
+      id="id-abab4862ebdc48af8ba3eca6f8045461"
       font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fontColor="#428e9b"
       fillColor="#e6edef">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="d79c1e6b-ee3d-4d7d-baa7-e9585492f6d4"
-        source="49b2c6d7-0bff-4a67-8aa4-73b68cabe517"
-        target="9b4fc3b2-36e0-4335-ba1d-9ff8d2e35c9d">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_f0212d62-1a38-4a68-915b-85656b15016b.xml#f0212d62-1a38-4a68-915b-85656b15016b"/>
-    </sourceConnections>
     <bounds
         x="-170"
-        y="166"
+        y="168"
         width="181"
-        height="301"/>
+        height="299"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="9b4fc3b2-36e0-4335-ba1d-9ff8d2e35c9d"
-        targetConnections="d79c1e6b-ee3d-4d7d-baa7-e9585492f6d4 b8c691a1-1cbf-4b61-9e41-cfbe255c96d4"
+        targetConnections="b8c691a1-1cbf-4b61-9e41-cfbe255c96d4"
         fontColor="#ffffff"
         fillColor="#428e9b">
       <sourceConnections
@@ -1112,6 +1103,6 @@
     </children>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_a8ffd64a-f927-4da0-8368-81a68ab97b71.xml#a8ffd64a-f927-4da0-8368-81a68ab97b71"/>
+        href="BusinessProcess_20bfb349-579b-4b04-a7c6-1814fce430d1.xml#20bfb349-579b-4b04-a7c6-1814fce430d1"/>
   </children>
 </archimate:ArchimateDiagramModel>
