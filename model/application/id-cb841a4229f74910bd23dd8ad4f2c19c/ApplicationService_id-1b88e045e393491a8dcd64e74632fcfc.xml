@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Opleiding aanbod beheer"
+    name="Onderwijs beheer"
     id="id-1b88e045e393491a8dcd64e74632fcfc"
-    documentation="Het beheren van het onderwijsaanbod inclusief de onderwijsprogramma's (voorheen referentie-arrangementen) en keuzedelen"/>
+    documentation="Het beheren van het onderwijsaanbod, zoals dat is opgebouwd uit de onderwijsprogramma's, opleidingsonderdelen en leeractiviteiten en alle metadata die daarbij relevant is. Deze metadat omvat bijvoorbeeld de leerdoelen, kerntaken, werkprocessen, studiebelastingsuren etc.&#xD;&#xA;Het onderwijsaanbod omvat ook per onderwijsprogramma de bijbehorende standaard leerroutes en eventuele keuzemogelijkheden."/>
