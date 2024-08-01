@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Curriculum ontwerptool"
     id="id-6113d88532c3471bb11a0a15473d36eb"
-    documentation="Een systeem ter ondersteuning van het creëren/vormgeven van het curriculum van een opleiding.">
+    documentation="Een systeem ter ondersteuning van het ontwerp- en planningsproces van het curriculum (de samenhangende structuur) van een opleiding. Dit omvat onder andere de opbouw in opleidingsonderdelen met hun onderlinge afhankelijkheden, logsche volgorde, relatie met leerdoelen, kerntaken en werkprocessen en de omvang in studiebelasting.&#xD;&#xA;Daarnaast omvat dit ook het in de tijd plannen van het curriculum. Dit is een tijdplanning, hoe de opleidingsonderdelen ten opzichte van elkaar in onderwijsperiodes gepland kunnen worden zodat het qua belasting een studeerbaar en organiseerbaar geheel is.">
   <properties
       key="Source"
       value="https://www.semanticscholar.org/paper/Enterprise-architecture-modeling-for-oriental-in-to-Soares-Setyohady/d5427fc783e0b48b0ae7e3bf7113695741d95755/figure/2"/>

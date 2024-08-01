@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Onderwijscatalogus"
     id="id-b0cf92157e804967a84dc7cdbb1147dc"
-    documentation="Een systeem voor de  registratie en het beheer van de verzameling opleidingen en cursussen van de instellling; ook wel het onderwijsaanbod genoemd.&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;OERknal">
+    documentation="Een systeem voor het beheren en publiceren van het onderwijsaanbod, zoals dat is opgebouwd uit de onderwijsprogramma's, opleidingsonderdelen en leeractiviteiten en alle metadata die daarbij relevant is. Deze metadata omvat bijvoorbeeld de leerdoelen, kerntaken, werkprocessen, studiebelastingsuren etc.&#xD;&#xA;Het onderwijsaanbod omvat ook per onderwijsprogramma de bijbehorende standaard leerroutes en eventuele keuzemogelijkheden.&#xD;&#xA;De publicatie van het onderwijsaanbod kan in verschillende vormen plaatsvinden, bijvoorbeeld in de vorm van een Onderwijs en Examenreglement (OER) of een studiegids.">
   <properties
       key="Source"
       value="https://www.semanticscholar.org/paper/Enterprise-architecture-modeling-for-oriental-in-to-Soares-Setyohady/d5427fc783e0b48b0ae7e3bf7113695741d95755/figure/2"/>
