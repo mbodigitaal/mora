@@ -1251,7 +1251,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="e377fa25-a565-4e1e-bf3f-4c7539834b18"
-      targetConnections="7e1ecee6-c9ad-4d1a-9486-95ea638967da 8f46f829-8d88-425d-8f59-618079115f8e c2fa023d-627a-4e80-8c34-f90648f65035">
+      targetConnections="7e1ecee6-c9ad-4d1a-9486-95ea638967da 8f46f829-8d88-425d-8f59-618079115f8e c2fa023d-627a-4e80-8c34-f90648f65035"
+      type="1">
     <bounds
         x="708"
         y="588"
@@ -1264,7 +1265,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="aa75e664-b1e0-4b7f-9b72-74aed99e96b8"
-      targetConnections="2f34ad50-3cc7-4acb-a6bd-d5674c2cdcf5 35a1462a-bd97-476c-9c9a-d0118f0538d1">
+      targetConnections="2f34ad50-3cc7-4acb-a6bd-d5674c2cdcf5 35a1462a-bd97-476c-9c9a-d0118f0538d1"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="c2fa023d-627a-4e80-8c34-f90648f65035"
@@ -1286,7 +1288,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="e8db0cef-9fb9-4c9c-aaae-2613363a30d1"
-      targetConnections="9c215ae8-c7f5-41ca-956a-77b16ca5bb44">
+      targetConnections="9c215ae8-c7f5-41ca-956a-77b16ca5bb44"
+      type="1">
     <bounds
         x="1044"
         y="588"
@@ -1299,7 +1302,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="74040f01-5858-4352-b32f-947c15a80e76"
-      targetConnections="dfd04707-bcca-4506-93cb-3cbbd946d5c4">
+      targetConnections="dfd04707-bcca-4506-93cb-3cbbd946d5c4"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="35a1462a-bd97-476c-9c9a-d0118f0538d1"
@@ -1331,7 +1335,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-bd0f70cae04a474da1cb2873a20102a2"
-      targetConnections="id-1841c6f5739e482894aa8f12f3603c0d">
+      targetConnections="id-1841c6f5739e482894aa8f12f3603c0d"
+      type="1">
     <bounds
         x="252"
         y="588"

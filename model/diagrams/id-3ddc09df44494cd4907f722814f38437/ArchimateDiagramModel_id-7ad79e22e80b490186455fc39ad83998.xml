@@ -9,7 +9,8 @@
       font="1|Lucida Grande|12.0|1|COCOA|1|LucidaGrande-Bold"
       fontColor="#b74139"
       textAlignment="1"
-      fillColor="#fce5dd">
+      fillColor="#fce5dd"
+      type="1">
     <features
         name="lineAlpha"
         value="0"/>
@@ -100,7 +101,8 @@
       font="1|Lucida Grande|12.0|1|COCOA|1|LucidaGrande-Bold"
       fontColor="#6c2a59"
       textAlignment="1"
-      fillColor="#e6dce2">
+      fillColor="#e6dce2"
+      type="1">
     <features
         name="lineAlpha"
         value="0"/>
@@ -215,7 +217,8 @@
       font="1|Lucida Grande|12.0|1|COCOA|1|LucidaGrande-Bold"
       fontColor="#786156"
       textAlignment="1"
-      fillColor="#ebe0d8">
+      fillColor="#ebe0d8"
+      type="1">
     <features
         name="lineAlpha"
         value="0"/>
@@ -330,7 +333,8 @@
       font="1|Lucida Grande|12.0|1|COCOA|1|LucidaGrande-Bold"
       fontColor="#db9c51"
       textAlignment="1"
-      fillColor="#fff1e3">
+      fillColor="#fff1e3"
+      type="1">
     <features
         name="lineAlpha"
         value="0"/>
@@ -421,7 +425,8 @@
       font="1|Lucida Grande|12.0|1|COCOA|1|LucidaGrande-Bold"
       fontColor="#587d4b"
       textAlignment="1"
-      fillColor="#e5e9df">
+      fillColor="#e5e9df"
+      type="1">
     <features
         name="lineAlpha"
         value="0"/>
@@ -512,7 +517,8 @@
       font="1|Lucida Grande|12.0|1|COCOA|1|LucidaGrande-Bold"
       fontColor="#568c99"
       textAlignment="1"
-      fillColor="#e6edef">
+      fillColor="#e6edef"
+      type="1">
     <features
         name="lineAlpha"
         value="0"/>
@@ -627,7 +633,8 @@
       font="1|Lucida Grande|12.0|1|COCOA|1|LucidaGrande-Bold"
       fontColor="#8cb762"
       textAlignment="1"
-      fillColor="#edf7e9">
+      fillColor="#edf7e9"
+      type="1">
     <features
         name="lineAlpha"
         value="0"/>
@@ -718,7 +725,8 @@
       font="1|Lucida Grande|12.0|1|COCOA|1|LucidaGrande-Bold"
       fontColor="#a14a74"
       textAlignment="1"
-      fillColor="#f3e6e9">
+      fillColor="#f3e6e9"
+      type="1">
     <features
         name="lineAlpha"
         value="0"/>
@@ -833,7 +841,8 @@
       font="1|Lucida Grande|12.0|1|COCOA|1|LucidaGrande-Bold"
       fontColor="#35573d"
       textAlignment="1"
-      fillColor="#dee0dc">
+      fillColor="#dee0dc"
+      type="1">
     <features
         name="lineAlpha"
         value="0"/>
@@ -948,7 +957,8 @@
       font="1|Lucida Grande|12.0|1|COCOA|1|LucidaGrande-Bold"
       fontColor="#919394"
       textAlignment="1"
-      fillColor="#edeced">
+      fillColor="#edeced"
+      type="1">
     <features
         name="lineAlpha"
         value="0"/>
@@ -1135,7 +1145,8 @@
       font="1|Lucida Grande|12.0|1|COCOA|1|LucidaGrande-Bold"
       fontColor="#2a467b"
       textAlignment="1"
-      fillColor="#dfe0e9">
+      fillColor="#dfe0e9"
+      type="1">
     <features
         name="lineAlpha"
         value="0"/>
@@ -1202,7 +1213,8 @@
       font="1|Lucida Grande|12.0|1|COCOA|1|LucidaGrande-Bold"
       fontColor="#6095ca"
       textAlignment="1"
-      fillColor="#e8effa">
+      fillColor="#e8effa"
+      type="1">
     <features
         name="lineAlpha"
         value="0"/>
@@ -1269,7 +1281,8 @@
       font="1|Lucida Grande|12.0|1|COCOA|1|LucidaGrande-Bold"
       fontColor="#473d8b"
       textAlignment="1"
-      fillColor="#e3e2f1">
+      fillColor="#e3e2f1"
+      type="1">
     <features
         name="lineAlpha"
         value="0"/>

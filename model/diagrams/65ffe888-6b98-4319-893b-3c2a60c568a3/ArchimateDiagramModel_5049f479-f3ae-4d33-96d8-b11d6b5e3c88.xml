@@ -313,4 +313,15 @@
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_7d858ded-5974-4bbd-8aec-ae7664ea97f3.xml#7d858ded-5974-4bbd-8aec-ae7664ea97f3"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-6010c475a54c44a2af32f36b7446baa8"
+      textAlignment="1"
+      content="Test">
+    <bounds
+        x="117"
+        y="381"
+        width="185"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>
