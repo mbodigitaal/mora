@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Planning- en roostersysteem"
+    name="Roostersysteem"
     id="id-b5ce641230a746c98bcffda6ae6ca528"
     documentation="Een systeem dat het maken van roosters ondersteunt op basis van beschikbaarheid van mensen en middelen en de leerroutes van de studenten.&#xD;&#xA;&#xD;&#xA;Bijvoorbeeld:&#xD;&#xA;&#x9;&#xD;&#xA;GPUntis&#xD;&#xA;Xedule">
   <properties
