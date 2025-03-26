@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Leertaak"
     id="81bb33e3-21ee-418d-9cd1-918c90c4e989"
-    documentation="De leertaak is de onderwijsactiviteit waarin de student kennis en/of vaardigheden verwerft. &#xD;&#xA;&#xD;&#xA;Leertaken zijn onder te verdelen in: &#xD;&#xA;* theoretische leertaken&#xD;&#xA;* praktische leertaken&#xD;&#xA;* zelfstudie leertaken&#xD;&#xA;* BPV-leertaken&#xD;&#xA;">
+    documentation="De lesstof en opdrachten waarin de student kennis en/of vaardigheden verwerft, die een student opleiden voor het examen of andere vorm van validatie van een opleidingsonderdeel, en die een student moet beheersen en hebben laten zien als voorwaarde om voor het opleidingsonderdeel te (mogen) slagen.&#xD;&#xA;Leertaken kunnen van toepassing zijn op meerdere opleidingsonderdelen.">
   <properties
       key="Beschikbaarheid"
       value="Laag"/>
