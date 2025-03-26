@@ -1,12 +1,12 @@
-<archimate:AggregationRelationship
+<archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="bevat"
-    id="id-7ced5f30fe63415ba6d59978c68096e3">
+    name="Is beschreven in"
+    id="id-4d8e73e551544e10a880c0b648f6c0da">
   <source
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_803a3bcd-098f-482c-9fcc-5734e445f3e1.xml#803a3bcd-098f-482c-9fcc-5734e445f3e1"/>
   <target
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-4c3403108739418988e7b97b336dc6b2.xml#id-4c3403108739418988e7b97b336dc6b2"/>
-</archimate:AggregationRelationship>
+      href="BusinessObject_id-636dc5f45ffc431ebd855bcd9340a0b6.xml#id-636dc5f45ffc431ebd855bcd9340a0b6"/>
+</archimate:AssociationRelationship>

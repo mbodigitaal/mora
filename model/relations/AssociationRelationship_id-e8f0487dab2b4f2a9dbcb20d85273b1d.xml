@@ -1,12 +1,12 @@
-<archimate:AggregationRelationship
+<archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="bestaat uit"
-    id="id-62b7717cf0a14f35aeb6b338e84cbf0d">
+    name="wordt gepland in"
+    id="id-e8f0487dab2b4f2a9dbcb20d85273b1d">
   <source
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_31e03ae4-8615-4d5d-84d5-8c6060530b88.xml#31e03ae4-8615-4d5d-84d5-8c6060530b88"/>
   <target
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-d4494540b7cf466da4ca7352d6ef9eb1.xml#id-d4494540b7cf466da4ca7352d6ef9eb1"/>
-</archimate:AggregationRelationship>
+</archimate:AssociationRelationship>
