@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Summatieve resultaat structuur"
     id="id-5dee25def74a41e1b2294494017fd046"
-    documentation="Structuur waarin summatieve resultaten gestructureerd kunnen worden vastgelegd zodat op basis daarvan de voortgang gevolgd kan worden m.b.t. diplomering. In de summatieve resultaatstructuur worden examenonderdelen en examens vastgelegd. ">
+    documentation="Structuur voor de geordende vastlegging van summatieve resultaten bij een onderwijsprogramma.&#xD;&#xA;&#xD;&#xA;Een summatieve resultaatstructuur bestaat uit een aantal examens of examenonderdelen waarvan de summatieve resultaten kunnen worden vastgelegd en een berekeningswijze om tot een eindresultaat voor het onderwijsprogramma als geheel te komen.&#xD;&#xA;">
   <properties
       key="Beschikbaarheid"
       value="Laag"/>

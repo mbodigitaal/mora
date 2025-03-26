@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Leslocatie"
     id="id-40b9b73698354de196087b2ef745bd58"
-    documentation="De leertaak wordt op een bepaalde locatie uitgevoerd, vaak samenhangend met de aard van de leertaak. Bij leslocatie kan gedacht worden aan een specifiek lokaal op een onderwijslocatie, maar ook aan een online omgeving of op het BPV-bedrijf. &#xD;&#xA;">
+    documentation="De leeractiviteit wordt op een bepaalde locatie uitgevoerd, vaak samenhangend met de aard van de leertaken die uitgevoerd moeten kunnen worden. Bij leslocatie kan gedacht worden aan een specifiek lokaal op een onderwijslocatie, maar ook aan een online omgeving of op het BPV-bedrijf.&#xD;&#xA;">
   <properties
       key="Beschikbaarheid"
       value="Midden"/>

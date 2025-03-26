@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Formatief resultaat"
-    id="id-6a4a4bd9a219452295bcf8eeacb99aed"/>
+    id="id-6a4a4bd9a219452295bcf8eeacb99aed"
+    documentation="Een waardering die de student informatie geeft over de kwaliteit en voortgang van zijn of haar leren, maar niet meetelt voor de uiteindelijke kwalificering. Formatieve resultaten worden vastgelegd conform de formatieve resultaatstructuur. Formatieve resultaten worden ook wel toetsresultaten genoemd.&#xD;&#xA;"/>

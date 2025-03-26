@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Summatieve beoordeling"
     id="id-b7eee02a645f4d62bc01cf0e30562e33"
-    documentation="De beoordeling van summatief gemaakt werk. De BPV-beoordeling is een vorm van examenbeoordeling.&#xD;&#xA;">
+    documentation="De beoordeling van summatief gemaakt werk, zoals de beoordeling van een examen of een BPV-beoordeling.">
   <properties
       key="Beschikbaarheid"
       value="Laag"/>
