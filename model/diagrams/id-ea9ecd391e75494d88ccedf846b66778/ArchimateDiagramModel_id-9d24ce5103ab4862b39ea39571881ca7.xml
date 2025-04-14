@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Applicaties en koppelvlakken Flexibilisering"
-    id="id-9d24ce5103ab4862b39ea39571881ca7">
+    id="id-9d24ce5103ab4862b39ea39571881ca7"
+    documentation="View voor de thema-pagina Flexibel onderwijs">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0f678dd690c54d8da1bf6c79576b7b9e"
