@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Afhandelen niet planbare leerroutes"
     id="c144899a-a21a-410f-8ff3-42747618ca09"
-    documentation="Het kan voorkomen dat leerroutes (of delen ervan) ‘niet planbaar’ zijn doordat te weinig studenten hiervoor kiezen, er te weinig middelen beschikbaar zijn of omdat de gestelde randvoorwaarden door de student fricties opleveren met de randvoorwaarden van een opleidingsonderdeel of leertaak. Deze leerroutes zijn niet, of niet geheel in het rooster opgenomen.&#xD;&#xA;&#xD;&#xA;Er wordt een oplossing gezocht voor de niet geplande leerroutes, al dan niet met aanpassing van de leervraag of de leerroute door bijvoorbeeld het kiezen van alternatieve opleidingsonderdelen of leertaken die in een komende periode wel worden aangeboden. ">
+    documentation="Het kan voorkomen dat leerroutes (of delen ervan) ‘niet planbaar’ zijn doordat te weinig studenten hiervoor kiezen, er te weinig middelen beschikbaar zijn of omdat de gestelde randvoorwaarden door de student fricties opleveren met de randvoorwaarden van een opleidingsonderdeel of leertaak. Deze leerroutes zijn niet, of niet geheel in het rooster opgenomen.&#xD;&#xA;&#xD;&#xA;Er wordt een oplossing gezocht voor de niet geplande leerroutes, al dan niet met aanpassing van de leervraag of de leerroute door bijvoorbeeld het kiezen van alternatieve opleidingsonderdelen of leeractiviteiten die in een komende periode wel worden aangeboden. ">
   <properties
       key="Input"
       value="Niet-planbare arrangementen (gekozen leerroutes)"/>

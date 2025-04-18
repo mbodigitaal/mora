@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Analyseren werkverdeling"
     id="65e38ea7-e79b-4aab-a91e-0f4684918cab"
-    documentation="Op basis van de inschatting van het aantal toekomsige studenten en onderwijs wordt een analyse gemaakt voor de werkverdeling. Deze analyse weergeeft de inzet van de medewerkers ten opzichte van de verwachte onderwijsvraag.&#xD;&#xA;&#xD;&#xA;Dit kan leiden tot:&#xD;&#xA;&#xD;&#xA;* Wijzigingen in het personeelsbestand&#xD;&#xA;* Wijzigingen in het onderwijsaanbod&#xD;&#xA;* Wijzigingen in de clustering van leertaken&#xD;&#xA;* Wijzigingen in de jaarplanning&#xD;&#xA;&#xD;&#xA;Deze analyse voedt en kent een wisselwerking met de jaarplanning.&#xD;&#xA;">
+    documentation="Op basis van de inschatting van het aantal toekomstige studenten en onderwijs wordt een analyse gemaakt voor de werkverdeling. Deze analyse toont de inzet van de medewerkers ten opzichte van de verwachte onderwijsvraag.&#xD;&#xA;&#xD;&#xA;Dit kan leiden tot:&#xD;&#xA;&#xD;&#xA;* Wijzigingen in het personeelsbestand&#xD;&#xA;* Wijzigingen in het onderwijsaanbod&#xD;&#xA;* Wijzigingen in de clustering van leertaken&#xD;&#xA;* Wijzigingen in de jaarplanning&#xD;&#xA;&#xD;&#xA;Deze analyse voedt en kent een wisselwerking met de jaarplanning.&#xD;&#xA;">
   <properties
       key="Input"
       value="Schatting onderwijs en studenten"/>

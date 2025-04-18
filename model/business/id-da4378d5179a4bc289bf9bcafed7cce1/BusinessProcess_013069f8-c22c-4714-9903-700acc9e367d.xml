@@ -5,10 +5,10 @@
     documentation="In het gepubliceerde rooster kunnen leeractiviteiten zijn geroosterd waarvoor studenten zich kunnen aanmelden. Dit kan onderdeel zijn van hun persoonlijke leerroute.&#xD;&#xA;&#xD;&#xA;De student moet zich actief aanmelden voor zo'n geroosterde leeractiviteit, bijvoorbeeld omdat er een maximum aantal studenten kan worden toegelaten, of omdat studenten aan bepaalde voorwaarden moeten voldoen.&#xD;&#xA;">
   <properties
       key="Input"
-      value="Gepubliceerd rooster, waarin modules zijn opgenomen waarvoor studenten zich kunnen aanmelden"/>
+      value="Gepubliceerd rooster, waarin leeractiviteiten zijn opgenomen waarvoor studenten zich kunnen aanmelden"/>
   <properties
       key="Output"
-      value="Aanmelding voor een (keuze)module"/>
+      value="Aanmelding voor een leeractiviteit"/>
   <properties
       key="Proces"
       value="De student meldt zich aan voor een (keuze)module in het rooster"/>

@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Planning"
     id="id-86dfcf78aae644fd80bcfd321bdc46c6"
-    documentation="De gemaakte planning op basis van:&#xD;&#xA;* het beoogde onderwijsaanbod&#xD;&#xA;* de schatting van het onderwijs en studenten&#xD;&#xA;* de meerjarenplanning en het jaarplan uit het roosterproces&#xD;&#xA;* de analyse van de werkverdeling&#xD;&#xA;* de analyse van de faciliteiten&#xD;&#xA;* de clustering van leertaken&#xD;&#xA;&#xD;&#xA;In de planning wordt rekening gehouden met:&#xD;&#xA;* afspraken die voortvloeien uit de onderwijswetgeving (urennorm)&#xD;&#xA;* afspraken die voortvloeien uit de CAO MBO&#xD;&#xA;* afspraken die voortvloeien uit de OER&#xD;&#xA;* de inhoud van de curricula&#xD;&#xA;">
+    documentation="De gemaakte planning op basis van:&#xD;&#xA;* het beoogde onderwijsaanbod&#xD;&#xA;* de schatting van het onderwijs en studenten&#xD;&#xA;* de meerjarenplanning en het jaarplan uit het roosterproces&#xD;&#xA;* de analyse van de werkverdeling&#xD;&#xA;* de analyse van de faciliteiten&#xD;&#xA;* de clustering van leertaken in leeractiviteiten&#xD;&#xA;&#xD;&#xA;In de planning wordt rekening gehouden met:&#xD;&#xA;* afspraken die voortvloeien uit de onderwijswetgeving (urennorm)&#xD;&#xA;* afspraken die voortvloeien uit de CAO MBO&#xD;&#xA;* afspraken die voortvloeien uit de OER&#xD;&#xA;* de inhoud van de curricula&#xD;&#xA;">
   <properties
       key="Beschikbaarheid"
       value="Laag"/>
